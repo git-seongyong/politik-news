@@ -105,6 +105,13 @@
     "dateStr": "Fri, 29 May 2026 08:29:05 GMT"
   },
   {
+    "dept": "fsc",
+    "title": "새도약기금, 장기연체 9602억 추가 매입…누적 수혜자 75만 명",
+    "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965472&call_from=rsslink",
+    "date": 1780042560000,
+    "dateStr": "Fri, 29 May 2026 08:16:00 GMT"
+  },
+  {
     "dept": "motir",
     "title": "해외 진출 기업, '유턴' 문턱 낮춰 국내 복귀·지방 투자 유도",
     "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965432&call_from=rsslink",
@@ -159,6 +166,13 @@
     "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965450&call_from=rsslink",
     "date": 1780038660000,
     "dateStr": "Fri, 29 May 2026 07:11:00 GMT"
+  },
+  {
+    "dept": "fsc",
+    "title": "생산적 분야로의 자금공급 유도",
+    "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965425&call_from=rsslink",
+    "date": 1780033500000,
+    "dateStr": "Fri, 29 May 2026 05:45:00 GMT"
   },
   {
     "dept": "moel",
@@ -334,19 +348,5 @@
     "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764341&call_from=rsslink",
     "date": 1779980400000,
     "dateStr": "Thu, 28 May 2026 15:00:00 GMT"
-  },
-  {
-    "dept": "mofa",
-    "title": "볼리비아 전역 여행경보 상향 조정",
-    "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764148&call_from=rsslink",
-    "date": 1779961562000,
-    "dateStr": "Thu, 28 May 2026 09:46:02 GMT"
-  },
-  {
-    "dept": "mofa",
-    "title": "외교장관, 유럽의회 한반도관계대표단 면담",
-    "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764129&call_from=rsslink",
-    "date": 1779956384000,
-    "dateStr": "Thu, 28 May 2026 08:19:44 GMT"
   }
 ]
