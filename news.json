@@ -1,14 +1,7 @@
 {
-  "lastUpdated": "06.02 10:56",
+  "lastUpdated": "06.02 11:15",
   "policynews": [],
   "actually": [
-    {
-      "dept": "fsc",
-      "title": "금융위 \"1천만원 이상 가상자산 이전거래 보고의무, 합리적 대안 검토 중\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965557&call_from=rsslink",
-      "date": 1780292400000,
-      "dateStr": "Mon, 01 Jun 2026 05:40:00 GMT"
-    },
     {
       "dept": "mofe",
       "title": "(보도설명) 법인용 전기차에 대한 감가상각비 비용처리 인정 한도 상향은 결정된 바 없습니다.",
@@ -31,25 +24,39 @@
       "dateStr": "Fri, 29 May 2026 07:59:16 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"국민성장펀드 업스테이지 심의 및 승인, 공정한 절차에 따라 독립적으로 이뤄져\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965306&call_from=rsslink",
-      "date": 1779934500000,
-      "dateStr": "Thu, 28 May 2026 02:15:00 GMT"
+      "dept": "mpb",
+      "title": "(보도설명) 지방교육재정교부금 개편방식에 대해서는 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965383&call_from=rsslink",
+      "date": 1780016109000,
+      "dateStr": "Fri, 29 May 2026 00:55:09 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"금융회사 지배구조 개선안 확정된 바 없어\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965224&call_from=rsslink",
-      "date": 1779866100000,
-      "dateStr": "Wed, 27 May 2026 07:15:00 GMT"
+      "dept": "moel",
+      "title": "(설명) 서울신문, &quot;대폐업 시대, 일터기본법으로는 멈출 수 없다(논설)&quot; 기사 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965379&call_from=rsslink",
+      "date": 1780013511000,
+      "dateStr": "Fri, 29 May 2026 00:11:51 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"포용금융 전략추진단 검토과제 확정된 바 없어\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965057&call_from=rsslink",
-      "date": 1779772020000,
-      "dateStr": "Tue, 26 May 2026 05:07:00 GMT"
+      "dept": "moel",
+      "title": "(설명) 매일경제, &quot;[사설] 뉴노멀된 '성과급 파업'... 그 길 튼 노봉법 놔둘건가&quot; 기사 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965378&call_from=rsslink",
+      "date": 1780011991000,
+      "dateStr": "Thu, 28 May 2026 23:46:31 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "(설명) 한국경제, &quot;[사설] '사회연대임금' 화두 띄운 노동부, 기업에 강제할 일 아니다.&quot; 기사 등 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965319&call_from=rsslink",
+      "date": 1779943833000,
+      "dateStr": "Thu, 28 May 2026 04:50:33 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "(설명) 한국경제, &quot;한시간짜리 대타 매번 어떻게 구하나&quot;, 시간 단위 연차 도입에 차&middot;건설업계 '비상' 기사 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965205&call_from=rsslink",
+      "date": 1779857530000,
+      "dateStr": "Wed, 27 May 2026 04:52:10 GMT"
     },
     {
       "dept": "mofe",
@@ -66,13 +73,6 @@
       "dateStr": "Mon, 25 May 2026 13:47:54 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"홍콩 H지수 ELS 불완전판매 과징금 규모 향후 결정\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964893&call_from=rsslink",
-      "date": 1779427020000,
-      "dateStr": "Fri, 22 May 2026 05:17:00 GMT"
-    },
-    {
       "dept": "mofe",
       "title": "(보도설명) 전략수출금융기금과 관련한 구체적인 규모 등은 확정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964910&call_from=rsslink",
@@ -87,18 +87,25 @@
       "dateStr": "Thu, 21 May 2026 11:18:13 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"서민·취약계층 재기 지원 위해 종합적 지원체계 구축·운영\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964644&call_from=rsslink",
-      "date": 1779238200000,
-      "dateStr": "Wed, 20 May 2026 00:50:00 GMT"
+      "dept": "mpb",
+      "title": "(보도설명) 국부펀드의 구체적 재원 조성 방안 및 투자대상 등은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964903&call_from=rsslink",
+      "date": 1779360191000,
+      "dateStr": "Thu, 21 May 2026 10:43:11 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"정책서민금융 상품 통합 플랫폼 구축 등 확정된 바 없어\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964556&call_from=rsslink",
-      "date": 1779151140000,
-      "dateStr": "Tue, 19 May 2026 00:39:00 GMT"
+      "dept": "opm",
+      "title": "[보도설명자료] 「검찰개혁 놓고 이견 팽팽...법무부&middot;추진단 잇단 충돌(5.15 서울경제)」 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964486&call_from=rsslink",
+      "date": 1778770800000,
+      "dateStr": "Thu, 14 May 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "(보도설명) '햇빛소득' 협동조합 법인세 감면에 대해서는 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964044&call_from=rsslink",
+      "date": 1778162529000,
+      "dateStr": "Thu, 07 May 2026 14:02:09 GMT"
     }
   ],
   "pressrelease": []
