@@ -1,14 +1,7 @@
 {
-  "lastUpdated": "06.02 10:23",
+  "lastUpdated": "06.02 10:46",
   "policynews": [],
   "actually": [
-    {
-      "dept": "fsc",
-      "title": "금융위 \"1천만원 이상 가상자산 이전거래 보고의무, 합리적 대안 검토 중\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965557&call_from=rsslink",
-      "date": 1780292400000,
-      "dateStr": "Mon, 01 Jun 2026 05:40:00 GMT"
-    },
     {
       "dept": "motir",
       "title": "(설명자료)반도체특별법 시행령 내용은 아직 결정된 바 없습니다",
@@ -45,32 +38,11 @@
       "dateStr": "Thu, 28 May 2026 04:50:33 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"국민성장펀드 업스테이지 심의 및 승인, 공정한 절차에 따라 독립적으로 이뤄져\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965306&call_from=rsslink",
-      "date": 1779934500000,
-      "dateStr": "Thu, 28 May 2026 02:15:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "금융위 \"금융회사 지배구조 개선안 확정된 바 없어\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965224&call_from=rsslink",
-      "date": 1779866100000,
-      "dateStr": "Wed, 27 May 2026 07:15:00 GMT"
-    },
-    {
       "dept": "moel",
       "title": "(설명) 한국경제, &quot;한시간짜리 대타 매번 어떻게 구하나&quot;, 시간 단위 연차 도입에 차&middot;건설업계 '비상' 기사 관련",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965205&call_from=rsslink",
       "date": 1779857530000,
       "dateStr": "Wed, 27 May 2026 04:52:10 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "금융위 \"포용금융 전략추진단 검토과제 확정된 바 없어\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965057&call_from=rsslink",
-      "date": 1779772020000,
-      "dateStr": "Tue, 26 May 2026 05:07:00 GMT"
     },
     {
       "dept": "mofa",
@@ -80,32 +52,11 @@
       "dateStr": "Fri, 22 May 2026 08:22:07 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"홍콩 H지수 ELS 불완전판매 과징금 규모 향후 결정\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964893&call_from=rsslink",
-      "date": 1779427020000,
-      "dateStr": "Fri, 22 May 2026 05:17:00 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "(보도설명) 국부펀드의 구체적 재원 조성 방안 및 투자대상 등은 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964903&call_from=rsslink",
       "date": 1779360191000,
       "dateStr": "Thu, 21 May 2026 10:43:11 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "금융위 \"서민·취약계층 재기 지원 위해 종합적 지원체계 구축·운영\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964644&call_from=rsslink",
-      "date": 1779238200000,
-      "dateStr": "Wed, 20 May 2026 00:50:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "금융위 \"정책서민금융 상품 통합 플랫폼 구축 등 확정된 바 없어\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964556&call_from=rsslink",
-      "date": 1779151140000,
-      "dateStr": "Tue, 19 May 2026 00:39:00 GMT"
     },
     {
       "dept": "opm",
