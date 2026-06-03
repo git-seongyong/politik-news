@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.04 02:45",
+  "lastUpdated": "06.04 03:15",
   "policynews": [
     {
       "dept": "opm",
@@ -28,6 +28,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965679&call_from=rsslink",
       "date": 1780375740000,
       "dateStr": "Tue, 02 Jun 2026 04:49:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "제5차 협동조합 기본계획 수립",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965641&call_from=rsslink",
+      "date": 1780364880000,
+      "dateStr": "Tue, 02 Jun 2026 01:48:00 GMT"
     },
     {
       "dept": "mofe",
@@ -91,6 +98,20 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965555&call_from=rsslink",
       "date": 1780290720000,
       "dateStr": "Mon, 01 Jun 2026 05:12:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "대한민국 탄소중립 제도 기반 강화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965538&call_from=rsslink",
+      "date": 1780289640000,
+      "dateStr": "Mon, 01 Jun 2026 04:54:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "예산 편성의 자율·책임·투명성 강화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965535&call_from=rsslink",
+      "date": 1780287420000,
+      "dateStr": "Mon, 01 Jun 2026 04:17:00 GMT"
     },
     {
       "dept": "moel",
@@ -170,6 +191,13 @@
       "dateStr": "Fri, 29 May 2026 05:11:00 GMT"
     },
     {
+      "dept": "mpb",
+      "title": "「대한민국 2045전략수립위원회」 출범",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965413&call_from=rsslink",
+      "date": 1780030920000,
+      "dateStr": "Fri, 29 May 2026 05:02:00 GMT"
+    },
+    {
       "dept": "motir",
       "title": "위기는 철저히 관리, 성장 기회는 과감히 선점",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965400&call_from=rsslink",
@@ -238,6 +266,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965307&call_from=rsslink",
       "date": 1779943800000,
       "dateStr": "Thu, 28 May 2026 04:50:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "「대한민국 2045전략수립위원회」출범",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965302&call_from=rsslink",
+      "date": 1779933720000,
+      "dateStr": "Thu, 28 May 2026 02:02:00 GMT"
     },
     {
       "dept": "moel",
@@ -315,44 +350,16 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965200&call_from=rsslink",
       "date": 1779858180000,
       "dateStr": "Wed, 27 May 2026 05:03:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "단일종목 레버리지 ETF 27일 출시…금융당국, '각별한 주의' 필요",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965098&call_from=rsslink",
-      "date": 1779780000000,
-      "dateStr": "Tue, 26 May 2026 07:20:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "주가조작·회계부정, 신고포상금 지급상한 폐지",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965113&call_from=rsslink",
-      "date": 1779777900000,
-      "dateStr": "Tue, 26 May 2026 06:45:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "새도약기금 출범, 장기 연체자 재기 지원",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965104&call_from=rsslink",
-      "date": 1779773820000,
-      "dateStr": "Tue, 26 May 2026 05:37:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "체납자 해외은닉재산 세금 339억 환수",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965095&call_from=rsslink",
-      "date": 1779771480000,
-      "dateStr": "Tue, 26 May 2026 04:58:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "지역경제 활성화를 위한 경제지표 제공",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965094&call_from=rsslink",
-      "date": 1779771120000,
-      "dateStr": "Tue, 26 May 2026 04:52:00 GMT"
     }
   ],
   "actually": [
+    {
+      "dept": "mpb",
+      "title": "국부펀드의 명칭, 재원, 규모 등 구체적인 설립방안은 전혀 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965710&call_from=rsslink",
+      "date": 1780382441000,
+      "dateStr": "Tue, 02 Jun 2026 06:40:41 GMT"
+    },
     {
       "dept": "mofe",
       "title": "(보도설명) 국부펀드의 명칭, 재원, 규모 등 구체적인 설립방안은 전혀 결정된 바 없습니다.",
@@ -394,6 +401,13 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965475&call_from=rsslink",
       "date": 1780041556000,
       "dateStr": "Fri, 29 May 2026 07:59:16 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "(보도설명) 지방교육재정교부금 개편방식에 대해서는 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965383&call_from=rsslink",
+      "date": 1780016109000,
+      "dateStr": "Fri, 29 May 2026 00:55:09 GMT"
     },
     {
       "dept": "moel",
@@ -485,6 +499,13 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964904&call_from=rsslink",
       "date": 1779362293000,
       "dateStr": "Thu, 21 May 2026 11:18:13 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "(보도설명) 국부펀드의 구체적 재원 조성 방안 및 투자대상 등은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964903&call_from=rsslink",
+      "date": 1779360191000,
+      "dateStr": "Thu, 21 May 2026 10:43:11 GMT"
     },
     {
       "dept": "fsc",
