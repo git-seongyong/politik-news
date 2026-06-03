@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.03 15:15",
+  "lastUpdated": "06.03 15:45",
   "policynews": [
     {
       "dept": "opm",
@@ -56,6 +56,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965583&call_from=rsslink",
       "date": 1780295040000,
       "dateStr": "Mon, 01 Jun 2026 06:24:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "국세청-서울대학교 업무협약 MOU 체결",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965582&call_from=rsslink",
+      "date": 1780294920000,
+      "dateStr": "Mon, 01 Jun 2026 06:22:00 GMT"
     },
     {
       "dept": "moel",
@@ -303,6 +310,27 @@
       "dateStr": "Wed, 27 May 2026 01:40:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "체납자 해외은닉재산 세금 339억 환수",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965095&call_from=rsslink",
+      "date": 1779771480000,
+      "dateStr": "Tue, 26 May 2026 04:58:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "지역경제 활성화를 위한 경제지표 제공",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965094&call_from=rsslink",
+      "date": 1779771120000,
+      "dateStr": "Tue, 26 May 2026 04:52:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "민생경제 회복을 위한 소상공인 세정지원",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965092&call_from=rsslink",
+      "date": 1779771060000,
+      "dateStr": "Tue, 26 May 2026 04:51:00 GMT"
+    },
+    {
       "dept": "opm",
       "title": "국민이 만든 대전환의 길…국민주권정부 1주년 성과자료집 발간",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965079&call_from=rsslink",
@@ -322,34 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965062&call_from=rsslink",
       "date": 1779760560000,
       "dateStr": "Tue, 26 May 2026 01:56:00 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-미 관세 협상 타결 등 국익 최우선 통상",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965060&call_from=rsslink",
-      "date": 1779759780000,
-      "dateStr": "Tue, 26 May 2026 01:43:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "스쿨존 속도규제 합리화 등 국가정상화 프로젝트 164개 확정",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965011&call_from=rsslink",
-      "date": 1779440160000,
-      "dateStr": "Fri, 22 May 2026 08:56:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "이재명 정부 출범 1주년, 국정과제 추진현황 및 성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964963&call_from=rsslink",
-      "date": 1779426600000,
-      "dateStr": "Fri, 22 May 2026 05:10:00 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "6차 석유 최고가격도 동결…조정 주기 2주→4주로",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964961&call_from=rsslink",
-      "date": 1779425640000,
-      "dateStr": "Fri, 22 May 2026 04:54:00 GMT"
     }
   ],
   "actually": [
