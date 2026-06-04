@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.05 07:15",
+  "lastUpdated": "06.05 07:45",
   "policynews": [
+    {
+      "dept": "opm",
+      "title": "4년간 지방정부를 이끌어갈 지역 일꾼들이 새롭게 선출됐습니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965896&call_from=rsslink",
+      "date": 1780564980000,
+      "dateStr": "Thu, 04 Jun 2026 09:23:00 GMT"
+    },
     {
       "dept": "opm",
       "title": "정부, 5년간 2조 규모 공공수요 창출…'K-드론' 시대 연다",
@@ -112,13 +119,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965583&call_from=rsslink",
       "date": 1780295040000,
       "dateStr": "Mon, 01 Jun 2026 06:24:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국세청-서울대학교 업무협약 MOU 체결",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965582&call_from=rsslink",
-      "date": 1780294920000,
-      "dateStr": "Mon, 01 Jun 2026 06:22:00 GMT"
     },
     {
       "dept": "moel",
@@ -483,6 +483,13 @@
   "pressrelease": [
     {
       "dept": "mofa",
+      "title": "대한민국, 2027-29년 임기 유엔 경제사회이사회(ECOSOC) 이사국 당선",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765236&call_from=rsslink",
+      "date": 1780610400000,
+      "dateStr": "Thu, 04 Jun 2026 22:00:00 GMT"
+    },
+    {
+      "dept": "mofa",
       "title": "한-튀르키예 외교장관회담(6.4.) 결과",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765206&call_from=rsslink",
       "date": 1780565582000,
@@ -823,13 +830,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764878&call_from=rsslink",
       "date": 1780362242000,
       "dateStr": "Tue, 02 Jun 2026 01:04:02 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "우리나라, 2026년 제48차 남극조약협의당사국회의 참석",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764873&call_from=rsslink",
-      "date": 1780361996000,
-      "dateStr": "Tue, 02 Jun 2026 00:59:56 GMT"
     }
   ]
 }
