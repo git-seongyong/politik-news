@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.06 05:45",
+  "lastUpdated": "06.06 06:15",
   "policynews": [
     {
       "dept": "motir",
@@ -28,13 +28,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965955&call_from=rsslink",
       "date": 1780637340000,
       "dateStr": "Fri, 05 Jun 2026 05:29:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "적극행정이 지켜낸 51가구의 꿈과 희망!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965928&call_from=rsslink",
-      "date": 1780634460000,
-      "dateStr": "Fri, 05 Jun 2026 04:41:00 GMT"
     },
     {
       "dept": "mpb",
@@ -121,13 +114,6 @@
       "dateStr": "Tue, 02 Jun 2026 06:18:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "복잡한 법인세 공제·감면, 우리 중소기업도 받을 수 있을까?",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965699&call_from=rsslink",
-      "date": 1780379940000,
-      "dateStr": "Tue, 02 Jun 2026 05:59:00 GMT"
-    },
-    {
       "dept": "fsc",
       "title": "불법사금융·보이스피싱 등 민생침해범죄 강력 대응",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965679&call_from=rsslink",
@@ -156,32 +142,11 @@
       "dateStr": "Mon, 01 Jun 2026 07:27:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "법인 슈퍼카 탈세 근절!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965599&call_from=rsslink",
-      "date": 1780298580000,
-      "dateStr": "Mon, 01 Jun 2026 07:23:00 GMT"
-    },
-    {
       "dept": "fsc",
       "title": "청년미래적금 최대 7~8% 수준 금리 제공",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965598&call_from=rsslink",
       "date": 1780298460000,
       "dateStr": "Mon, 01 Jun 2026 07:21:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "폭리, 탈세는 끝까지 환수하겠습니다",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965583&call_from=rsslink",
-      "date": 1780295040000,
-      "dateStr": "Mon, 01 Jun 2026 06:24:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국세청-서울대학교 업무협약 MOU 체결",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965582&call_from=rsslink",
-      "date": 1780294920000,
-      "dateStr": "Mon, 01 Jun 2026 06:22:00 GMT"
     },
     {
       "dept": "moel",
@@ -196,13 +161,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965559&call_from=rsslink",
       "date": 1780291140000,
       "dateStr": "Mon, 01 Jun 2026 05:19:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "세무조사 패러다임 전환의 시작!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965555&call_from=rsslink",
-      "date": 1780290720000,
-      "dateStr": "Mon, 01 Jun 2026 05:12:00 GMT"
     },
     {
       "dept": "mpb",
@@ -275,20 +233,6 @@
       "dateStr": "Fri, 29 May 2026 04:50:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "'탈세 슈퍼카 멈춰!'…법인자금 사적 유용 19개사 전격 세무조사",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965325&call_from=rsslink",
-      "date": 1779955980000,
-      "dateStr": "Thu, 28 May 2026 08:13:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "연말정산 누락, 5월에 정정하세요",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965338&call_from=rsslink",
-      "date": 1779953460000,
-      "dateStr": "Thu, 28 May 2026 07:31:00 GMT"
-    },
-    {
       "dept": "mofe",
       "title": "부산 BTS 공연 대비 '바가지요금' 근절 총력…대체 숙박시설도 최대 확보",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965333&call_from=rsslink",
@@ -331,13 +275,6 @@
       "dateStr": "Thu, 28 May 2026 05:45:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "국민주권정부 출범 1주년 국세청 핵심성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965307&call_from=rsslink",
-      "date": 1779943800000,
-      "dateStr": "Thu, 28 May 2026 04:50:00 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "「대한민국 2045전략수립위원회」출범",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965302&call_from=rsslink",
@@ -350,6 +287,69 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965298&call_from=rsslink",
       "date": 1779933300000,
       "dateStr": "Thu, 28 May 2026 01:55:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "모두가 공감하고 바라는 대한민국을 그려 나가겠습니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965281&call_from=rsslink",
+      "date": 1779875400000,
+      "dateStr": "Wed, 27 May 2026 09:50:00 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "AI가 만든 튀김소보로 맛은?…성심당서 펼쳐진 M.AX 얼라이언스",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965256&call_from=rsslink",
+      "date": 1779870840000,
+      "dateStr": "Wed, 27 May 2026 08:34:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "'국가정상화', 익숙한 비정상과 결별합니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965225&call_from=rsslink",
+      "date": 1779865260000,
+      "dateStr": "Wed, 27 May 2026 07:01:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "미래 산업 성장이요? 국민과 함께 키우죠!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965209&call_from=rsslink",
+      "date": 1779862140000,
+      "dateStr": "Wed, 27 May 2026 06:09:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "지방우대금융을 통해 지방의 혁신과 성장 뒷받침",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965206&call_from=rsslink",
+      "date": 1779861720000,
+      "dateStr": "Wed, 27 May 2026 06:02:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "국민참여·지방우대 등 재정투자 체계 혁신",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965172&call_from=rsslink",
+      "date": 1779846000000,
+      "dateStr": "Wed, 27 May 2026 01:40:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "단일종목 레버리지 ETF 27일 출시…금융당국, '각별한 주의' 필요",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965098&call_from=rsslink",
+      "date": 1779780000000,
+      "dateStr": "Tue, 26 May 2026 07:20:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "주가조작·회계부정, 신고포상금 지급상한 폐지",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965113&call_from=rsslink",
+      "date": 1779777900000,
+      "dateStr": "Tue, 26 May 2026 06:45:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "새도약기금 출범, 장기 연체자 재기 지원",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965104&call_from=rsslink",
+      "date": 1779773820000,
+      "dateStr": "Tue, 26 May 2026 05:37:00 GMT"
     }
   ],
   "actually": [
@@ -538,13 +538,6 @@
       "dateStr": "Fri, 05 Jun 2026 04:13:11 GMT"
     },
     {
-      "dept": "nts",
-      "title": "국세청장, 중부청 체납관리단 현장 찾아 격려 세무서 체납관리단 준비상황도 점검",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765320&call_from=rsslink",
-      "date": 1780631100000,
-      "dateStr": "Fri, 05 Jun 2026 03:45:00 GMT"
-    },
-    {
       "dept": "opm",
       "title": "[보도자료] 조세심판원 '26년 1분기 주요 심판결정 공개",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765281&call_from=rsslink",
@@ -655,13 +648,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765170&call_from=rsslink",
       "date": 1780554164000,
       "dateStr": "Thu, 04 Jun 2026 06:22:44 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "6월은 해외자산 신고의 달 작년 보유 해외금융계좌&#xFF65;해외신탁, 국세청에 신고하세요",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765158&call_from=rsslink",
-      "date": 1780550280000,
-      "dateStr": "Thu, 04 Jun 2026 05:18:00 GMT"
     },
     {
       "dept": "motir",
@@ -844,6 +830,20 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764878&call_from=rsslink",
       "date": 1780362242000,
       "dateStr": "Tue, 02 Jun 2026 01:04:02 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "비철금속 제련 90주년,  역사의 현장에서 미래를 열다",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764851&call_from=rsslink",
+      "date": 1780358725000,
+      "dateStr": "Tue, 02 Jun 2026 00:05:25 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "(참고자료)한-캐 첨단산업협력, 단순 교역을 넘어 미래 파트너십으로 도약",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156764850&call_from=rsslink",
+      "date": 1780358673000,
+      "dateStr": "Tue, 02 Jun 2026 00:04:33 GMT"
     }
   ]
 }
