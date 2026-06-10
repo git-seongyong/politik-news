@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.10 09:15",
+  "lastUpdated": "06.10 09:45",
   "policynews": [
     {
       "dept": "nts",
@@ -119,13 +119,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965972&call_from=rsslink",
       "date": 1780643700000,
       "dateStr": "Fri, 05 Jun 2026 07:15:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "한국 경제 글로벌 위상 제고",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
-      "date": 1780638660000,
-      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
     },
     {
       "dept": "mofe",
@@ -289,13 +282,6 @@
       "dateStr": "Mon, 01 Jun 2026 06:24:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "국세청-서울대학교 업무협약 MOU 체결",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965582&call_from=rsslink",
-      "date": 1780294920000,
-      "dateStr": "Mon, 01 Jun 2026 06:22:00 GMT"
-    },
-    {
       "dept": "moel",
       "title": "함께 지원받는 육아지원 정책",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965570&call_from=rsslink",
@@ -350,6 +336,20 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965456&call_from=rsslink",
       "date": 1780039920000,
       "dateStr": "Fri, 29 May 2026 07:32:00 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "미중일 3국과 정상 외교 전면 복원 및 실질 협력 강화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965454&call_from=rsslink",
+      "date": 1780039740000,
+      "dateStr": "Fri, 29 May 2026 07:29:00 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "민주 대한민국의 국제사회 복귀와 외교의 조기 정상화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965453&call_from=rsslink",
+      "date": 1780039680000,
+      "dateStr": "Fri, 29 May 2026 07:28:00 GMT"
     }
   ],
   "actually": [
@@ -558,6 +558,27 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "mofe",
+      "title": "제269차 대외경제장관회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765871&call_from=rsslink",
+      "date": 1781050570000,
+      "dateStr": "Wed, 10 Jun 2026 00:16:10 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "'M.AX'로 여는 유통&#xFF65;물류 혁신의 미래",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765868&call_from=rsslink",
+      "date": 1781049984000,
+      "dateStr": "Wed, 10 Jun 2026 00:06:24 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "대한민국의 미래를 설계하는 엔지니어링!",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765867&call_from=rsslink",
+      "date": 1781049928000,
+      "dateStr": "Wed, 10 Jun 2026 00:05:28 GMT"
+    },
     {
       "dept": "mofa",
       "title": "외교부, 「인도네시아 언론인과의 간담회」 개최",
@@ -886,27 +907,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765462&call_from=rsslink",
       "date": 1780821960000,
       "dateStr": "Sun, 07 Jun 2026 08:46:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "허장 제2차관, 경제개발협력기구(OECD) 각료이사회 참석 및 주요 인사 면담 결과",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765460&call_from=rsslink",
-      "date": 1780758000000,
-      "dateStr": "Sat, 06 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "긴급 시장상황점검회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765461&call_from=rsslink",
-      "date": 1780758000000,
-      "dateStr": "Sat, 06 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "한-세르비아 투자보장협정 발효(6.6.)",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765423&call_from=rsslink",
-      "date": 1780696740000,
-      "dateStr": "Fri, 05 Jun 2026 21:59:00 GMT"
     }
   ]
 }
