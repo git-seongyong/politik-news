@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.10 10:15",
+  "lastUpdated": "06.10 10:45",
   "policynews": [
     {
       "dept": "nts",
@@ -240,6 +240,13 @@
       "dateStr": "Mon, 01 Jun 2026 06:24:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "국세청-서울대학교 업무협약 MOU 체결",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965582&call_from=rsslink",
+      "date": 1780294920000,
+      "dateStr": "Mon, 01 Jun 2026 06:22:00 GMT"
+    },
+    {
       "dept": "moel",
       "title": "함께 지원받는 육아지원 정책",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965570&call_from=rsslink",
@@ -343,13 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965400&call_from=rsslink",
       "date": 1780030200000,
       "dateStr": "Fri, 29 May 2026 04:50:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "'탈세 슈퍼카 멈춰!'…법인자금 사적 유용 19개사 전격 세무조사",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965325&call_from=rsslink",
-      "date": 1779955980000,
-      "dateStr": "Thu, 28 May 2026 08:13:00 GMT"
     }
   ],
   "actually": [
@@ -502,6 +502,27 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "moel",
+      "title": "청년의 일자리 출발 지원, &quot;청년뉴딜 사업&quot;에 참여하세요!",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765874&call_from=rsslink",
+      "date": 1781051915000,
+      "dateStr": "Wed, 10 Jun 2026 00:38:35 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "(참고) 김영훈 장관, 제114차 국제노동기구(ILO) 총회 계기 질베르 웅보 ILO 사무총장 면담",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765873&call_from=rsslink",
+      "date": 1781051748000,
+      "dateStr": "Wed, 10 Jun 2026 00:35:48 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "박홍근 장관, 확대거시재정금융간담회 참석",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765876&call_from=rsslink",
+      "date": 1781051689000,
+      "dateStr": "Wed, 10 Jun 2026 00:34:49 GMT"
+    },
     {
       "dept": "motir",
       "title": "'M.AX'로 여는 유통&#xFF65;물류 혁신의 미래",
@@ -830,27 +851,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765462&call_from=rsslink",
       "date": 1780821960000,
       "dateStr": "Sun, 07 Jun 2026 08:46:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "한-세르비아 투자보장협정 발효(6.6.)",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765423&call_from=rsslink",
-      "date": 1780696740000,
-      "dateStr": "Fri, 05 Jun 2026 21:59:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "유엔 레바논 평화유지군(UNIFIL)  사상자 발생 관련 대변인 성명",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765382&call_from=rsslink",
-      "date": 1780649697000,
-      "dateStr": "Fri, 05 Jun 2026 08:54:57 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "외교부, 「2026 한-중남미 미래협력 포럼」 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765362&call_from=rsslink",
-      "date": 1780645908000,
-      "dateStr": "Fri, 05 Jun 2026 07:51:48 GMT"
     }
   ]
 }
