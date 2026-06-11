@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.11 10:15",
+  "lastUpdated": "06.11 10:45",
   "policynews": [
     {
       "dept": "opm",
@@ -531,6 +531,20 @@
   ],
   "pressrelease": [
     {
+      "dept": "moel",
+      "title": "(참고) 김영훈 장관, 국제노동기구(ILO) 총회에서 &quot;사람중심 인공지능(AI) 전환&quot; 위한  국제연대와 한국의 역할 강조",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766096&call_from=rsslink",
+      "date": 1781140396000,
+      "dateStr": "Thu, 11 Jun 2026 01:13:16 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "(참고) 2026년 5월 고용동향 및 평가",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766089&call_from=rsslink",
+      "date": 1781138923000,
+      "dateStr": "Thu, 11 Jun 2026 00:48:43 GMT"
+    },
+    {
       "dept": "motir",
       "title": "(참고자료)첨단기술에서 디지털, 공급망까지, 한-EU 경제협력의 새로운 지평을 열다",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766086&call_from=rsslink",
@@ -553,8 +567,8 @@
     },
     {
       "dept": "mofe",
-      "title": "[보도참고] '26.5월 고용동향 및 평가",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766068&call_from=rsslink",
+      "title": "2026년 7월 물가연동국고채 종목별 연동계수",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766090&call_from=rsslink",
       "date": 1781103600000,
       "dateStr": "Wed, 10 Jun 2026 15:00:00 GMT"
     },
@@ -562,6 +576,13 @@
       "dept": "mofe",
       "title": "고용관계장관 간담회 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766069&call_from=rsslink",
+      "date": 1781103600000,
+      "dateStr": "Wed, 10 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "[보도참고] '26.5월 고용동향 및 평가",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766068&call_from=rsslink",
       "date": 1781103600000,
       "dateStr": "Wed, 10 Jun 2026 15:00:00 GMT"
     },
@@ -858,27 +879,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765710&call_from=rsslink",
       "date": 1780970837000,
       "dateStr": "Tue, 09 Jun 2026 02:07:17 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "철강업계, 저탄소&middot;고부가 전환으로  미래 경쟁력 확보",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765709&call_from=rsslink",
-      "date": 1780970787000,
-      "dateStr": "Tue, 09 Jun 2026 02:06:27 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "한국장애인고용공단-한국고용정보원, 인공지능(AI) 기반  장애인 고용서비스 혁신 나선다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765708&call_from=rsslink",
-      "date": 1780970625000,
-      "dateStr": "Tue, 09 Jun 2026 02:03:45 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "&quot;중장년 안전한 일자리 지원 위해  두 재단 힘 모은다&quot;",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765707&call_from=rsslink",
-      "date": 1780970576000,
-      "dateStr": "Tue, 09 Jun 2026 02:02:56 GMT"
     }
   ]
 }
