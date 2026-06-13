@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.13 21:45",
+  "lastUpdated": "06.13 22:15",
   "policynews": [
     {
       "dept": "motir",
@@ -23,25 +23,11 @@
       "dateStr": "Fri, 12 Jun 2026 05:00:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "기대를 넘어 성과로 답하는 국세행정",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966381&call_from=rsslink",
-      "date": 1781239140000,
-      "dateStr": "Fri, 12 Jun 2026 04:39:00 GMT"
-    },
-    {
       "dept": "mofa",
       "title": "미성년자 여권 재발급, 부모가 온라인 신청 가능",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966356&call_from=rsslink",
       "date": 1781168160000,
       "dateStr": "Thu, 11 Jun 2026 08:56:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "\"반사회적 탈세·체납 단호히 대응\"…국세청, 국민주권정부 1년 성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966337&call_from=rsslink",
-      "date": 1781167380000,
-      "dateStr": "Thu, 11 Jun 2026 08:43:00 GMT"
     },
     {
       "dept": "motir",
@@ -58,25 +44,11 @@
       "dateStr": "Thu, 11 Jun 2026 02:36:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "일감 몰아주기·떼어주기 증여세 6월 30일까지 신고하세요!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966253&call_from=rsslink",
-      "date": 1781077260000,
-      "dateStr": "Wed, 10 Jun 2026 07:41:00 GMT"
-    },
-    {
       "dept": "mofa",
       "title": "이재명 대통령, 유럽 순방·G7 정상회의 참석",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966235&call_from=rsslink",
       "date": 1781066640000,
       "dateStr": "Wed, 10 Jun 2026 04:44:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "직장인 자녀에게 주는 용돈, 증여세 낼까?",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966192&call_from=rsslink",
-      "date": 1781045280000,
-      "dateStr": "Tue, 09 Jun 2026 22:48:00 GMT"
     },
     {
       "dept": "mpb",
@@ -100,13 +72,6 @@
       "dateStr": "Mon, 08 Jun 2026 06:28:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "해외 특허료도 과세, 4조 원 이상의 국부유출 방지",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966069&call_from=rsslink",
-      "date": 1780894320000,
-      "dateStr": "Mon, 08 Jun 2026 04:52:00 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "지역균형성장 등 국가아젠다 뒷받침!",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966053&call_from=rsslink",
@@ -126,13 +91,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965972&call_from=rsslink",
       "date": 1780643700000,
       "dateStr": "Fri, 05 Jun 2026 07:15:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "적극행정이 지켜낸 51가구의 꿈과 희망!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965928&call_from=rsslink",
-      "date": 1780634460000,
-      "dateStr": "Fri, 05 Jun 2026 04:41:00 GMT"
     },
     {
       "dept": "mpb",
@@ -156,39 +114,11 @@
       "dateStr": "Tue, 02 Jun 2026 06:18:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "복잡한 법인세 공제·감면, 우리 중소기업도 받을 수 있을까?",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965699&call_from=rsslink",
-      "date": 1780379940000,
-      "dateStr": "Tue, 02 Jun 2026 05:59:00 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "제5차 협동조합 기본계획 수립",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965641&call_from=rsslink",
       "date": 1780364880000,
       "dateStr": "Tue, 02 Jun 2026 01:48:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "법인 슈퍼카 탈세 근절!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965599&call_from=rsslink",
-      "date": 1780298580000,
-      "dateStr": "Mon, 01 Jun 2026 07:23:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "폭리, 탈세는 끝까지 환수하겠습니다",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965583&call_from=rsslink",
-      "date": 1780295040000,
-      "dateStr": "Mon, 01 Jun 2026 06:24:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "세무조사 패러다임 전환의 시작!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965555&call_from=rsslink",
-      "date": 1780290720000,
-      "dateStr": "Mon, 01 Jun 2026 05:12:00 GMT"
     },
     {
       "dept": "mpb",
@@ -219,46 +149,11 @@
       "dateStr": "Fri, 29 May 2026 05:02:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "'탈세 슈퍼카 멈춰!'…법인자금 사적 유용 19개사 전격 세무조사",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965325&call_from=rsslink",
-      "date": 1779955980000,
-      "dateStr": "Thu, 28 May 2026 08:13:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "연말정산 누락, 5월에 정정하세요",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965338&call_from=rsslink",
-      "date": 1779953460000,
-      "dateStr": "Thu, 28 May 2026 07:31:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국민주권정부 출범 1주년 국세청 핵심성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965307&call_from=rsslink",
-      "date": 1779943800000,
-      "dateStr": "Thu, 28 May 2026 04:50:00 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "「대한민국 2045전략수립위원회」출범",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965302&call_from=rsslink",
       "date": 1779933720000,
       "dateStr": "Thu, 28 May 2026 02:02:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "연말정산 실수? 5월 중에 정정하세요!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965212&call_from=rsslink",
-      "date": 1779923940000,
-      "dateStr": "Wed, 27 May 2026 23:19:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "「국세청 미래혁신 종합방안」 발간",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965200&call_from=rsslink",
-      "date": 1779858180000,
-      "dateStr": "Wed, 27 May 2026 05:03:00 GMT"
     },
     {
       "dept": "mpb",
@@ -294,55 +189,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964719&call_from=rsslink",
       "date": 1779266520000,
       "dateStr": "Wed, 20 May 2026 08:42:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "'국민참여형 국민성장펀드' 가입…소득확인증명서 미리 챙기세요",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964712&call_from=rsslink",
-      "date": 1779262260000,
-      "dateStr": "Wed, 20 May 2026 07:31:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "연말정산 실수? 5월 중에 정정하세요!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964678&call_from=rsslink",
-      "date": 1779242160000,
-      "dateStr": "Wed, 20 May 2026 01:56:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "부동산 탈루혐의자 127명 자금형성과정 등 조사",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964628&call_from=rsslink",
-      "date": 1779175500000,
-      "dateStr": "Tue, 19 May 2026 07:25:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국민중심 세법해석 세정지원 제공",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964615&call_from=rsslink",
-      "date": 1779166740000,
-      "dateStr": "Tue, 19 May 2026 04:59:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "60년 세무조사 패러다임 대전환",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964614&call_from=rsslink",
-      "date": 1779166620000,
-      "dateStr": "Tue, 19 May 2026 04:57:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국세·국세외수입 체납관리단 기간제 근로자 모집",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964523&call_from=rsslink",
-      "date": 1779080940000,
-      "dateStr": "Mon, 18 May 2026 05:09:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "연말정산 공제 실수, 종합소득세 신고로 해결하세요!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148964416&call_from=rsslink",
-      "date": 1778810700000,
-      "dateStr": "Fri, 15 May 2026 02:05:00 GMT"
     }
   ],
   "actually": [
@@ -536,13 +382,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766189&call_from=rsslink",
       "date": 1781158565000,
       "dateStr": "Thu, 11 Jun 2026 06:16:05 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국민주권정부 2년차, &quot;국세행정 大도약으로  국민의 기대를 뛰어넘는 성과를 창출하겠습니다.&quot;",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766168&call_from=rsslink",
-      "date": 1781151720000,
-      "dateStr": "Thu, 11 Jun 2026 04:22:00 GMT"
     },
     {
       "dept": "mofa",
@@ -760,6 +599,13 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765581&call_from=rsslink",
       "date": 1780899141000,
       "dateStr": "Mon, 08 Jun 2026 06:12:21 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "급변하는 글로벌 통상환경 속에서 통상정책방향 모색, 민간 전문가와 머리 맞댄다",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765486&call_from=rsslink",
+      "date": 1780876096000,
+      "dateStr": "Sun, 07 Jun 2026 23:48:16 GMT"
     }
   ]
 }
