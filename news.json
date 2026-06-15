@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.15 14:15",
+  "lastUpdated": "06.15 14:45",
   "policynews": [
+    {
+      "dept": "motir",
+      "title": "AI·반도체 등 첨단산업 협력 강화!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966512&call_from=rsslink",
+      "date": 1781501100000,
+      "dateStr": "Mon, 15 Jun 2026 05:25:00 GMT"
+    },
     {
       "dept": "motir",
       "title": "한-EU, 경제협력 새로운 지평 연다",
@@ -37,6 +44,20 @@
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "2026년 1/4분기 GDP 잠정치 발표",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
+      "date": 1781242140000,
+      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "강제 예약 취소에 숙박비 폭등까지?",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966389&call_from=rsslink",
+      "date": 1781241360000,
+      "dateStr": "Fri, 12 Jun 2026 05:16:00 GMT"
+    },
+    {
       "dept": "nts",
       "title": "기대를 넘어 성과로 답하는 국세행정",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966381&call_from=rsslink",
@@ -65,6 +86,13 @@
       "dateStr": "Thu, 11 Jun 2026 08:43:00 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "구 부총리 \"중동발 고용여건 불확실성 확대…전 부처 총력 대응\"",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966335&call_from=rsslink",
+      "date": 1781164200000,
+      "dateStr": "Thu, 11 Jun 2026 07:50:00 GMT"
+    },
+    {
       "dept": "motir",
       "title": "한국, 유럽 첨단기업 4개 사와 1억 6500만 달러 직접투자 유치",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966325&call_from=rsslink",
@@ -79,11 +107,25 @@
       "dateStr": "Wed, 10 Jun 2026 12:28:00 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "경제수장들 \"우리 경제 양호…재정 여력, 미래 대비 투자에 활용해야\"",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966265&call_from=rsslink",
+      "date": 1781079000000,
+      "dateStr": "Wed, 10 Jun 2026 08:10:00 GMT"
+    },
+    {
       "dept": "nts",
       "title": "일감 몰아주기·떼어주기 증여세 6월 30일까지 신고하세요!",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966253&call_from=rsslink",
       "date": 1781077260000,
       "dateStr": "Wed, 10 Jun 2026 07:41:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "구 부총리 \"중동에 60억 달러 선금융 지원…인프라 전략펀드도 추진\"",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966264&call_from=rsslink",
+      "date": 1781077020000,
+      "dateStr": "Wed, 10 Jun 2026 07:37:00 GMT"
     },
     {
       "dept": "fsc",
@@ -107,11 +149,25 @@
       "dateStr": "Tue, 09 Jun 2026 08:47:00 GMT"
     },
     {
+      "dept": "mpb",
+      "title": "청년·지역인재 채용 우수기업에 정책자금 대출 금리 등 우대",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966195&call_from=rsslink",
+      "date": 1780992600000,
+      "dateStr": "Tue, 09 Jun 2026 08:10:00 GMT"
+    },
+    {
       "dept": "fsc",
       "title": "캘박! 청년미래적금 가입신청 일정 안내",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966185&call_from=rsslink",
       "date": 1780985880000,
       "dateStr": "Tue, 09 Jun 2026 06:18:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "국민참여예산 제도 개편",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966149&call_from=rsslink",
+      "date": 1780970880000,
+      "dateStr": "Tue, 09 Jun 2026 02:08:00 GMT"
     },
     {
       "dept": "opm",
@@ -133,6 +189,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966087&call_from=rsslink",
       "date": 1780900080000,
       "dateStr": "Mon, 08 Jun 2026 06:28:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "원화 약세 흐름에 편승한 투기·시장교란 의심 행위 등 점검",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966081&call_from=rsslink",
+      "date": 1780899060000,
+      "dateStr": "Mon, 08 Jun 2026 06:11:00 GMT"
     },
     {
       "dept": "fsc",
@@ -163,11 +226,46 @@
       "dateStr": "Mon, 08 Jun 2026 04:52:00 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "실용과 성과로 다시 뛰는 대한민국 경제",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966057&call_from=rsslink",
+      "date": 1780884360000,
+      "dateStr": "Mon, 08 Jun 2026 02:06:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "지역균형성장 등 국가아젠다 뒷받침!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966053&call_from=rsslink",
+      "date": 1780883040000,
+      "dateStr": "Mon, 08 Jun 2026 01:44:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "민간투자 100조 원 시대 도약",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966048&call_from=rsslink",
+      "date": 1780881960000,
+      "dateStr": "Mon, 08 Jun 2026 01:26:00 GMT"
+    },
+    {
       "dept": "motir",
       "title": "한·사우디, 안정적 원유·나프타 공급 및 플랜트 협력 강화 논의",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965972&call_from=rsslink",
       "date": 1780643700000,
       "dateStr": "Fri, 05 Jun 2026 07:15:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "한국 경제 글로벌 위상 제고",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
+      "date": 1780638660000,
+      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "경기회복·글로벌 경제·민생물가, 정부출범 1주년 성과",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965960&call_from=rsslink",
+      "date": 1780638360000,
+      "dateStr": "Fri, 05 Jun 2026 05:46:00 GMT"
     },
     {
       "dept": "fsc",
@@ -184,6 +282,13 @@
       "dateStr": "Fri, 05 Jun 2026 04:41:00 GMT"
     },
     {
+      "dept": "mpb",
+      "title": "국고보조금 관리체계 강화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965927&call_from=rsslink",
+      "date": 1780634280000,
+      "dateStr": "Fri, 05 Jun 2026 04:38:00 GMT"
+    },
+    {
       "dept": "opm",
       "title": "4년간 지방정부를 이끌어갈 지역 일꾼들이 새롭게 선출됐습니다",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965896&call_from=rsslink",
@@ -198,11 +303,25 @@
       "dateStr": "Thu, 04 Jun 2026 08:48:00 GMT"
     },
     {
-      "dept": "moel",
-      "title": "이주노동자 폭행·괴롭힘 막는다…기획감독 100여곳 추가 실시",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965849&call_from=rsslink",
-      "date": 1780555140000,
-      "dateStr": "Thu, 04 Jun 2026 06:39:00 GMT"
+      "dept": "mofe",
+      "title": "폐자원 수입관세 인하",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965853&call_from=rsslink",
+      "date": 1780552680000,
+      "dateStr": "Thu, 04 Jun 2026 05:58:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "경기 회복과 성장세 가속화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965852&call_from=rsslink",
+      "date": 1780551900000,
+      "dateStr": "Thu, 04 Jun 2026 05:45:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "재정사업 성과평가체계 전면 개편",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965828&call_from=rsslink",
+      "date": 1780539240000,
+      "dateStr": "Thu, 04 Jun 2026 02:14:00 GMT"
     },
     {
       "dept": "fsc",
@@ -219,13 +338,6 @@
       "dateStr": "Tue, 02 Jun 2026 07:31:00 GMT"
     },
     {
-      "dept": "motir",
-      "title": "한·캐나다, 우주·방산 등 첨단산업 협력…민간 MOU 3건 체결",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965690&call_from=rsslink",
-      "date": 1780381080000,
-      "dateStr": "Tue, 02 Jun 2026 06:18:00 GMT"
-    },
-    {
       "dept": "nts",
       "title": "복잡한 법인세 공제·감면, 우리 중소기업도 받을 수 있을까?",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965699&call_from=rsslink",
@@ -238,118 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965679&call_from=rsslink",
       "date": 1780375740000,
       "dateStr": "Tue, 02 Jun 2026 04:49:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "마약 대응 정책 주요 성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965600&call_from=rsslink",
-      "date": 1780298820000,
-      "dateStr": "Mon, 01 Jun 2026 07:27:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "법인 슈퍼카 탈세 근절!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965599&call_from=rsslink",
-      "date": 1780298580000,
-      "dateStr": "Mon, 01 Jun 2026 07:23:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "청년미래적금 최대 7~8% 수준 금리 제공",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965598&call_from=rsslink",
-      "date": 1780298460000,
-      "dateStr": "Mon, 01 Jun 2026 07:21:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "폭리, 탈세는 끝까지 환수하겠습니다",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965583&call_from=rsslink",
-      "date": 1780295040000,
-      "dateStr": "Mon, 01 Jun 2026 06:24:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "김 총리 \"한화에어로스페이스 화재진압·인명구조에 최선\"",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965559&call_from=rsslink",
-      "date": 1780291140000,
-      "dateStr": "Mon, 01 Jun 2026 05:19:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "세무조사 패러다임 전환의 시작!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965555&call_from=rsslink",
-      "date": 1780290720000,
-      "dateStr": "Mon, 01 Jun 2026 05:12:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "새도약기금, 장기연체 9602억 추가 매입…누적 수혜자 75만 명",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965472&call_from=rsslink",
-      "date": 1780042560000,
-      "dateStr": "Fri, 29 May 2026 08:16:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "생산적 분야로의 자금공급 유도",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965425&call_from=rsslink",
-      "date": 1780033500000,
-      "dateStr": "Fri, 29 May 2026 05:45:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "'탈세 슈퍼카 멈춰!'…법인자금 사적 유용 19개사 전격 세무조사",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965325&call_from=rsslink",
-      "date": 1779955980000,
-      "dateStr": "Thu, 28 May 2026 08:13:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "연말정산 누락, 5월에 정정하세요",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965338&call_from=rsslink",
-      "date": 1779953460000,
-      "dateStr": "Thu, 28 May 2026 07:31:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "단일종목 레버리지(ETF·ETN) 투자 위험에 주의하세요",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965335&call_from=rsslink",
-      "date": 1779952560000,
-      "dateStr": "Thu, 28 May 2026 07:16:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국민주권정부 출범 1주년 국세청 핵심성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965307&call_from=rsslink",
-      "date": 1779943800000,
-      "dateStr": "Thu, 28 May 2026 04:50:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "서민·취약계층 금융접근성 확대",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965298&call_from=rsslink",
-      "date": 1779933300000,
-      "dateStr": "Thu, 28 May 2026 01:55:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "연말정산 실수? 5월 중에 정정하세요!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965212&call_from=rsslink",
-      "date": 1779923940000,
-      "dateStr": "Wed, 27 May 2026 23:19:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "지방우대금융을 통해 지방의 혁신과 성장 뒷받침",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965206&call_from=rsslink",
-      "date": 1779861720000,
-      "dateStr": "Wed, 27 May 2026 06:02:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "「국세청 미래혁신 종합방안」 발간",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965200&call_from=rsslink",
-      "date": 1779858180000,
-      "dateStr": "Wed, 27 May 2026 05:03:00 GMT"
     }
   ],
   "actually": [
@@ -375,6 +375,13 @@
       "dateStr": "Mon, 15 Jun 2026 01:42:27 GMT"
     },
     {
+      "dept": "mpb",
+      "title": "(보도설명) 농어촌기본소득 확대 여부 등은 아직 결정된 바가 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966513&call_from=rsslink",
+      "date": 1781487400000,
+      "dateStr": "Mon, 15 Jun 2026 01:36:40 GMT"
+    },
+    {
       "dept": "moel",
       "title": "(설명) 헤럴드경제, &quot;'매월 연다던 일자리 TF, 5월에야 첫 회의'&quot; 기사 관련",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966477&call_from=rsslink",
@@ -387,6 +394,13 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966498&call_from=rsslink",
       "date": 1781395140000,
       "dateStr": "Sat, 13 Jun 2026 23:59:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "(보도설명) 은닉재산 신고 포상금의 지급한도 및 지급률을 조정하는 방안은 결정된 바 없습니다",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966485&call_from=rsslink",
+      "date": 1781362800000,
+      "dateStr": "Sat, 13 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "motir",
@@ -417,6 +431,20 @@
       "dateStr": "Wed, 10 Jun 2026 01:30:39 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "(보도설명) 정부는 공공기관 직무급 확산 정책을 지속 추진하고 있습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966280&call_from=rsslink",
+      "date": 1781017200000,
+      "dateStr": "Tue, 09 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "(보도설명) '미래대응기금' 신설 등 초과세수 활용 방안은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966222&call_from=rsslink",
+      "date": 1781008360000,
+      "dateStr": "Tue, 09 Jun 2026 12:32:40 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도해명자료] 「여객기참사 유가족 &quot;맹탕조사 답답…해외전문기관 위탁조사하라&quot;」(6.9., 연합뉴스) 보도 관련",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966210&call_from=rsslink",
@@ -438,11 +466,39 @@
       "dateStr": "Tue, 09 Jun 2026 02:46:31 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "(보도설명) 지역별 세제지원 차등 방안은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966221&call_from=rsslink",
+      "date": 1780930800000,
+      "dateStr": "Mon, 08 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "(보도설명) '미래대응기금' 신설 등 초과세수 활용 방안은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966220&call_from=rsslink",
+      "date": 1780930800000,
+      "dateStr": "Mon, 08 Jun 2026 15:00:00 GMT"
+    },
+    {
       "dept": "moel",
       "title": "(설명) 조선비즈, &quot;&quot;폭발 사고 났다고 6개월 작업중지는 과도&quot;… 정부, 한화에 19억 지급 확정&quot; 기사 관련",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966133&call_from=rsslink",
       "date": 1780912098000,
       "dateStr": "Mon, 08 Jun 2026 09:48:18 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "지방교육재정교부금 개편방식에 대해서는 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966128&call_from=rsslink",
+      "date": 1780909742000,
+      "dateStr": "Mon, 08 Jun 2026 09:09:02 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "(보도설명) '미래대응기금' 신설 등 초과세수 활용 방안은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966127&call_from=rsslink",
+      "date": 1780909425000,
+      "dateStr": "Mon, 08 Jun 2026 09:03:45 GMT"
     },
     {
       "dept": "fsc",
@@ -457,6 +513,20 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966049&call_from=rsslink",
       "date": 1780880940000,
       "dateStr": "Mon, 08 Jun 2026 01:09:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "'미래대응기금' 신설 등 초과세수 활용방안은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966134&call_from=rsslink",
+      "date": 1780844400000,
+      "dateStr": "Sun, 07 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "(보도설명) 탈세제보 등 포상금의 지급한도를  폐지하는 방안은 결정된 바 없습니다",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966066&call_from=rsslink",
+      "date": 1780844400000,
+      "dateStr": "Sun, 07 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "opm",
@@ -480,11 +550,39 @@
       "dateStr": "Thu, 04 Jun 2026 05:25:00 GMT"
     },
     {
+      "dept": "mpb",
+      "title": "국부펀드의 명칭, 재원, 규모 등 구체적인 설립방안은 전혀 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965710&call_from=rsslink",
+      "date": 1780382441000,
+      "dateStr": "Tue, 02 Jun 2026 06:40:41 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "(보도설명) 국부펀드의 명칭, 재원, 규모 등 구체적인 설립방안은 전혀 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965708&call_from=rsslink",
+      "date": 1780326000000,
+      "dateStr": "Mon, 01 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "(보도설명) 국민성장펀드에 대한 정부 손실보전액에 세금이 부과된다는 것은 입법 취지와 다릅니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965680&call_from=rsslink",
+      "date": 1780326000000,
+      "dateStr": "Mon, 01 Jun 2026 15:00:00 GMT"
+    },
+    {
       "dept": "fsc",
       "title": "금융위 \"1천만원 이상 가상자산 이전거래 보고의무, 합리적 대안 검토 중\"",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965557&call_from=rsslink",
       "date": 1780292400000,
       "dateStr": "Mon, 01 Jun 2026 05:40:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "(보도설명) 지방교육재정교부금 개편방식에 대해서는 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965383&call_from=rsslink",
+      "date": 1780016109000,
+      "dateStr": "Fri, 29 May 2026 00:55:09 GMT"
     },
     {
       "dept": "fsc",
@@ -499,9 +597,37 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965224&call_from=rsslink",
       "date": 1779866100000,
       "dateStr": "Wed, 27 May 2026 07:15:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "(보도설명) 국부펀드의 구체적 재원 조성 방안 및 투자대상 등은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964903&call_from=rsslink",
+      "date": 1779360191000,
+      "dateStr": "Thu, 21 May 2026 10:43:11 GMT"
     }
   ],
   "pressrelease": [
+    {
+      "dept": "moel",
+      "title": "군용화약류 취급 사업장 전수 합동점검 실시",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766564&call_from=rsslink",
+      "date": 1781500040000,
+      "dateStr": "Mon, 15 Jun 2026 05:07:20 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "6월 16일부터 6월 30일까지, 이주노동자 권익 보호를 위한  「외국인 인권리더」를 모집합니다!",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766563&call_from=rsslink",
+      "date": 1781499973000,
+      "dateStr": "Mon, 15 Jun 2026 05:06:13 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "(참고) 고용노동부, 포스코 그룹의 중대재해 예방을 위한 특단의 대책 마련 촉구",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766562&call_from=rsslink",
+      "date": 1781499616000,
+      "dateStr": "Mon, 15 Jun 2026 05:00:16 GMT"
+    },
     {
       "dept": "motir",
       "title": "통상교섭본부장, 캄보디아 쑨 찬톨 부총리와 양국 경제협력 확대 방안 논의",
@@ -571,6 +697,20 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766502&call_from=rsslink",
       "date": 1781486400000,
       "dateStr": "Mon, 15 Jun 2026 01:20:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "기획예산처, 국민 추천&middot;심사 방식으로 특별성과포상제도 전면 개편",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766470&call_from=rsslink",
+      "date": 1781483027000,
+      "dateStr": "Mon, 15 Jun 2026 00:23:47 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "정부부처 최초, AI 에이전트 해커톤 성공적 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766436&call_from=rsslink",
+      "date": 1781449200000,
+      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "fsc",
@@ -650,6 +790,13 @@
       "dateStr": "Fri, 12 Jun 2026 08:41:09 GMT"
     },
     {
+      "dept": "mpb",
+      "title": "관계부처 합동 제11차 재정집행점검회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766366&call_from=rsslink",
+      "date": 1781252303000,
+      "dateStr": "Fri, 12 Jun 2026 08:18:23 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도자료] 김민석 국무총리, 경상남도 남해군 농어촌 기본소득 시범사업 현장점검",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766365&call_from=rsslink",
@@ -685,6 +832,13 @@
       "dateStr": "Fri, 12 Jun 2026 04:36:54 GMT"
     },
     {
+      "dept": "mpb",
+      "title": "제6차 확대간부회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766318&call_from=rsslink",
+      "date": 1781237986000,
+      "dateStr": "Fri, 12 Jun 2026 04:19:46 GMT"
+    },
+    {
       "dept": "moel",
       "title": "'직무능력은행'으로 손쉽게 경력관리하고, 인공지능(AI)으로 직무 중심 인적자원관리 구현",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766317&call_from=rsslink",
@@ -699,11 +853,39 @@
       "dateStr": "Fri, 12 Jun 2026 04:14:04 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "[보도참고] 2026년 6월 최근 경제동향",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766290&call_from=rsslink",
+      "date": 1781226302000,
+      "dateStr": "Fri, 12 Jun 2026 01:05:02 GMT"
+    },
+    {
       "dept": "moel",
       "title": "근로자 4명 사망 광주 대표도서관 붕괴사고, 원&middot;하청 현장소장 등 4명 산업안전보건법 등 위반 혐의로 구속",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766280&call_from=rsslink",
       "date": 1781224565000,
       "dateStr": "Fri, 12 Jun 2026 00:36:05 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "비상경제본부 회의 겸 경제관계장관회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766268&call_from=rsslink",
+      "date": 1781221609000,
+      "dateStr": "Thu, 11 Jun 2026 23:46:49 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "첨단산업 인재양성 부트캠프 현장방문",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766480&call_from=rsslink",
+      "date": 1781190000000,
+      "dateStr": "Thu, 11 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "(보도설명) LPG 제조용 원유, LPG 할당관세는 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766334&call_from=rsslink",
+      "date": 1781190000000,
+      "dateStr": "Thu, 11 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "opm",
@@ -769,88 +951,11 @@
       "dateStr": "Thu, 11 Jun 2026 06:43:00 GMT"
     },
     {
-      "dept": "opm",
-      "title": "[보도참고자료] 후쿠시마 오염수 방류 관련 브리핑(327차)",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766188&call_from=rsslink",
-      "date": 1781157784000,
-      "dateStr": "Thu, 11 Jun 2026 06:03:04 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 자살예방 정책자문단 총괄분과회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766181&call_from=rsslink",
-      "date": 1781157597000,
-      "dateStr": "Thu, 11 Jun 2026 05:59:57 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국민주권정부 2년차, &quot;국세행정 大도약으로  국민의 기대를 뛰어넘는 성과를 창출하겠습니다.&quot;",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766168&call_from=rsslink",
-      "date": 1781151720000,
-      "dateStr": "Thu, 11 Jun 2026 04:22:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 천명수호처 생명존중 메시지 확산 캠페인 추진",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766135&call_from=rsslink",
-      "date": 1781145300000,
-      "dateStr": "Thu, 11 Jun 2026 02:35:00 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "(참고) 고용노동부, '사망사고 반복 발생' ㈜포스코이앤씨에 특단의 조치 시행",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766134&call_from=rsslink",
-      "date": 1781144368000,
-      "dateStr": "Thu, 11 Jun 2026 02:19:28 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "(참고) 김영훈 장관, 국제노동기구(ILO) 총회에서 &quot;사람중심 인공지능(AI) 전환&quot; 위한  국제연대와 한국의 역할 강조",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766096&call_from=rsslink",
-      "date": 1781140396000,
-      "dateStr": "Thu, 11 Jun 2026 01:13:16 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "(참고) 2026년 5월 고용동향 및 평가",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766089&call_from=rsslink",
-      "date": 1781138923000,
-      "dateStr": "Thu, 11 Jun 2026 00:48:43 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "(참고자료)첨단기술에서 디지털, 공급망까지, 한-EU 경제협력의 새로운 지평을 열다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766086&call_from=rsslink",
-      "date": 1781137667000,
-      "dateStr": "Thu, 11 Jun 2026 00:27:47 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "사업보고서 등에 대한 조사&middot;감리결과 조치 - 제11차 증권선물위원회('26.6.10.) 조치 의결",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766071&call_from=rsslink",
-      "date": 1781103600000,
-      "dateStr": "Wed, 10 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "현재 유포되고 있는 부동산 종합 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다.",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766073&call_from=rsslink",
-      "date": 1781103600000,
-      "dateStr": "Wed, 10 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 김민석 국무총리 주재 자살예방 정책현장 간담회",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766044&call_from=rsslink",
-      "date": 1781085501000,
-      "dateStr": "Wed, 10 Jun 2026 09:58:21 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "전남광주 산업안전보건의 미래, 현장에서 함께 해법을 찾는다!",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156765963&call_from=rsslink",
-      "date": 1781071697000,
-      "dateStr": "Wed, 10 Jun 2026 06:08:17 GMT"
+      "dept": "mpb",
+      "title": "중장기전략위원회 혁신성장반 분과회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766189&call_from=rsslink",
+      "date": 1781158565000,
+      "dateStr": "Thu, 11 Jun 2026 06:16:05 GMT"
     }
   ]
 }
