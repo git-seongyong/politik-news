@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.16 07:15",
+  "lastUpdated": "06.16 07:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -389,6 +389,13 @@
       "dateStr": "Mon, 15 Jun 2026 01:36:40 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "(보도설명) 초과세수 활용 방안 및 국부펀드 설립 방안은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966564&call_from=rsslink",
+      "date": 1781449200000,
+      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
+    },
+    {
       "dept": "moel",
       "title": "(설명) 헤럴드경제, &quot;'매월 연다던 일자리 TF, 5월에야 첫 회의'&quot; 기사 관련",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966477&call_from=rsslink",
@@ -523,15 +530,15 @@
     },
     {
       "dept": "mofe",
-      "title": "'미래대응기금' 신설 등 초과세수 활용방안은 결정된 바 없습니다.",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966134&call_from=rsslink",
+      "title": "(보도설명) 탈세제보 등 포상금의 지급한도를  폐지하는 방안은 결정된 바 없습니다",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966066&call_from=rsslink",
       "date": 1780844400000,
       "dateStr": "Sun, 07 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "mofe",
-      "title": "(보도설명) 탈세제보 등 포상금의 지급한도를  폐지하는 방안은 결정된 바 없습니다",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966066&call_from=rsslink",
+      "title": "'미래대응기금' 신설 등 초과세수 활용방안은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966134&call_from=rsslink",
       "date": 1780844400000,
       "dateStr": "Sun, 07 Jun 2026 15:00:00 GMT"
     },
