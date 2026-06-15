@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.15 16:15",
+  "lastUpdated": "06.15 16:45",
   "policynews": [
+    {
+      "dept": "fsc",
+      "title": "청년미래적금 6월 22일 출시…7월 3일까지 가입 신청",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966534&call_from=rsslink",
+      "date": 1781508420000,
+      "dateStr": "Mon, 15 Jun 2026 07:27:00 GMT"
+    },
     {
       "dept": "motir",
       "title": "한-사우디, 원유·가스 MOU 체결…자원·산업 협력 동반자관계 강화",
@@ -343,13 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965886&call_from=rsslink",
       "date": 1780562880000,
       "dateStr": "Thu, 04 Jun 2026 08:48:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "폐자원 수입관세 인하",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965853&call_from=rsslink",
-      "date": 1780552680000,
-      "dateStr": "Thu, 04 Jun 2026 05:58:00 GMT"
     }
   ],
   "actually": [
@@ -600,6 +600,13 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "opm",
+      "title": "[보도자료] 국무조정실장 주재 중앙행정기관 감사관회의 보도자료 모두발언",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766578&call_from=rsslink",
+      "date": 1781505036000,
+      "dateStr": "Mon, 15 Jun 2026 06:30:36 GMT"
+    },
     {
       "dept": "opm",
       "title": "[보도자료] 김민석 국무총리 주재 제3차 국토공간 대전환 범정부 추진협의회 및 광역단체장 당선자 간담회",
@@ -940,13 +947,6 @@
       "dept": "mofe",
       "title": "첨단산업 인재양성 부트캠프 현장방문",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766480&call_from=rsslink",
-      "date": 1781190000000,
-      "dateStr": "Thu, 11 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "(보도설명) LPG 제조용 원유, LPG 할당관세는 결정된 바 없습니다.",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766334&call_from=rsslink",
       "date": 1781190000000,
       "dateStr": "Thu, 11 Jun 2026 15:00:00 GMT"
     }
