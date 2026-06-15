@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.16 00:15",
+  "lastUpdated": "06.16 00:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -93,6 +93,13 @@
       "dateStr": "Fri, 12 Jun 2026 05:00:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "기대를 넘어 성과로 답하는 국세행정",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966381&call_from=rsslink",
+      "date": 1781239140000,
+      "dateStr": "Fri, 12 Jun 2026 04:39:00 GMT"
+    },
+    {
       "dept": "opm",
       "title": "정부, 국민참정권 침해 사태 진상 규명·선관위 개혁 위해 모든 조치",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966394&call_from=rsslink",
@@ -112,6 +119,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966356&call_from=rsslink",
       "date": 1781168160000,
       "dateStr": "Thu, 11 Jun 2026 08:56:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "\"반사회적 탈세·체납 단호히 대응\"…국세청, 국민주권정부 1년 성과",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966337&call_from=rsslink",
+      "date": 1781167380000,
+      "dateStr": "Thu, 11 Jun 2026 08:43:00 GMT"
     },
     {
       "dept": "mofe",
@@ -149,6 +163,13 @@
       "dateStr": "Wed, 10 Jun 2026 08:10:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "일감 몰아주기·떼어주기 증여세 6월 30일까지 신고하세요!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966253&call_from=rsslink",
+      "date": 1781077260000,
+      "dateStr": "Wed, 10 Jun 2026 07:41:00 GMT"
+    },
+    {
       "dept": "mofe",
       "title": "구 부총리 \"중동에 60억 달러 선금융 지원…인프라 전략펀드도 추진\"",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966264&call_from=rsslink",
@@ -168,6 +189,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966235&call_from=rsslink",
       "date": 1781066640000,
       "dateStr": "Wed, 10 Jun 2026 04:44:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "직장인 자녀에게 주는 용돈, 증여세 낼까?",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966192&call_from=rsslink",
+      "date": 1781045280000,
+      "dateStr": "Tue, 09 Jun 2026 22:48:00 GMT"
     },
     {
       "dept": "opm",
@@ -247,6 +275,13 @@
       "dateStr": "Mon, 08 Jun 2026 05:35:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "해외 특허료도 과세, 4조 원 이상의 국부유출 방지",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966069&call_from=rsslink",
+      "date": 1780894320000,
+      "dateStr": "Mon, 08 Jun 2026 04:52:00 GMT"
+    },
+    {
       "dept": "mofe",
       "title": "실용과 성과로 다시 뛰는 대한민국 경제",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966057&call_from=rsslink",
@@ -289,6 +324,13 @@
       "dateStr": "Fri, 05 Jun 2026 05:29:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "적극행정이 지켜낸 51가구의 꿈과 희망!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965928&call_from=rsslink",
+      "date": 1780634460000,
+      "dateStr": "Fri, 05 Jun 2026 04:41:00 GMT"
+    },
+    {
       "dept": "mpb",
       "title": "국고보조금 관리체계 강화",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965927&call_from=rsslink",
@@ -308,48 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965886&call_from=rsslink",
       "date": 1780562880000,
       "dateStr": "Thu, 04 Jun 2026 08:48:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "폐자원 수입관세 인하",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965853&call_from=rsslink",
-      "date": 1780552680000,
-      "dateStr": "Thu, 04 Jun 2026 05:58:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "경기 회복과 성장세 가속화",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965852&call_from=rsslink",
-      "date": 1780551900000,
-      "dateStr": "Thu, 04 Jun 2026 05:45:00 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "재정사업 성과평가체계 전면 개편",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965828&call_from=rsslink",
-      "date": 1780539240000,
-      "dateStr": "Thu, 04 Jun 2026 02:14:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "현장의 의견을 담은 소상공인 맞춤형 지원방안",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965784&call_from=rsslink",
-      "date": 1780526940000,
-      "dateStr": "Wed, 03 Jun 2026 22:49:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "'마약범죄' 총력 대응 1년…마약사범 2만 3400여 명 검거",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965694&call_from=rsslink",
-      "date": 1780385460000,
-      "dateStr": "Tue, 02 Jun 2026 07:31:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "불법사금융·보이스피싱 등 민생침해범죄 강력 대응",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965679&call_from=rsslink",
-      "date": 1780375740000,
-      "dateStr": "Tue, 02 Jun 2026 04:49:00 GMT"
     }
   ],
   "actually": [
