@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.15 18:15",
+  "lastUpdated": "06.15 18:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -70,13 +70,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "2026년 1/4분기 GDP 잠정치 발표",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
-      "date": 1781242140000,
-      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -318,13 +311,6 @@
     },
     {
       "dept": "mofe",
-      "title": "한국 경제 글로벌 위상 제고",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
-      "date": 1780638660000,
-      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
-    },
-    {
-      "dept": "mofe",
       "title": "경기회복·글로벌 경제·민생물가, 정부출범 1주년 성과",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965960&call_from=rsslink",
       "date": 1780638360000,
@@ -350,9 +336,30 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965927&call_from=rsslink",
       "date": 1780634280000,
       "dateStr": "Fri, 05 Jun 2026 04:38:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "4년간 지방정부를 이끌어갈 지역 일꾼들이 새롭게 선출됐습니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965896&call_from=rsslink",
+      "date": 1780564980000,
+      "dateStr": "Thu, 04 Jun 2026 09:23:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "정부, 5년간 2조 규모 공공수요 창출…'K-드론' 시대 연다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965886&call_from=rsslink",
+      "date": 1780562880000,
+      "dateStr": "Thu, 04 Jun 2026 08:48:00 GMT"
     }
   ],
   "actually": [
+    {
+      "dept": "moel",
+      "title": "(설명) 한겨레, &quot;미등록 이주노동자 40만명…이재명 정부서 '양성화' 검토&quot; 기사 등 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966560&call_from=rsslink",
+      "date": 1781513473000,
+      "dateStr": "Mon, 15 Jun 2026 08:51:13 GMT"
+    },
     {
       "dept": "motir",
       "title": "(설명자료)CPTPP 가입 신청과 관련하여 결정된 바 없음",
