@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.15 22:15",
+  "lastUpdated": "06.15 22:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -37,6 +37,13 @@
       "dateStr": "Mon, 15 Jun 2026 04:06:00 GMT"
     },
     {
+      "dept": "mofa",
+      "title": "한-이탈리아 정상회담(2026.6.11.)",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966508&call_from=rsslink",
+      "date": 1781488020000,
+      "dateStr": "Mon, 15 Jun 2026 01:47:00 GMT"
+    },
+    {
       "dept": "moel",
       "title": "알바하면서 이런일 겪은 적 있나요?",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966426&call_from=rsslink",
@@ -72,6 +79,20 @@
       "dateStr": "Fri, 12 Jun 2026 05:16:00 GMT"
     },
     {
+      "dept": "mofa",
+      "title": "한-유럽연합 정상회담(2026.6.10.)",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966385&call_from=rsslink",
+      "date": 1781240880000,
+      "dateStr": "Fri, 12 Jun 2026 05:08:00 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "한-벨기에 정상회담(2026.6.10.)",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966383&call_from=rsslink",
+      "date": 1781240400000,
+      "dateStr": "Fri, 12 Jun 2026 05:00:00 GMT"
+    },
+    {
       "dept": "nts",
       "title": "기대를 넘어 성과로 답하는 국세행정",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966381&call_from=rsslink",
@@ -93,6 +114,13 @@
       "dateStr": "Thu, 11 Jun 2026 22:51:00 GMT"
     },
     {
+      "dept": "mofa",
+      "title": "미성년자 여권 재발급, 부모가 온라인 신청 가능",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966356&call_from=rsslink",
+      "date": 1781168160000,
+      "dateStr": "Thu, 11 Jun 2026 08:56:00 GMT"
+    },
+    {
       "dept": "nts",
       "title": "\"반사회적 탈세·체납 단호히 대응\"…국세청, 국민주권정부 1년 성과",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966337&call_from=rsslink",
@@ -112,6 +140,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966325&call_from=rsslink",
       "date": 1781157420000,
       "dateStr": "Thu, 11 Jun 2026 05:57:00 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "벨기에 동포 간담회 (2026.6.9.)",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966311&call_from=rsslink",
+      "date": 1781145360000,
+      "dateStr": "Thu, 11 Jun 2026 02:36:00 GMT"
     },
     {
       "dept": "opm",
@@ -147,6 +182,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966247&call_from=rsslink",
       "date": 1781067300000,
       "dateStr": "Wed, 10 Jun 2026 04:55:00 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "이재명 대통령, 유럽 순방·G7 정상회의 참석",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966235&call_from=rsslink",
+      "date": 1781066640000,
+      "dateStr": "Wed, 10 Jun 2026 04:44:00 GMT"
     },
     {
       "dept": "nts",
@@ -308,48 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965886&call_from=rsslink",
       "date": 1780562880000,
       "dateStr": "Thu, 04 Jun 2026 08:48:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "폐자원 수입관세 인하",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965853&call_from=rsslink",
-      "date": 1780552680000,
-      "dateStr": "Thu, 04 Jun 2026 05:58:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "경기 회복과 성장세 가속화",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965852&call_from=rsslink",
-      "date": 1780551900000,
-      "dateStr": "Thu, 04 Jun 2026 05:45:00 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "재정사업 성과평가체계 전면 개편",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965828&call_from=rsslink",
-      "date": 1780539240000,
-      "dateStr": "Thu, 04 Jun 2026 02:14:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "현장의 의견을 담은 소상공인 맞춤형 지원방안",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965784&call_from=rsslink",
-      "date": 1780526940000,
-      "dateStr": "Wed, 03 Jun 2026 22:49:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "'마약범죄' 총력 대응 1년…마약사범 2만 3400여 명 검거",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965694&call_from=rsslink",
-      "date": 1780385460000,
-      "dateStr": "Tue, 02 Jun 2026 07:31:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "복잡한 법인세 공제·감면, 우리 중소기업도 받을 수 있을까?",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965699&call_from=rsslink",
-      "date": 1780379940000,
-      "dateStr": "Tue, 02 Jun 2026 05:59:00 GMT"
     }
   ],
   "actually": [
@@ -608,6 +608,13 @@
   ],
   "pressrelease": [
     {
+      "dept": "mofa",
+      "title": "미-이란간 합의 관련 외교부 대변인 성명",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766632&call_from=rsslink",
+      "date": 1781519898000,
+      "dateStr": "Mon, 15 Jun 2026 10:38:18 GMT"
+    },
+    {
       "dept": "motir",
       "title": "한-카타르, 안정적 LNG 도입 재개와 함께  첨단산업 협력에 힘 모으기로",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766631&call_from=rsslink",
@@ -627,6 +634,13 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766586&call_from=rsslink",
       "date": 1781508831000,
       "dateStr": "Mon, 15 Jun 2026 07:33:51 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "2026년 베트남 청년공무원 대표단  초청 간담회 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766585&call_from=rsslink",
+      "date": 1781508753000,
+      "dateStr": "Mon, 15 Jun 2026 07:32:33 GMT"
     },
     {
       "dept": "opm",
@@ -734,6 +748,13 @@
       "dateStr": "Mon, 15 Jun 2026 01:20:00 GMT"
     },
     {
+      "dept": "mofa",
+      "title": "외교부 인사",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766484&call_from=rsslink",
+      "date": 1781484555000,
+      "dateStr": "Mon, 15 Jun 2026 00:49:15 GMT"
+    },
+    {
       "dept": "mpb",
       "title": "기획예산처, 국민 추천&middot;심사 방식으로 특별성과포상제도 전면 개편",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766470&call_from=rsslink",
@@ -797,6 +818,13 @@
       "dateStr": "Sat, 13 Jun 2026 15:00:00 GMT"
     },
     {
+      "dept": "mofa",
+      "title": "한미일 사무국 운영이사회 및 북한 관련 한미일 협의 개최(6.12.)",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766392&call_from=rsslink",
+      "date": 1781333183000,
+      "dateStr": "Sat, 13 Jun 2026 06:46:23 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도자료] 생명대사 '정승제' 등 자살예방 활동",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766376&call_from=rsslink",
@@ -846,6 +874,13 @@
       "dateStr": "Fri, 12 Jun 2026 08:41:09 GMT"
     },
     {
+      "dept": "mofa",
+      "title": "1차관, 영국 인태담당 차관 면담(6.12.)",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766369&call_from=rsslink",
+      "date": 1781253509000,
+      "dateStr": "Fri, 12 Jun 2026 08:38:29 GMT"
+    },
+    {
       "dept": "mpb",
       "title": "관계부처 합동 제11차 재정집행점검회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766366&call_from=rsslink",
@@ -853,11 +888,25 @@
       "dateStr": "Fri, 12 Jun 2026 08:18:23 GMT"
     },
     {
+      "dept": "mofa",
+      "title": "중동평화 정부대표, 안보리 공식회의 참석 및 안보리 이사국, 유엔사무국 등 주요 인사 면담",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766364&call_from=rsslink",
+      "date": 1781251686000,
+      "dateStr": "Fri, 12 Jun 2026 08:08:06 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도자료] 김민석 국무총리, 경상남도 남해군 농어촌 기본소득 시범사업 현장점검",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766365&call_from=rsslink",
       "date": 1781250233000,
       "dateStr": "Fri, 12 Jun 2026 07:43:53 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "⌜제4차 한-에콰도르 고위정책협의회⌟ 개최(6.12.)",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766348&call_from=rsslink",
+      "date": 1781246796000,
+      "dateStr": "Fri, 12 Jun 2026 06:46:36 GMT"
     },
     {
       "dept": "opm",
@@ -907,55 +956,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766316&call_from=rsslink",
       "date": 1781237644000,
       "dateStr": "Fri, 12 Jun 2026 04:14:04 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "[보도참고] 2026년 6월 최근 경제동향",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766290&call_from=rsslink",
-      "date": 1781226302000,
-      "dateStr": "Fri, 12 Jun 2026 01:05:02 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "근로자 4명 사망 광주 대표도서관 붕괴사고, 원&middot;하청 현장소장 등 4명 산업안전보건법 등 위반 혐의로 구속",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766280&call_from=rsslink",
-      "date": 1781224565000,
-      "dateStr": "Fri, 12 Jun 2026 00:36:05 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "비상경제본부 회의 겸 경제관계장관회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766268&call_from=rsslink",
-      "date": 1781221609000,
-      "dateStr": "Thu, 11 Jun 2026 23:46:49 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "첨단산업 인재양성 부트캠프 현장방문",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766480&call_from=rsslink",
-      "date": 1781190000000,
-      "dateStr": "Thu, 11 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "(보도설명) LPG 제조용 원유, LPG 할당관세는 결정된 바 없습니다.",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766334&call_from=rsslink",
-      "date": 1781190000000,
-      "dateStr": "Thu, 11 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 김민석 국무총리 주재 국민참정권 침해 관련 관계장관회의",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766256&call_from=rsslink",
-      "date": 1781186460000,
-      "dateStr": "Thu, 11 Jun 2026 14:01:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 국무조정실, 소방관 사망사고 조사 착수",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766228&call_from=rsslink",
-      "date": 1781173020000,
-      "dateStr": "Thu, 11 Jun 2026 10:17:00 GMT"
     }
   ]
 }
