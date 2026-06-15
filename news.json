@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "06.15 15:15",
+  "lastUpdated": "06.15 15:45",
   "policynews": [
+    {
+      "dept": "motir",
+      "title": "한-사우디, 원유·가스 MOU 체결…자원·산업 협력 동반자관계 강화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966535&call_from=rsslink",
+      "date": 1781504820000,
+      "dateStr": "Mon, 15 Jun 2026 06:27:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "6월 2주, 한눈에 보는 금융정책",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966527&call_from=rsslink",
+      "date": 1781503500000,
+      "dateStr": "Mon, 15 Jun 2026 06:05:00 GMT"
+    },
     {
       "dept": "motir",
       "title": "AI·반도체 등 첨단산업 협력 강화!",
@@ -49,13 +63,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "2026년 1/4분기 GDP 잠정치 발표",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
-      "date": 1781242140000,
-      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -294,13 +301,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965972&call_from=rsslink",
       "date": 1780643700000,
       "dateStr": "Fri, 05 Jun 2026 07:15:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "한국 경제 글로벌 위상 제고",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
-      "date": 1780638660000,
-      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
     },
     {
       "dept": "mofe",
@@ -592,13 +592,6 @@
       "dateStr": "Thu, 28 May 2026 02:15:00 GMT"
     },
     {
-      "dept": "fsc",
-      "title": "금융위 \"금융회사 지배구조 개선안 확정된 바 없어\"",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965224&call_from=rsslink",
-      "date": 1779866100000,
-      "dateStr": "Wed, 27 May 2026 07:15:00 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "(보도설명) 국부펀드의 구체적 재원 조성 방안 및 투자대상 등은 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964903&call_from=rsslink",
@@ -607,6 +600,13 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "opm",
+      "title": "[보도자료] 김민석 국무총리 주재 제3차 국토공간 대전환 범정부 추진협의회 및 광역단체장 당선자 간담회",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766574&call_from=rsslink",
+      "date": 1781504389000,
+      "dateStr": "Mon, 15 Jun 2026 06:19:49 GMT"
+    },
     {
       "dept": "moel",
       "title": "군용화약류 취급 사업장 전수 합동점검 실시",
@@ -744,6 +744,20 @@
       "dept": "fsc",
       "title": "「국민참여형 국민성장펀드」의 운용사들과 함께 국민재산의 운용성과를 높일 수 있는 방안을 논의하였습니다.",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766489&call_from=rsslink",
+      "date": 1781449200000,
+      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "이억원 금융위원장, 런던금융특구 시장(Lady Mayor) 면담",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766575&call_from=rsslink",
+      "date": 1781449200000,
+      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "6월 22일 출시 청년미래적금, 가입절차&middot;심사일정&middot;갈아타기 방법 등 주요정보에 대해 미리 확인하세요!",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766568&call_from=rsslink",
       "date": 1781449200000,
       "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
     },
@@ -935,27 +949,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766334&call_from=rsslink",
       "date": 1781190000000,
       "dateStr": "Thu, 11 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 김민석 국무총리 주재 국민참정권 침해 관련 관계장관회의",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766256&call_from=rsslink",
-      "date": 1781186460000,
-      "dateStr": "Thu, 11 Jun 2026 14:01:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "외교부, 중동 정세와 재외국민보호 관련 본부-공관 합동 상황점검회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766230&call_from=rsslink",
-      "date": 1781176446000,
-      "dateStr": "Thu, 11 Jun 2026 11:14:06 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 국무조정실, 소방관 사망사고 조사 착수",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766228&call_from=rsslink",
-      "date": 1781173020000,
-      "dateStr": "Thu, 11 Jun 2026 10:17:00 GMT"
     }
   ]
 }
