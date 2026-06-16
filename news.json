@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.16 19:15",
+  "lastUpdated": "06.16 19:45",
   "policynews": [
     {
       "dept": "moel",
@@ -354,6 +354,13 @@
   ],
   "actually": [
     {
+      "dept": "moel",
+      "title": "(설명) 머니투데이(온라인), &quot;퇴직연금 ETF실시간 매매 열리나…고용부, 전 금융권 허용 검토&quot; 기사 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966636&call_from=rsslink",
+      "date": 1781605195000,
+      "dateStr": "Tue, 16 Jun 2026 10:19:55 GMT"
+    },
+    {
       "dept": "mpb",
       "title": "(보도설명)초과세수 활용 방안 및 국부펀드 설립방안은 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966635&call_from=rsslink",
@@ -628,6 +635,13 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "motir",
+      "title": "한-UAE, 특별 전략적 동반자 관계를 바탕으로 원유 공급과 원전&middot;플랜트 분야 협력 심화",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766833&call_from=rsslink",
+      "date": 1781602249000,
+      "dateStr": "Tue, 16 Jun 2026 09:30:49 GMT"
+    },
     {
       "dept": "moel",
       "title": "(참고) 최저임금위원회, 2026년 제6차 전원회의 개최",
@@ -970,13 +984,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766587&call_from=rsslink",
       "date": 1781362800000,
       "dateStr": "Sat, 13 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "한미일 사무국 운영이사회 및 북한 관련 한미일 협의 개최(6.12.)",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766392&call_from=rsslink",
-      "date": 1781333183000,
-      "dateStr": "Sat, 13 Jun 2026 06:46:23 GMT"
     }
   ]
 }
