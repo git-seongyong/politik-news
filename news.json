@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.16 10:15",
+  "lastUpdated": "06.16 10:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -557,13 +557,6 @@
       "dateStr": "Fri, 05 Jun 2026 08:04:16 GMT"
     },
     {
-      "dept": "moel",
-      "title": "(설명) 서울경제, &quot;노봉법 시행 3개월…실교섭 단 6건&quot; 기사 관련",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965917&call_from=rsslink",
-      "date": 1780620066000,
-      "dateStr": "Fri, 05 Jun 2026 00:41:06 GMT"
-    },
-    {
       "dept": "fsc",
       "title": "금융위 \"중·저신용자 생활안정자금 대출 구체 사항 정해지지 않아\"",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965846&call_from=rsslink",
@@ -581,13 +574,6 @@
       "dept": "mofe",
       "title": "(보도설명) 국부펀드의 명칭, 재원, 규모 등 구체적인 설립방안은 전혀 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965708&call_from=rsslink",
-      "date": 1780326000000,
-      "dateStr": "Mon, 01 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "(보도설명) 국민성장펀드에 대한 정부 손실보전액에 세금이 부과된다는 것은 입법 취지와 다릅니다.",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965680&call_from=rsslink",
       "date": 1780326000000,
       "dateStr": "Mon, 01 Jun 2026 15:00:00 GMT"
     },
@@ -621,6 +607,27 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "moel",
+      "title": "(참고) 고용노동부, '1년 만에 또 끼임사고' ㈜아워홈 &quot;산안-노동 통합 기획감독&quot; 착수",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766668&call_from=rsslink",
+      "date": 1781573089000,
+      "dateStr": "Tue, 16 Jun 2026 01:24:49 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "제18차 한-우즈베키스탄 정책협의회 개최(6.15.)",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766658&call_from=rsslink",
+      "date": 1781570335000,
+      "dateStr": "Tue, 16 Jun 2026 00:38:55 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "민간이 직접 기획하는 경제발전공유사업(KSP), 우리 기업 진출을 강화하는 방향으로 본격 개편",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766667&call_from=rsslink",
+      "date": 1781535600000,
+      "dateStr": "Mon, 15 Jun 2026 15:00:00 GMT"
+    },
     {
       "dept": "mofa",
       "title": "미-이란간 합의 관련 외교부 대변인 성명",
@@ -949,27 +956,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766332&call_from=rsslink",
       "date": 1781241783000,
       "dateStr": "Fri, 12 Jun 2026 05:23:03 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 국무조정실장 주재 국가정상화 및 청년정책 아이디어 공모 시상식",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766328&call_from=rsslink",
-      "date": 1781239014000,
-      "dateStr": "Fri, 12 Jun 2026 04:36:54 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "제6차 확대간부회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766318&call_from=rsslink",
-      "date": 1781237986000,
-      "dateStr": "Fri, 12 Jun 2026 04:19:46 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "'직무능력은행'으로 손쉽게 경력관리하고, 인공지능(AI)으로 직무 중심 인적자원관리 구현",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766317&call_from=rsslink",
-      "date": 1781237975000,
-      "dateStr": "Fri, 12 Jun 2026 04:19:35 GMT"
     }
   ]
 }
