@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.17 08:15",
+  "lastUpdated": "06.17 08:45",
   "policynews": [
     {
       "dept": "moel",
@@ -7,6 +7,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966618&call_from=rsslink",
       "date": 1781597580000,
       "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "사업자대출, 용도에 맞게 사용하셨나요?",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
+      "date": 1781595840000,
+      "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
     },
     {
       "dept": "opm",
@@ -91,6 +98,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "2026년 1/4분기 GDP 잠정치 발표",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
+      "date": 1781242140000,
+      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -332,24 +346,10 @@
     },
     {
       "dept": "mofe",
-      "title": "경기회복·글로벌 경제·민생물가, 정부출범 1주년 성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965960&call_from=rsslink",
-      "date": 1780638360000,
-      "dateStr": "Fri, 05 Jun 2026 05:46:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "국민성장펀드 출시 등 국민이 체감할 수 있는 다양한 금융상품 도입",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965955&call_from=rsslink",
-      "date": 1780637340000,
-      "dateStr": "Fri, 05 Jun 2026 05:29:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "적극행정이 지켜낸 51가구의 꿈과 희망!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965928&call_from=rsslink",
-      "date": 1780634460000,
-      "dateStr": "Fri, 05 Jun 2026 04:41:00 GMT"
+      "title": "한국 경제 글로벌 위상 제고",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
+      "date": 1780638660000,
+      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
     }
   ],
   "actually": [
