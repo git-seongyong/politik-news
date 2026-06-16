@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.16 09:15",
+  "lastUpdated": "06.16 09:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -353,6 +353,13 @@
     }
   ],
   "actually": [
+    {
+      "dept": "motir",
+      "title": "(설명자료)정부는 국내외 상황을 면밀히 주시하며 최고가격제 종료 여부 및 시점을  검토해 나갈 계획입니다",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966576&call_from=rsslink",
+      "date": 1781567499000,
+      "dateStr": "Mon, 15 Jun 2026 23:51:39 GMT"
+    },
     {
       "dept": "moel",
       "title": "(설명) 한겨레, &quot;미등록 이주노동자 40만명…이재명 정부서 '양성화' 검토&quot; 기사 등 관련",
@@ -770,6 +777,13 @@
     },
     {
       "dept": "mofe",
+      "title": "올여름, 경제가 놀이가 된다!  재경부, '2026 경제캠프' 참가자 960명 모집",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766655&call_from=rsslink",
+      "date": 1781449200000,
+      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
       "title": "정부부처 최초, AI 에이전트 해커톤 성공적 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766436&call_from=rsslink",
       "date": 1781449200000,
@@ -956,13 +970,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766317&call_from=rsslink",
       "date": 1781237975000,
       "dateStr": "Fri, 12 Jun 2026 04:19:35 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "고용노동부 고용동향 악화에 따른 긴급 고용상황 점검회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766316&call_from=rsslink",
-      "date": 1781237644000,
-      "dateStr": "Fri, 12 Jun 2026 04:14:04 GMT"
     }
   ]
 }
