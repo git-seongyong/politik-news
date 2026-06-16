@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.16 11:15",
+  "lastUpdated": "06.16 11:46",
   "policynews": [
     {
       "dept": "fsc",
@@ -70,13 +70,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "2026년 1/4분기 GDP 잠정치 발표",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
-      "date": 1781242140000,
-      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -318,13 +311,6 @@
     },
     {
       "dept": "mofe",
-      "title": "한국 경제 글로벌 위상 제고",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
-      "date": 1780638660000,
-      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
-    },
-    {
-      "dept": "mofe",
       "title": "경기회복·글로벌 경제·민생물가, 정부출범 1주년 성과",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965960&call_from=rsslink",
       "date": 1780638360000,
@@ -350,6 +336,20 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965927&call_from=rsslink",
       "date": 1780634280000,
       "dateStr": "Fri, 05 Jun 2026 04:38:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "4년간 지방정부를 이끌어갈 지역 일꾼들이 새롭게 선출됐습니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965896&call_from=rsslink",
+      "date": 1780564980000,
+      "dateStr": "Thu, 04 Jun 2026 09:23:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "정부, 5년간 2조 규모 공공수요 창출…'K-드론' 시대 연다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965886&call_from=rsslink",
+      "date": 1780562880000,
+      "dateStr": "Thu, 04 Jun 2026 08:48:00 GMT"
     }
   ],
   "actually": [
@@ -607,6 +607,34 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "nts",
+      "title": "국세청의 아프리카 세정외교 제2탄, 가나와 K-전자세정 공유하고 징수공조 협력 논의",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766696&call_from=rsslink",
+      "date": 1781576640000,
+      "dateStr": "Tue, 16 Jun 2026 02:24:00 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "EU 신철강 조치 대응 총력전…  정부, 우리 철강업계 이익 확보에 전력",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766688&call_from=rsslink",
+      "date": 1781575623000,
+      "dateStr": "Tue, 16 Jun 2026 02:07:03 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "산업부, 통상 네트워크 확대 및  대미 통상현안 대응방안 논의",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766687&call_from=rsslink",
+      "date": 1781575574000,
+      "dateStr": "Tue, 16 Jun 2026 02:06:14 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "산업안보 시대, 우리 제조업계의 대응전략 논의",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766686&call_from=rsslink",
+      "date": 1781575525000,
+      "dateStr": "Tue, 16 Jun 2026 02:05:25 GMT"
+    },
     {
       "dept": "moel",
       "title": "(참고) 고용노동부, '1년 만에 또 끼임사고' ㈜아워홈 &quot;산안-노동 통합 기획감독&quot; 착수",
@@ -928,34 +956,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766365&call_from=rsslink",
       "date": 1781250233000,
       "dateStr": "Fri, 12 Jun 2026 07:43:53 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "⌜제4차 한-에콰도르 고위정책협의회⌟ 개최(6.12.)",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766348&call_from=rsslink",
-      "date": 1781246796000,
-      "dateStr": "Fri, 12 Jun 2026 06:46:36 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 한성숙 국무총리 후보자 총리실 청년직원&middot;인턴 오찬 간담회",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766347&call_from=rsslink",
-      "date": 1781245980000,
-      "dateStr": "Fri, 12 Jun 2026 06:33:00 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "한국산업안전보건공단-인구보건복지협회, 생명존중 경영 및 일&middot;가정 양립 문화 확산을 위해 맞손",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766333&call_from=rsslink",
-      "date": 1781241830000,
-      "dateStr": "Fri, 12 Jun 2026 05:23:50 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "제35회 장애인고용 콘텐츠 공모전 시상식 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766332&call_from=rsslink",
-      "date": 1781241783000,
-      "dateStr": "Fri, 12 Jun 2026 05:23:03 GMT"
     }
   ]
 }
