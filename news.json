@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "06.16 17:15",
+  "lastUpdated": "06.16 17:45",
   "policynews": [
+    {
+      "dept": "moel",
+      "title": "불법하도급 신고포상금 200만 원 상한 폐지…행정처분도 강화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966618&call_from=rsslink",
+      "date": 1781597580000,
+      "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "종전 협상 타결 이후 변화된 상황에 맞는 대책을 점검해 가겠습니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966616&call_from=rsslink",
+      "date": 1781595600000,
+      "dateStr": "Tue, 16 Jun 2026 07:40:00 GMT"
+    },
     {
       "dept": "motir",
       "title": "한국-사우디아라비아, 자원·산업 협력 동반자 관계 강화",
@@ -77,13 +91,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "2026년 1/4분기 GDP 잠정치 발표",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
-      "date": 1781242140000,
-      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -322,13 +329,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965972&call_from=rsslink",
       "date": 1780643700000,
       "dateStr": "Fri, 05 Jun 2026 07:15:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "한국 경제 글로벌 위상 제고",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
-      "date": 1780638660000,
-      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
     },
     {
       "dept": "mofe",
@@ -614,6 +614,13 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "mofa",
+      "title": "「제9차 경제안보외교포럼」 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766804&call_from=rsslink",
+      "date": 1781595770000,
+      "dateStr": "Tue, 16 Jun 2026 07:42:50 GMT"
+    },
     {
       "dept": "mpb",
       "title": "국민이 직접 제안하는 국민참여예산 요구 전년대비 대폭 증가",
@@ -956,13 +963,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766373&call_from=rsslink",
       "date": 1781253811000,
       "dateStr": "Fri, 12 Jun 2026 08:43:31 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-모로코 경제협력 가속화",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766372&call_from=rsslink",
-      "date": 1781253772000,
-      "dateStr": "Fri, 12 Jun 2026 08:42:52 GMT"
     }
   ]
 }
