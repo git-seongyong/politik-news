@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.16 12:16",
+  "lastUpdated": "06.16 12:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -70,6 +70,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "2026년 1/4분기 GDP 잠정치 발표",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
+      "date": 1781242140000,
+      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -311,6 +318,13 @@
     },
     {
       "dept": "mofe",
+      "title": "한국 경제 글로벌 위상 제고",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
+      "date": 1780638660000,
+      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
+    },
+    {
+      "dept": "mofe",
       "title": "경기회복·글로벌 경제·민생물가, 정부출범 1주년 성과",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965960&call_from=rsslink",
       "date": 1780638360000,
@@ -336,20 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965927&call_from=rsslink",
       "date": 1780634280000,
       "dateStr": "Fri, 05 Jun 2026 04:38:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "4년간 지방정부를 이끌어갈 지역 일꾼들이 새롭게 선출됐습니다",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965896&call_from=rsslink",
-      "date": 1780564980000,
-      "dateStr": "Thu, 04 Jun 2026 09:23:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "정부, 5년간 2조 규모 공공수요 창출…'K-드론' 시대 연다",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965886&call_from=rsslink",
-      "date": 1780562880000,
-      "dateStr": "Thu, 04 Jun 2026 08:48:00 GMT"
     }
   ],
   "actually": [
@@ -571,13 +571,6 @@
       "dateStr": "Tue, 02 Jun 2026 06:40:41 GMT"
     },
     {
-      "dept": "mofe",
-      "title": "(보도설명) 국부펀드의 명칭, 재원, 규모 등 구체적인 설립방안은 전혀 결정된 바 없습니다.",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965708&call_from=rsslink",
-      "date": 1780326000000,
-      "dateStr": "Mon, 01 Jun 2026 15:00:00 GMT"
-    },
-    {
       "dept": "fsc",
       "title": "금융위 \"1천만원 이상 가상자산 이전거래 보고의무, 합리적 대안 검토 중\"",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965557&call_from=rsslink",
@@ -607,6 +600,13 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "mofe",
+      "title": "정책금융기관으로서 역할 강화를 위한 한국수출입은행 직&middot;간접 투자제도 개선",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766698&call_from=rsslink",
+      "date": 1781577546000,
+      "dateStr": "Tue, 16 Jun 2026 02:39:06 GMT"
+    },
     {
       "dept": "nts",
       "title": "국세청의 아프리카 세정외교 제2탄, 가나와 K-전자세정 공유하고 징수공조 협력 논의",
@@ -949,13 +949,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766364&call_from=rsslink",
       "date": 1781251686000,
       "dateStr": "Fri, 12 Jun 2026 08:08:06 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 김민석 국무총리, 경상남도 남해군 농어촌 기본소득 시범사업 현장점검",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766365&call_from=rsslink",
-      "date": 1781250233000,
-      "dateStr": "Fri, 12 Jun 2026 07:43:53 GMT"
     }
   ]
 }
