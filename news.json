@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.17 10:15",
+  "lastUpdated": "06.17 10:45",
   "policynews": [
+    {
+      "dept": "mofa",
+      "title": "대통령-교황「레오 14세」면담 및 국무원장 면담",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966661&call_from=rsslink",
+      "date": 1781658540000,
+      "dateStr": "Wed, 17 Jun 2026 01:09:00 GMT"
+    },
     {
       "dept": "moel",
       "title": "불법하도급 신고포상금 200만 원 상한 폐지…행정처분도 강화",
@@ -294,13 +301,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966098&call_from=rsslink",
       "date": 1780898220000,
       "dateStr": "Mon, 08 Jun 2026 05:57:00 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "청년카페로 오세요! '청년성장 프로젝트'",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966096&call_from=rsslink",
-      "date": 1780897680000,
-      "dateStr": "Mon, 08 Jun 2026 05:48:00 GMT"
     },
     {
       "dept": "fsc",
@@ -650,11 +650,32 @@
   ],
   "pressrelease": [
     {
+      "dept": "moel",
+      "title": "포괄임금 오남용 근절 권역별 릴레이 감독,  구로&middot;가산 이어 '판교테크노밸리'로 확대",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766868&call_from=rsslink",
+      "date": 1781657805000,
+      "dateStr": "Wed, 17 Jun 2026 00:56:45 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "일자리전담반 통해 부문별 고용대책 본격 준비",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766867&call_from=rsslink",
+      "date": 1781657620000,
+      "dateStr": "Wed, 17 Jun 2026 00:53:40 GMT"
+    },
+    {
       "dept": "mofa",
       "title": "2026년 제1차 한.중앙아시아 정상회의 제2차 고위관리회의 개최(6.16.)",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766846&call_from=rsslink",
       "date": 1781647203000,
       "dateStr": "Tue, 16 Jun 2026 22:00:03 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "관계부처 합동 6월 일자리전담반(TF) 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766866&call_from=rsslink",
+      "date": 1781622000000,
+      "dateStr": "Tue, 16 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "motir",
@@ -975,27 +996,6 @@
       "dept": "fsc",
       "title": "'26년 2분기 혁신금융서비스 지정 정기신청 개시",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766499&call_from=rsslink",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "「국민참여형 국민성장펀드」의 운용사들과 함께 국민재산의 운용성과를 높일 수 있는 방안을 논의하였습니다.",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766489&call_from=rsslink",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "이억원 금융위원장, 런던금융특구 시장(Lady Mayor) 면담",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766575&call_from=rsslink",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "6월 22일 출시 청년미래적금, 가입절차&middot;심사일정&middot;갈아타기 방법 등 주요정보에 대해 미리 확인하세요!",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766568&call_from=rsslink",
       "date": 1781449200000,
       "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
     }
