@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "06.17 17:15",
+  "lastUpdated": "06.17 17:46",
   "policynews": [
+    {
+      "dept": "moel",
+      "title": "청년 직업훈련 'K-뉴딜 아카데미' 53개 기업 72개 선정",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966694&call_from=rsslink",
+      "date": 1781685360000,
+      "dateStr": "Wed, 17 Jun 2026 08:36:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "금융사, 연체채권 팔아도 고객보호 책임…기계적 매각 관행 억제",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966693&call_from=rsslink",
+      "date": 1781684700000,
+      "dateStr": "Wed, 17 Jun 2026 08:25:00 GMT"
+    },
     {
       "dept": "mpb",
       "title": "2027년 국민참여예산 요구 현황",
@@ -56,13 +70,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966618&call_from=rsslink",
       "date": 1781597580000,
       "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "사업자대출, 용도에 맞게 사용하셨나요?",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
-      "date": 1781595840000,
-      "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
     },
     {
       "dept": "opm",
@@ -147,13 +154,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "2026년 1/4분기 GDP 잠정치 발표",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
-      "date": 1781242140000,
-      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -749,6 +749,13 @@
     },
     {
       "dept": "fsc",
+      "title": "사업보고서 등에 대한 조사&middot;감리결과 조치 - 제11차 금융위원회('26.6.17.) 조치 의결",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766970&call_from=rsslink",
+      "date": 1781622000000,
+      "dateStr": "Tue, 16 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "fsc",
       "title": "포용금융, 일회성 지원을 넘어  금융시스템을 전면적으로 재설계 합니다.  - 이억원 금융위원장, 포용금융 현장 大토론회 주재",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766940&call_from=rsslink",
       "date": 1781622000000,
@@ -977,13 +984,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766523&call_from=rsslink",
       "date": 1781489944000,
       "dateStr": "Mon, 15 Jun 2026 02:19:04 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "국산 AI칩, 수요가 당기고 제조가 밀어준다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766522&call_from=rsslink",
-      "date": 1781489773000,
-      "dateStr": "Mon, 15 Jun 2026 02:16:13 GMT"
     }
   ]
 }
