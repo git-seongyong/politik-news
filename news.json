@@ -1,6 +1,34 @@
 {
-  "lastUpdated": "06.17 16:15",
+  "lastUpdated": "06.17 16:45",
   "policynews": [
+    {
+      "dept": "mpb",
+      "title": "2027년 국민참여예산 요구 현황",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966680&call_from=rsslink",
+      "date": 1781680920000,
+      "dateStr": "Wed, 17 Jun 2026 07:22:00 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "한-UAE '원유 공급·원전·플랜트 분야' 전략적 협력 강화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966685&call_from=rsslink",
+      "date": 1781680320000,
+      "dateStr": "Wed, 17 Jun 2026 07:12:00 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "한국-카타르, LNG 최우선 공급 재확인!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966675&call_from=rsslink",
+      "date": 1781678520000,
+      "dateStr": "Wed, 17 Jun 2026 06:42:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "6000억 원 규모, 국민성장펀드 2차 펀드 출시",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966674&call_from=rsslink",
+      "date": 1781678400000,
+      "dateStr": "Wed, 17 Jun 2026 06:40:00 GMT"
+    },
     {
       "dept": "nts",
       "title": "가족 간 작성한 2억 원 무이자 차용증, 쓰기만 하면 세금 0원일까?",
@@ -28,6 +56,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966618&call_from=rsslink",
       "date": 1781597580000,
       "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "사업자대출, 용도에 맞게 사용하셨나요?",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
+      "date": 1781595840000,
+      "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
     },
     {
       "dept": "opm",
@@ -112,6 +147,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "2026년 1/4분기 GDP 잠정치 발표",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
+      "date": 1781242140000,
+      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -308,51 +350,16 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966069&call_from=rsslink",
       "date": 1780894320000,
       "dateStr": "Mon, 08 Jun 2026 04:52:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "실용과 성과로 다시 뛰는 대한민국 경제",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966057&call_from=rsslink",
-      "date": 1780884360000,
-      "dateStr": "Mon, 08 Jun 2026 02:06:00 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "지역균형성장 등 국가아젠다 뒷받침!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966053&call_from=rsslink",
-      "date": 1780883040000,
-      "dateStr": "Mon, 08 Jun 2026 01:44:00 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "민간투자 100조 원 시대 도약",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966048&call_from=rsslink",
-      "date": 1780881960000,
-      "dateStr": "Mon, 08 Jun 2026 01:26:00 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한·사우디, 안정적 원유·나프타 공급 및 플랜트 협력 강화 논의",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965972&call_from=rsslink",
-      "date": 1780643700000,
-      "dateStr": "Fri, 05 Jun 2026 07:15:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "경기회복·글로벌 경제·민생물가, 정부출범 1주년 성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965960&call_from=rsslink",
-      "date": 1780638360000,
-      "dateStr": "Fri, 05 Jun 2026 05:46:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "국민성장펀드 출시 등 국민이 체감할 수 있는 다양한 금융상품 도입",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965955&call_from=rsslink",
-      "date": 1780637340000,
-      "dateStr": "Fri, 05 Jun 2026 05:29:00 GMT"
     }
   ],
   "actually": [
+    {
+      "dept": "motir",
+      "title": "(설명자료)정부는 호주, 캐나다 등 자원 우방국과 협력을 지속 강화해 나가고 있습니다",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966689&call_from=rsslink",
+      "date": 1781677892000,
+      "dateStr": "Wed, 17 Jun 2026 06:31:32 GMT"
+    },
     {
       "dept": "mofe",
       "title": "(보도설명) 구조조정 과정에서 취득한 자사주 소각시 비과세하는 방안은 결정된 바 없습니다.",
@@ -625,16 +632,37 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965383&call_from=rsslink",
       "date": 1780016109000,
       "dateStr": "Fri, 29 May 2026 00:55:09 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "(보도설명) 국부펀드의 구체적 재원 조성 방안 및 투자대상 등은 결정된 바 없습니다.",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148964903&call_from=rsslink",
-      "date": 1779360191000,
-      "dateStr": "Thu, 21 May 2026 10:43:11 GMT"
     }
   ],
   "pressrelease": [
+    {
+      "dept": "moel",
+      "title": "소상공인과 노동자가 함께 사는 소중한 일터, 현장에서 길을 찾는다",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766960&call_from=rsslink",
+      "date": 1781680981000,
+      "dateStr": "Wed, 17 Jun 2026 07:23:01 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 국무조정실장 주재 배달라이더 안전사고 감축 관련 관계부처 회의",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766962&call_from=rsslink",
+      "date": 1781680950000,
+      "dateStr": "Wed, 17 Jun 2026 07:22:30 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "박홍근 장관, 스마트헬스케어센터 방문 및 통합돌봄 현장 간담회 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766961&call_from=rsslink",
+      "date": 1781680843000,
+      "dateStr": "Wed, 17 Jun 2026 07:20:43 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "제6차 보조금관리위원회 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766954&call_from=rsslink",
+      "date": 1781679633000,
+      "dateStr": "Wed, 17 Jun 2026 07:00:33 GMT"
+    },
     {
       "dept": "opm",
       "title": "[보도자료] 김민석 국무총리 해상풍력 공급망 컨퍼런스 전시회 방문",
@@ -723,6 +751,13 @@
       "dept": "fsc",
       "title": "포용금융, 일회성 지원을 넘어  금융시스템을 전면적으로 재설계 합니다.  - 이억원 금융위원장, 포용금융 현장 大토론회 주재",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766940&call_from=rsslink",
+      "date": 1781622000000,
+      "dateStr": "Tue, 16 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "&#xFF62;상호금융업감독규정&#xFF63; 개정안 금융위 의결",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766963&call_from=rsslink",
       "date": 1781622000000,
       "dateStr": "Tue, 16 Jun 2026 15:00:00 GMT"
     },
@@ -949,41 +984,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766522&call_from=rsslink",
       "date": 1781489773000,
       "dateStr": "Mon, 15 Jun 2026 02:16:13 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-방글라데시 포괄적경제동반자협정(CEPA) 제4차 공식협상 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766512&call_from=rsslink",
-      "date": 1781488295000,
-      "dateStr": "Mon, 15 Jun 2026 01:51:35 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "「화학산업포럼」 발대식 개최,  화학산업 생태계 경쟁력 강화 본격 논의",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766511&call_from=rsslink",
-      "date": 1781488248000,
-      "dateStr": "Mon, 15 Jun 2026 01:50:48 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "전기&middot;전자 표준 글로벌 수장들, 서울에 모인다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766510&call_from=rsslink",
-      "date": 1781488153000,
-      "dateStr": "Mon, 15 Jun 2026 01:49:13 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "2026년 5월 정보통신산업(ICT) 수출입 동향",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766509&call_from=rsslink",
-      "date": 1781488091000,
-      "dateStr": "Mon, 15 Jun 2026 01:48:11 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "고용노동부 '공인 현장전문가' 대상 전문교육과정 운영",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766498&call_from=rsslink",
-      "date": 1781486748000,
-      "dateStr": "Mon, 15 Jun 2026 01:25:48 GMT"
     }
   ]
 }
