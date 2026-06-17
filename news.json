@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.17 11:15",
+  "lastUpdated": "06.17 11:45",
   "policynews": [
+    {
+      "dept": "moel",
+      "title": "내 월급의 고용보험료는 과연 어디로? ① 실업급여 편",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966671&call_from=rsslink",
+      "date": 1781662260000,
+      "dateStr": "Wed, 17 Jun 2026 02:11:00 GMT"
+    },
     {
       "dept": "mofa",
       "title": "대통령-교황「레오 14세」면담 및 국무원장 면담",
@@ -273,13 +280,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966107&call_from=rsslink",
       "date": 1780902600000,
       "dateStr": "Mon, 08 Jun 2026 07:10:00 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "국가전문자격 시험 문제지, 누구나 자유롭게 사용하세요!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966100&call_from=rsslink",
-      "date": 1780901820000,
-      "dateStr": "Mon, 08 Jun 2026 06:57:00 GMT"
     },
     {
       "dept": "motir",
@@ -650,6 +650,20 @@
   ],
   "pressrelease": [
     {
+      "dept": "motir",
+      "title": "한-몽 CEPA 협상 진전 등 전략적 경협 가속화 방안 논의",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766891&call_from=rsslink",
+      "date": 1781661854000,
+      "dateStr": "Wed, 17 Jun 2026 02:04:14 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "2026년 5월 자동차산업 동향",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766890&call_from=rsslink",
+      "date": 1781661803000,
+      "dateStr": "Wed, 17 Jun 2026 02:03:23 GMT"
+    },
+    {
       "dept": "moel",
       "title": "포괄임금 오남용 근절 권역별 릴레이 감독,  구로&middot;가산 이어 '판교테크노밸리'로 확대",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766868&call_from=rsslink",
@@ -982,20 +996,6 @@
       "dept": "fsc",
       "title": "지역기업 지원을 위해 6개 정책금융기관이 함께 현장으로 찾아갑니다.  - 「정책금융 동행」 대전에서 첫 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766472&call_from=rsslink",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "2026년 5월 가계대출 동향(잠정) 및   &#xFF62;가계부채 점검회의&#xFF63; 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766481&call_from=rsslink",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "'26년 2분기 혁신금융서비스 지정 정기신청 개시",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766499&call_from=rsslink",
       "date": 1781449200000,
       "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
     }
