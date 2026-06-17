@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.17 13:15",
+  "lastUpdated": "06.17 13:45",
   "policynews": [
     {
       "dept": "moel",
@@ -21,6 +21,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966618&call_from=rsslink",
       "date": 1781597580000,
       "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "사업자대출, 용도에 맞게 사용하셨나요?",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
+      "date": 1781595840000,
+      "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
     },
     {
       "dept": "opm",
@@ -105,6 +112,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "2026년 1/4분기 GDP 잠정치 발표",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
+      "date": 1781242140000,
+      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -332,24 +346,10 @@
     },
     {
       "dept": "mofe",
-      "title": "경기회복·글로벌 경제·민생물가, 정부출범 1주년 성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965960&call_from=rsslink",
-      "date": 1780638360000,
-      "dateStr": "Fri, 05 Jun 2026 05:46:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "국민성장펀드 출시 등 국민이 체감할 수 있는 다양한 금융상품 도입",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965955&call_from=rsslink",
-      "date": 1780637340000,
-      "dateStr": "Fri, 05 Jun 2026 05:29:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "적극행정이 지켜낸 51가구의 꿈과 희망!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965928&call_from=rsslink",
-      "date": 1780634460000,
-      "dateStr": "Fri, 05 Jun 2026 04:41:00 GMT"
+      "title": "한국 경제 글로벌 위상 제고",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965962&call_from=rsslink",
+      "date": 1780638660000,
+      "dateStr": "Fri, 05 Jun 2026 05:51:00 GMT"
     }
   ],
   "actually": [
@@ -550,13 +550,6 @@
       "dateStr": "Mon, 08 Jun 2026 15:00:00 GMT"
     },
     {
-      "dept": "moel",
-      "title": "(설명) 조선비즈, &quot;&quot;폭발 사고 났다고 6개월 작업중지는 과도&quot;… 정부, 한화에 19억 지급 확정&quot; 기사 관련",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966133&call_from=rsslink",
-      "date": 1780912098000,
-      "dateStr": "Mon, 08 Jun 2026 09:48:18 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "지방교육재정교부금 개편방식에 대해서는 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966128&call_from=rsslink",
@@ -649,6 +642,27 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "moel",
+      "title": "폴리텍, 요르단에 직업교육 노하우 전한다",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766924&call_from=rsslink",
+      "date": 1781670574000,
+      "dateStr": "Wed, 17 Jun 2026 04:29:34 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "기업과 함께 청년이 큰다(KNDA)! K-뉴딜 아카데미 참여기업 선정",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766923&call_from=rsslink",
+      "date": 1781670481000,
+      "dateStr": "Wed, 17 Jun 2026 04:28:01 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "고용노동부, 온열질환 예방을 위한 「2026 이동노동자 생수나눔 캠페인」 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766922&call_from=rsslink",
+      "date": 1781670210000,
+      "dateStr": "Wed, 17 Jun 2026 04:23:30 GMT"
+    },
     {
       "dept": "motir",
       "title": "한-몽 CEPA 협상 진전 등 전략적 경협 가속화 방안 논의",
@@ -977,27 +991,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766470&call_from=rsslink",
       "date": 1781483027000,
       "dateStr": "Mon, 15 Jun 2026 00:23:47 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "올여름, 경제가 놀이가 된다!  재경부, '2026 경제캠프' 참가자 960명 모집",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766655&call_from=rsslink",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "정부부처 최초, AI 에이전트 해커톤 성공적 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766436&call_from=rsslink",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "지역기업 지원을 위해 6개 정책금융기관이 함께 현장으로 찾아갑니다.  - 「정책금융 동행」 대전에서 첫 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766472&call_from=rsslink",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
     }
   ]
 }
