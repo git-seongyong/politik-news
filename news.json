@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.17 14:15",
+  "lastUpdated": "06.17 14:45",
   "policynews": [
     {
       "dept": "moel",
@@ -643,6 +643,13 @@
   ],
   "pressrelease": [
     {
+      "dept": "opm",
+      "title": "[보도자료] 국무조정실장 주재 국민참정권 침해 관련 청년&middot;전문가 토론회",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766927&call_from=rsslink",
+      "date": 1781670944000,
+      "dateStr": "Wed, 17 Jun 2026 04:35:44 GMT"
+    },
+    {
       "dept": "moel",
       "title": "폴리텍, 요르단에 직업교육 노하우 전한다",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766924&call_from=rsslink",
@@ -984,13 +991,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766484&call_from=rsslink",
       "date": 1781484555000,
       "dateStr": "Mon, 15 Jun 2026 00:49:15 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "기획예산처, 국민 추천&middot;심사 방식으로 특별성과포상제도 전면 개편",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766470&call_from=rsslink",
-      "date": 1781483027000,
-      "dateStr": "Mon, 15 Jun 2026 00:23:47 GMT"
     }
   ]
 }
