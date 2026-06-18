@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.18 11:15",
+  "lastUpdated": "06.18 11:45",
   "policynews": [
+    {
+      "dept": "fsc",
+      "title": "청년미래적금 6월 22일 출시, 궁금증 총정리 ①",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966732&call_from=rsslink",
+      "date": 1781749380000,
+      "dateStr": "Thu, 18 Jun 2026 02:23:00 GMT"
+    },
     {
       "dept": "opm",
       "title": "당신은 혼자가 아닙니다",
@@ -343,16 +350,16 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966087&call_from=rsslink",
       "date": 1780900080000,
       "dateStr": "Mon, 08 Jun 2026 06:28:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "원화 약세 흐름에 편승한 투기·시장교란 의심 행위 등 점검",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966081&call_from=rsslink",
-      "date": 1780899060000,
-      "dateStr": "Mon, 08 Jun 2026 06:11:00 GMT"
     }
   ],
   "actually": [
+    {
+      "dept": "mofe",
+      "title": "(보도설명) 2026년 세법개정안의 구체적인 내용은 아직 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966740&call_from=rsslink",
+      "date": 1781746618000,
+      "dateStr": "Thu, 18 Jun 2026 01:36:58 GMT"
+    },
     {
       "dept": "motir",
       "title": "(설명자료)정부는 호주, 캐나다 등 자원 우방국과 협력을 지속 강화해 나가고 있습니다",
