@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.18 20:15",
+  "lastUpdated": "06.18 20:45",
   "policynews": [
     {
       "dept": "nts",
@@ -643,6 +643,13 @@
   ],
   "pressrelease": [
     {
+      "dept": "moel",
+      "title": "(참고) 최저임금위원회, 2026년 제7차 전원회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767205&call_from=rsslink",
+      "date": 1781782074000,
+      "dateStr": "Thu, 18 Jun 2026 11:27:54 GMT"
+    },
+    {
       "dept": "motir",
       "title": "(참고자료)최고가격제 손실보전을 위한  재정지원 고시 마련",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767203&call_from=rsslink",
@@ -984,13 +991,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766810&call_from=rsslink",
       "date": 1781598751000,
       "dateStr": "Tue, 16 Jun 2026 08:32:31 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "「제9차 경제안보외교포럼」 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766804&call_from=rsslink",
-      "date": 1781595770000,
-      "dateStr": "Tue, 16 Jun 2026 07:42:50 GMT"
     }
   ]
 }
