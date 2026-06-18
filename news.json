@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.19 08:15",
+  "lastUpdated": "06.19 08:45",
   "policynews": [
     {
       "dept": "nts",
@@ -128,6 +128,13 @@
       "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "사업자대출, 용도에 맞게 사용하셨나요?",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
+      "date": 1781595840000,
+      "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
+    },
+    {
       "dept": "opm",
       "title": "종전 협상 타결 이후 변화된 상황에 맞는 대책을 점검해 가겠습니다",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966616&call_from=rsslink",
@@ -210,6 +217,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966405&call_from=rsslink",
       "date": 1781242740000,
       "dateStr": "Fri, 12 Jun 2026 05:39:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "2026년 1/4분기 GDP 잠정치 발표",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
+      "date": 1781242140000,
+      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
     },
     {
       "dept": "mofe",
@@ -336,20 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966192&call_from=rsslink",
       "date": 1781045280000,
       "dateStr": "Tue, 09 Jun 2026 22:48:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "서민 생활 안정과 물가 관리에 정책 역량을 집중해 나가겠습니다",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966206&call_from=rsslink",
-      "date": 1780994820000,
-      "dateStr": "Tue, 09 Jun 2026 08:47:00 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "청년·지역인재 채용 우수기업에 정책자금 대출 금리 등 우대",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966195&call_from=rsslink",
-      "date": 1780992600000,
-      "dateStr": "Tue, 09 Jun 2026 08:10:00 GMT"
     }
   ],
   "actually": [
@@ -643,11 +643,39 @@
   ],
   "pressrelease": [
     {
+      "dept": "mofe",
+      "title": "비상경제본부 회의 겸 경제관계장관회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767216&call_from=rsslink",
+      "date": 1781824737000,
+      "dateStr": "Thu, 18 Jun 2026 23:18:57 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "'구독, 여가•문화 서비스' 중심 『생활밀착 서비스 개선방안』 발표",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767214&call_from=rsslink",
+      "date": 1781823600000,
+      "dateStr": "Thu, 18 Jun 2026 23:00:00 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "외교부 공관장 인사",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767213&call_from=rsslink",
+      "date": 1781823600000,
+      "dateStr": "Thu, 18 Jun 2026 23:00:00 GMT"
+    },
+    {
       "dept": "mofa",
       "title": "유엔기후변화협약 당사국총회 준비회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767209&call_from=rsslink",
       "date": 1781819122000,
       "dateStr": "Thu, 18 Jun 2026 21:45:22 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "제270차 대외경제장관회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767217&call_from=rsslink",
+      "date": 1781794800000,
+      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "moel",
@@ -963,34 +991,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766976&call_from=rsslink",
       "date": 1781622000000,
       "dateStr": "Tue, 16 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "연체 채무자의 부담을 가중시키는  금융회사의 채권매각 관행을 바로잡겠습니다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766934&call_from=rsslink",
-      "date": 1781622000000,
-      "dateStr": "Tue, 16 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-UAE, 특별 전략적 동반자 관계를 바탕으로 원유 공급과 원전&middot;플랜트 분야 협력 심화",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766833&call_from=rsslink",
-      "date": 1781602249000,
-      "dateStr": "Tue, 16 Jun 2026 09:30:49 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "(참고) 최저임금위원회, 2026년 제6차 전원회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766814&call_from=rsslink",
-      "date": 1781600630000,
-      "dateStr": "Tue, 16 Jun 2026 09:03:50 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 김민석 국무총리 주재 전남광주통합특별시 출범준비 관계기관 간담회",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766812&call_from=rsslink",
-      "date": 1781600359000,
-      "dateStr": "Tue, 16 Jun 2026 08:59:19 GMT"
     }
   ]
 }
