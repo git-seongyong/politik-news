@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.18 15:15",
+  "lastUpdated": "06.18 15:45",
   "policynews": [
+    {
+      "dept": "mofe",
+      "title": "하반기 LNG·LPG 할당관세 0%로 인하…AI로 민생물가 모니터링",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966763&call_from=rsslink",
+      "date": 1781763240000,
+      "dateStr": "Thu, 18 Jun 2026 06:14:00 GMT"
+    },
     {
       "dept": "moel",
       "title": "'이동노동자 쉼터'에서 쉬어가며 배달하세요",
@@ -343,13 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966195&call_from=rsslink",
       "date": 1780992600000,
       "dateStr": "Tue, 09 Jun 2026 08:10:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "캘박! 청년미래적금 가입신청 일정 안내",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966185&call_from=rsslink",
-      "date": 1780985880000,
-      "dateStr": "Tue, 09 Jun 2026 06:18:00 GMT"
     }
   ],
   "actually": [
@@ -657,6 +657,27 @@
   ],
   "pressrelease": [
     {
+      "dept": "motir",
+      "title": "한-체코, 원전 협력으로 쌓은 신뢰를 첨단산업 협력으로 확장한다",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767121&call_from=rsslink",
+      "date": 1781763733000,
+      "dateStr": "Thu, 18 Jun 2026 06:22:13 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "AI, 자동차&middot;선박&middot;로봇이라는 몸을 입다",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767120&call_from=rsslink",
+      "date": 1781763682000,
+      "dateStr": "Thu, 18 Jun 2026 06:21:22 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "「한-중남미 에너지 전환 협력:  핵심광물 및 에너지 다각화」 포럼 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767104&call_from=rsslink",
+      "date": 1781761517000,
+      "dateStr": "Thu, 18 Jun 2026 05:45:17 GMT"
+    },
+    {
       "dept": "nts",
       "title": "창업에만 집중하세요... 국세청, &#xFF62;스타트업 세금든든케어&#xFF63;로 청년 사장님을 지원합니다.",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767090&call_from=rsslink",
@@ -702,6 +723,13 @@
       "dept": "mofe",
       "title": "민생물가 특별관리 관계장관 TF 11차 회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767033&call_from=rsslink",
+      "date": 1781708400000,
+      "dateStr": "Wed, 17 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "확대 거시경제금융회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767103&call_from=rsslink",
       "date": 1781708400000,
       "dateStr": "Wed, 17 Jun 2026 15:00:00 GMT"
     },
@@ -977,34 +1005,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766832&call_from=rsslink",
       "date": 1781535600000,
       "dateStr": "Mon, 15 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "민간이 직접 기획하는 경제발전공유사업(KSP), 우리 기업 진출을 강화하는 방향으로 본격 개편",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766667&call_from=rsslink",
-      "date": 1781535600000,
-      "dateStr": "Mon, 15 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "잘『알고투자』하는 금융교육으로 국민의 안정적 자산형성을 지원하겠습니다.  - 금융위원회 부위원장, '26년 제1차 금융교육협의회 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766754&call_from=rsslink",
-      "date": 1781535600000,
-      "dateStr": "Mon, 15 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "&quot;AI 발전을 가로막고 국민불편 초래하는 낡은 개인신용정보 동의제도 확 바꾼다&quot;  - 개인신용정보 동의제도 개편 법률자문단 Kick-off 회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766719&call_from=rsslink",
-      "date": 1781535600000,
-      "dateStr": "Mon, 15 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "미-이란간 합의 관련 외교부 대변인 성명",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766632&call_from=rsslink",
-      "date": 1781519898000,
-      "dateStr": "Mon, 15 Jun 2026 10:38:18 GMT"
     }
   ]
 }
