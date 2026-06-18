@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.18 18:15",
+  "lastUpdated": "06.18 18:45",
   "policynews": [
+    {
+      "dept": "nts",
+      "title": "청년 창업자 세금 신고 돕는다…'스타트업 세금든든케어' 시행",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966771&call_from=rsslink",
+      "date": 1781772300000,
+      "dateStr": "Thu, 18 Jun 2026 08:45:00 GMT"
+    },
     {
       "dept": "mofe",
       "title": "한국 '국가경쟁력 21위' 6단계 상승…30-50클럽 중 미국 이어 2위",
@@ -343,13 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966192&call_from=rsslink",
       "date": 1781045280000,
       "dateStr": "Tue, 09 Jun 2026 22:48:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "서민 생활 안정과 물가 관리에 정책 역량을 집중해 나가겠습니다",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966206&call_from=rsslink",
-      "date": 1780994820000,
-      "dateStr": "Tue, 09 Jun 2026 08:47:00 GMT"
     }
   ],
   "actually": [
@@ -642,6 +642,13 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "mofa",
+      "title": "유엔총회 군사분야 AI 결의  &#xFF62;비공식 의견교환&#xFF63; (6.15.-6.17.) 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767174&call_from=rsslink",
+      "date": 1781773900000,
+      "dateStr": "Thu, 18 Jun 2026 09:11:40 GMT"
+    },
     {
       "dept": "motir",
       "title": "무역위, 태국산 이음매 없는 동관에 덤핑방지관세 부과 건의",
@@ -984,13 +991,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766794&call_from=rsslink",
       "date": 1781593328000,
       "dateStr": "Tue, 16 Jun 2026 07:02:08 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "한국장애인고용공단, 굿윌스토어 재활용품 기증 캠페인으로 장애인 일자리 창출 지원",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766753&call_from=rsslink",
-      "date": 1781589446000,
-      "dateStr": "Tue, 16 Jun 2026 05:57:26 GMT"
     }
   ]
 }
