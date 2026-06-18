@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "06.18 14:15",
+  "lastUpdated": "06.18 14:45",
   "policynews": [
+    {
+      "dept": "moel",
+      "title": "'이동노동자 쉼터'에서 쉬어가며 배달하세요",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966764&call_from=rsslink",
+      "date": 1781760240000,
+      "dateStr": "Thu, 18 Jun 2026 05:24:00 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "한국-UAE, 원유·원전·플랜트 협력 더 깊게, 더 넓게!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966751&call_from=rsslink",
+      "date": 1781757780000,
+      "dateStr": "Thu, 18 Jun 2026 04:43:00 GMT"
+    },
     {
       "dept": "mpb",
       "title": "국고보조금 부정수급 근절대책 추진",
@@ -336,23 +350,23 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966185&call_from=rsslink",
       "date": 1780985880000,
       "dateStr": "Tue, 09 Jun 2026 06:18:00 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "국민참여예산 제도 개편",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966149&call_from=rsslink",
-      "date": 1780970880000,
-      "dateStr": "Tue, 09 Jun 2026 02:08:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "청년의 내일을 위해 여야·전부처가 한자리에",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966107&call_from=rsslink",
-      "date": 1780902600000,
-      "dateStr": "Mon, 08 Jun 2026 07:10:00 GMT"
     }
   ],
   "actually": [
+    {
+      "dept": "fsc",
+      "title": "금융위 \"국민행복기금 초과회수금, 서민금융재원으로 활용\"",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966731&call_from=rsslink",
+      "date": 1781759520000,
+      "dateStr": "Thu, 18 Jun 2026 05:12:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도설명자료] 「'보완수사권' 민주당 전대 뒤 새지도부에 보고」(6.18., 문화일보) 보도 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966756&call_from=rsslink",
+      "date": 1781757175000,
+      "dateStr": "Thu, 18 Jun 2026 04:32:55 GMT"
+    },
     {
       "dept": "mofe",
       "title": "(보도설명) 2026년 세법개정안의 구체적인 내용은 아직 결정된 바 없습니다.",
@@ -643,18 +657,32 @@
   ],
   "pressrelease": [
     {
+      "dept": "nts",
+      "title": "창업에만 집중하세요... 국세청, &#xFF62;스타트업 세금든든케어&#xFF63;로 청년 사장님을 지원합니다.",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767090&call_from=rsslink",
+      "date": 1781759700000,
+      "dateStr": "Thu, 18 Jun 2026 05:15:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "박홍근 장관, 국가전략기술 NEXT 프로젝트 추진대회 참석",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767088&call_from=rsslink",
+      "date": 1781759516000,
+      "dateStr": "Thu, 18 Jun 2026 05:11:56 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "&quot;노동시간 줄이고, 기업 경쟁력 높이고&quot; 현장에서 성과 입증된 「워라밸+4.5 프로젝트」",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767087&call_from=rsslink",
+      "date": 1781759412000,
+      "dateStr": "Thu, 18 Jun 2026 05:10:12 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도자료] 런던기후행동주간 참석",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767075&call_from=rsslink",
       "date": 1781755504000,
       "dateStr": "Thu, 18 Jun 2026 04:05:04 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "확대 거시경제금융회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767028&call_from=rsslink",
-      "date": 1781743711000,
-      "dateStr": "Thu, 18 Jun 2026 00:48:31 GMT"
     },
     {
       "dept": "motir",
@@ -977,20 +1005,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766632&call_from=rsslink",
       "date": 1781519898000,
       "dateStr": "Mon, 15 Jun 2026 10:38:18 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-카타르, 안정적 LNG 도입 재개와 함께  첨단산업 협력에 힘 모으기로",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766631&call_from=rsslink",
-      "date": 1781519476000,
-      "dateStr": "Mon, 15 Jun 2026 10:31:16 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "(참고자료)울산 남구와 충남 당진시,  '산업위기선제대응지역' 신규 지정",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766594&call_from=rsslink",
-      "date": 1781510526000,
-      "dateStr": "Mon, 15 Jun 2026 08:02:06 GMT"
     }
   ]
 }
