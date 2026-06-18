@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.18 09:15",
+  "lastUpdated": "06.18 09:45",
   "policynews": [
     {
       "dept": "moel",
@@ -636,11 +636,25 @@
   ],
   "pressrelease": [
     {
+      "dept": "motir",
+      "title": "전기차 충전기 재검정, 미리미리 준비하세요",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767020&call_from=rsslink",
+      "date": 1781740744000,
+      "dateStr": "Wed, 17 Jun 2026 23:59:04 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "제5차 한-아제르바이잔 정책협의회(6.17.) 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767021&call_from=rsslink",
+      "date": 1781740493000,
+      "dateStr": "Wed, 17 Jun 2026 23:54:53 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도자료] 한성숙 국무총리 후보자, 데이터 기반 AI 행정을 위한 실무 공직자 간담회",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767009&call_from=rsslink",
-      "date": 1781693812000,
-      "dateStr": "Wed, 17 Jun 2026 10:56:52 GMT"
+      "date": 1781693760000,
+      "dateStr": "Wed, 17 Jun 2026 10:56:00 GMT"
     },
     {
       "dept": "mofe",
@@ -970,20 +984,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766578&call_from=rsslink",
       "date": 1781505036000,
       "dateStr": "Mon, 15 Jun 2026 06:30:36 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 김민석 국무총리 주재 제3차 국토공간 대전환 범정부 추진협의회 및 광역단체장 당선자 간담회",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766574&call_from=rsslink",
-      "date": 1781504389000,
-      "dateStr": "Mon, 15 Jun 2026 06:19:49 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "군용화약류 취급 사업장 전수 합동점검 실시",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766564&call_from=rsslink",
-      "date": 1781500040000,
-      "dateStr": "Mon, 15 Jun 2026 05:07:20 GMT"
     }
   ]
 }
