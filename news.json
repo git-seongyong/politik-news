@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.18 19:15",
+  "lastUpdated": "06.18 19:45",
   "policynews": [
     {
       "dept": "nts",
@@ -643,6 +643,13 @@
   ],
   "pressrelease": [
     {
+      "dept": "motir",
+      "title": "(참고자료)최고가격제 손실보전을 위한  재정지원 고시 마련",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767203&call_from=rsslink",
+      "date": 1781775194000,
+      "dateStr": "Thu, 18 Jun 2026 09:33:14 GMT"
+    },
+    {
       "dept": "mofa",
       "title": "유엔총회 군사분야 AI 결의  &#xFF62;비공식 의견교환&#xFF63; (6.15.-6.17.) 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767174&call_from=rsslink",
@@ -984,13 +991,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766804&call_from=rsslink",
       "date": 1781595770000,
       "dateStr": "Tue, 16 Jun 2026 07:42:50 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "국민이 직접 제안하는 국민참여예산 요구 전년대비 대폭 증가",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766794&call_from=rsslink",
-      "date": 1781593328000,
-      "dateStr": "Tue, 16 Jun 2026 07:02:08 GMT"
     }
   ]
 }
