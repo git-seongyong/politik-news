@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.18 12:15",
+  "lastUpdated": "06.18 12:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -72,25 +72,11 @@
       "dateStr": "Wed, 17 Jun 2026 02:11:00 GMT"
     },
     {
-      "dept": "mofa",
-      "title": "대통령-교황「레오 14세」면담 및 국무원장 면담",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966661&call_from=rsslink",
-      "date": 1781658540000,
-      "dateStr": "Wed, 17 Jun 2026 01:09:00 GMT"
-    },
-    {
       "dept": "moel",
       "title": "불법하도급 신고포상금 200만 원 상한 폐지…행정처분도 강화",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966618&call_from=rsslink",
       "date": 1781597580000,
       "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "사업자대출, 용도에 맞게 사용하셨나요?",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
-      "date": 1781595840000,
-      "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
     },
     {
       "dept": "opm",
@@ -142,13 +128,6 @@
       "dateStr": "Mon, 15 Jun 2026 04:06:00 GMT"
     },
     {
-      "dept": "mofa",
-      "title": "한-이탈리아 정상회담(2026.6.11.)",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966508&call_from=rsslink",
-      "date": 1781488020000,
-      "dateStr": "Mon, 15 Jun 2026 01:47:00 GMT"
-    },
-    {
       "dept": "moel",
       "title": "알바하면서 이런일 겪은 적 있나요?",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966426&call_from=rsslink",
@@ -178,31 +157,10 @@
     },
     {
       "dept": "mofe",
-      "title": "2026년 1/4분기 GDP 잠정치 발표",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
-      "date": 1781242140000,
-      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
-    },
-    {
-      "dept": "mofe",
       "title": "강제 예약 취소에 숙박비 폭등까지?",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966389&call_from=rsslink",
       "date": 1781241360000,
       "dateStr": "Fri, 12 Jun 2026 05:16:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "한-유럽연합 정상회담(2026.6.10.)",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966385&call_from=rsslink",
-      "date": 1781240880000,
-      "dateStr": "Fri, 12 Jun 2026 05:08:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "한-벨기에 정상회담(2026.6.10.)",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966383&call_from=rsslink",
-      "date": 1781240400000,
-      "dateStr": "Fri, 12 Jun 2026 05:00:00 GMT"
     },
     {
       "dept": "nts",
@@ -226,13 +184,6 @@
       "dateStr": "Thu, 11 Jun 2026 22:51:00 GMT"
     },
     {
-      "dept": "mofa",
-      "title": "미성년자 여권 재발급, 부모가 온라인 신청 가능",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966356&call_from=rsslink",
-      "date": 1781168160000,
-      "dateStr": "Thu, 11 Jun 2026 08:56:00 GMT"
-    },
-    {
       "dept": "nts",
       "title": "\"반사회적 탈세·체납 단호히 대응\"…국세청, 국민주권정부 1년 성과",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966337&call_from=rsslink",
@@ -252,13 +203,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966325&call_from=rsslink",
       "date": 1781157420000,
       "dateStr": "Thu, 11 Jun 2026 05:57:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "벨기에 동포 간담회 (2026.6.9.)",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966311&call_from=rsslink",
-      "date": 1781145360000,
-      "dateStr": "Thu, 11 Jun 2026 02:36:00 GMT"
     },
     {
       "dept": "opm",
@@ -294,13 +238,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966247&call_from=rsslink",
       "date": 1781067300000,
       "dateStr": "Wed, 10 Jun 2026 04:55:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "이재명 대통령, 유럽 순방·G7 정상회의 참석",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966235&call_from=rsslink",
-      "date": 1781066640000,
-      "dateStr": "Wed, 10 Jun 2026 04:44:00 GMT"
     },
     {
       "dept": "nts",
@@ -350,6 +287,69 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966087&call_from=rsslink",
       "date": 1780900080000,
       "dateStr": "Mon, 08 Jun 2026 06:28:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "원화 약세 흐름에 편승한 투기·시장교란 의심 행위 등 점검",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966081&call_from=rsslink",
+      "date": 1780899060000,
+      "dateStr": "Mon, 08 Jun 2026 06:11:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "보험사기 꼼짝마! 국민들의 보험금 누수를 막겠습니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966098&call_from=rsslink",
+      "date": 1780898220000,
+      "dateStr": "Mon, 08 Jun 2026 05:57:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "시장 리스크 요인 대응, 금융시장 안정적 관리",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966085&call_from=rsslink",
+      "date": 1780896900000,
+      "dateStr": "Mon, 08 Jun 2026 05:35:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "해외 특허료도 과세, 4조 원 이상의 국부유출 방지",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966069&call_from=rsslink",
+      "date": 1780894320000,
+      "dateStr": "Mon, 08 Jun 2026 04:52:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "실용과 성과로 다시 뛰는 대한민국 경제",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966057&call_from=rsslink",
+      "date": 1780884360000,
+      "dateStr": "Mon, 08 Jun 2026 02:06:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "지역균형성장 등 국가아젠다 뒷받침!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966053&call_from=rsslink",
+      "date": 1780883040000,
+      "dateStr": "Mon, 08 Jun 2026 01:44:00 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "민간투자 100조 원 시대 도약",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966048&call_from=rsslink",
+      "date": 1780881960000,
+      "dateStr": "Mon, 08 Jun 2026 01:26:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "국민성장펀드 출시 등 국민이 체감할 수 있는 다양한 금융상품 도입",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965955&call_from=rsslink",
+      "date": 1780637340000,
+      "dateStr": "Fri, 05 Jun 2026 05:29:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "적극행정이 지켜낸 51가구의 꿈과 희망!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148965928&call_from=rsslink",
+      "date": 1780634460000,
+      "dateStr": "Fri, 05 Jun 2026 04:41:00 GMT"
     }
   ],
   "actually": [
@@ -657,13 +657,6 @@
       "dateStr": "Wed, 17 Jun 2026 23:59:04 GMT"
     },
     {
-      "dept": "mofa",
-      "title": "제5차 한-아제르바이잔 정책협의회(6.17.) 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767021&call_from=rsslink",
-      "date": 1781740493000,
-      "dateStr": "Wed, 17 Jun 2026 23:54:53 GMT"
-    },
-    {
       "dept": "mofe",
       "title": "민생물가 특별관리 관계장관 TF 11차 회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767033&call_from=rsslink",
@@ -776,13 +769,6 @@
       "dateStr": "Wed, 17 Jun 2026 00:53:40 GMT"
     },
     {
-      "dept": "mofa",
-      "title": "2026년 제1차 한.중앙아시아 정상회의 제2차 고위관리회의 개최(6.16.)",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766846&call_from=rsslink",
-      "date": 1781647203000,
-      "dateStr": "Tue, 16 Jun 2026 22:00:03 GMT"
-    },
-    {
       "dept": "mofe",
       "title": "돼지고기 할당관세 현장점검 실시",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766945&call_from=rsslink",
@@ -860,13 +846,6 @@
       "dateStr": "Tue, 16 Jun 2026 08:32:31 GMT"
     },
     {
-      "dept": "mofa",
-      "title": "「제9차 경제안보외교포럼」 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766804&call_from=rsslink",
-      "date": 1781595770000,
-      "dateStr": "Tue, 16 Jun 2026 07:42:50 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "국민이 직접 제안하는 국민참여예산 요구 전년대비 대폭 증가",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766794&call_from=rsslink",
@@ -930,13 +909,6 @@
       "dateStr": "Tue, 16 Jun 2026 01:24:49 GMT"
     },
     {
-      "dept": "mofa",
-      "title": "제18차 한-우즈베키스탄 정책협의회 개최(6.15.)",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766658&call_from=rsslink",
-      "date": 1781570335000,
-      "dateStr": "Tue, 16 Jun 2026 00:38:55 GMT"
-    },
-    {
       "dept": "mofe",
       "title": "5극3특 성장동력 픽앤백(Pick&Back) 및 제3차 기업혁신 지원 민관협의체 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766832&call_from=rsslink",
@@ -965,13 +937,6 @@
       "dateStr": "Mon, 15 Jun 2026 15:00:00 GMT"
     },
     {
-      "dept": "mofa",
-      "title": "미-이란간 합의 관련 외교부 대변인 성명",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766632&call_from=rsslink",
-      "date": 1781519898000,
-      "dateStr": "Mon, 15 Jun 2026 10:38:18 GMT"
-    },
-    {
       "dept": "motir",
       "title": "한-카타르, 안정적 LNG 도입 재개와 함께  첨단산업 협력에 힘 모으기로",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766631&call_from=rsslink",
@@ -991,6 +956,41 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766586&call_from=rsslink",
       "date": 1781508831000,
       "dateStr": "Mon, 15 Jun 2026 07:33:51 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 국무조정실장 주재 중앙행정기관 감사관회의 보도자료 모두발언",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766578&call_from=rsslink",
+      "date": 1781505036000,
+      "dateStr": "Mon, 15 Jun 2026 06:30:36 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 김민석 국무총리 주재 제3차 국토공간 대전환 범정부 추진협의회 및 광역단체장 당선자 간담회",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766574&call_from=rsslink",
+      "date": 1781504389000,
+      "dateStr": "Mon, 15 Jun 2026 06:19:49 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "군용화약류 취급 사업장 전수 합동점검 실시",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766564&call_from=rsslink",
+      "date": 1781500040000,
+      "dateStr": "Mon, 15 Jun 2026 05:07:20 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "6월 16일부터 6월 30일까지, 이주노동자 권익 보호를 위한  「외국인 인권리더」를 모집합니다!",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766563&call_from=rsslink",
+      "date": 1781499973000,
+      "dateStr": "Mon, 15 Jun 2026 05:06:13 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "(참고) 고용노동부, 포스코 그룹의 중대재해 예방을 위한 특단의 대책 마련 촉구",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766562&call_from=rsslink",
+      "date": 1781499616000,
+      "dateStr": "Mon, 15 Jun 2026 05:00:16 GMT"
     }
   ]
 }
