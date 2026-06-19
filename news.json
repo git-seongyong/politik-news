@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.19 12:15",
+  "lastUpdated": "06.19 12:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -636,6 +636,13 @@
   ],
   "pressrelease": [
     {
+      "dept": "mpb",
+      "title": "한-스리랑카 디지털 재정협력 확대 논의",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767283&call_from=rsslink",
+      "date": 1781838069000,
+      "dateStr": "Fri, 19 Jun 2026 03:01:09 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도자료] 김민석 국무총리 중국 방문 사전보도자료",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767272&call_from=rsslink",
@@ -716,6 +723,13 @@
       "dept": "mofe",
       "title": "[보도참고]'K-지식공유사업 혁신방안' 대외경제장관회의 의결",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767251&call_from=rsslink",
+      "date": 1781794800000,
+      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "PG업 정산자금 보호 및 관리&middot;감독 강화 관련 전자금융거래법 시행령 및 감독규정 개정안 입법예고 실시",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767278&call_from=rsslink",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     },
@@ -970,20 +984,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766922&call_from=rsslink",
       "date": 1781670210000,
       "dateStr": "Wed, 17 Jun 2026 04:23:30 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-몽 CEPA 협상 진전 등 전략적 경협 가속화 방안 논의",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766891&call_from=rsslink",
-      "date": 1781661854000,
-      "dateStr": "Wed, 17 Jun 2026 02:04:14 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "2026년 5월 자동차산업 동향",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766890&call_from=rsslink",
-      "date": 1781661803000,
-      "dateStr": "Wed, 17 Jun 2026 02:03:23 GMT"
     }
   ]
 }
