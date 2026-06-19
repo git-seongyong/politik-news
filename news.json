@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "06.19 13:45",
+  "lastUpdated": "06.19 14:15",
   "policynews": [
+    {
+      "dept": "moel",
+      "title": "대지급금 부정수급 58명 적발…최대 5배 추가 징수 등 엄중 조치",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966816&call_from=rsslink",
+      "date": 1781844840000,
+      "dateStr": "Fri, 19 Jun 2026 04:54:00 GMT"
+    },
     {
       "dept": "mofe",
       "title": "정부, 포스트 중동 정책 본격화…\"미래 성장분야 새로운 기회 선점\"",
@@ -343,13 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966253&call_from=rsslink",
       "date": 1781077260000,
       "dateStr": "Wed, 10 Jun 2026 07:41:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "구 부총리 \"중동에 60억 달러 선금융 지원…인프라 전략펀드도 추진\"",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966264&call_from=rsslink",
-      "date": 1781077020000,
-      "dateStr": "Wed, 10 Jun 2026 07:37:00 GMT"
     }
   ],
   "actually": [
