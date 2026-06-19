@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.19 19:15",
+  "lastUpdated": "06.19 19:45",
   "policynews": [
     {
       "dept": "mofe",
@@ -366,6 +366,13 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966813&call_from=rsslink",
       "date": 1781831935000,
       "dateStr": "Fri, 19 Jun 2026 01:18:55 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "(보도설명)  '26년 세법개정안의 구체적인 내용은결정된 바가 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966862&call_from=rsslink",
+      "date": 1781794800000,
+      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "fsc",
@@ -756,13 +763,6 @@
     },
     {
       "dept": "mofe",
-      "title": "제270차 대외경제장관회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767217&call_from=rsslink",
-      "date": 1781794800000,
-      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
       "title": "재경부 「AX집현전2.0」, 첫 현장방문으로 인공지능 혁신 우수기업 지에스(GS) 찾았다",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767252&call_from=rsslink",
       "date": 1781794800000,
@@ -776,6 +776,13 @@
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     },
     {
+      "dept": "mofe",
+      "title": "제270차 대외경제장관회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767217&call_from=rsslink",
+      "date": 1781794800000,
+      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
+    },
+    {
       "dept": "fsc",
       "title": "PG업 정산자금 보호 및 관리&middot;감독 강화 관련 전자금융거래법 시행령 및 감독규정 개정안 입법예고 실시",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767278&call_from=rsslink",
@@ -784,15 +791,15 @@
     },
     {
       "dept": "fsc",
-      "title": "과기정통부-앤트로픽,  글로벌 AI 안전&middot;보안 동맹 전면 추진",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767245&call_from=rsslink",
+      "title": "'25년도 하반기 기술금융 테크평가 및  품질심사평가 결과",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767227&call_from=rsslink",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "fsc",
-      "title": "'25년도 하반기 기술금융 테크평가 및  품질심사평가 결과",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767227&call_from=rsslink",
+      "title": "과기정통부-앤트로픽,  글로벌 AI 안전&middot;보안 동맹 전면 추진",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767245&call_from=rsslink",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     },
