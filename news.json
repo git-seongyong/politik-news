@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.19 18:15",
+  "lastUpdated": "06.19 18:45",
   "policynews": [
     {
       "dept": "mofe",
@@ -629,6 +629,20 @@
   ],
   "pressrelease": [
     {
+      "dept": "mofa",
+      "title": "지식 공공외교 실무위원회 회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767360&call_from=rsslink",
+      "date": 1781858378000,
+      "dateStr": "Fri, 19 Jun 2026 08:39:38 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 김민석 국무총리 주재 전북 청년 새만금 현장간담회",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767364&call_from=rsslink",
+      "date": 1781857920000,
+      "dateStr": "Fri, 19 Jun 2026 08:32:00 GMT"
+    },
+    {
       "dept": "mpb",
       "title": "재정운용 분야 정상화 TF 2차 회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767343&call_from=rsslink",
@@ -770,15 +784,15 @@
     },
     {
       "dept": "fsc",
-      "title": "'25년도 하반기 기술금융 테크평가 및  품질심사평가 결과",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767227&call_from=rsslink",
+      "title": "과기정통부-앤트로픽,  글로벌 AI 안전&middot;보안 동맹 전면 추진",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767245&call_from=rsslink",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "fsc",
-      "title": "과기정통부-앤트로픽,  글로벌 AI 안전&middot;보안 동맹 전면 추진",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767245&call_from=rsslink",
+      "title": "'25년도 하반기 기술금융 테크평가 및  품질심사평가 결과",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767227&call_from=rsslink",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     },
@@ -963,20 +977,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766960&call_from=rsslink",
       "date": 1781680981000,
       "dateStr": "Wed, 17 Jun 2026 07:23:01 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 국무조정실장 주재 배달라이더 안전사고 감축 관련 관계부처 회의",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766962&call_from=rsslink",
-      "date": 1781680950000,
-      "dateStr": "Wed, 17 Jun 2026 07:22:30 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "박홍근 장관, 스마트헬스케어센터 방문 및 통합돌봄 현장 간담회 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766961&call_from=rsslink",
-      "date": 1781680843000,
-      "dateStr": "Wed, 17 Jun 2026 07:20:43 GMT"
     }
   ]
 }
