@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.19 20:15",
+  "lastUpdated": "06.19 20:45",
   "policynews": [
     {
       "dept": "mofe",
@@ -637,6 +637,13 @@
   "pressrelease": [
     {
       "dept": "mofa",
+      "title": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767373&call_from=rsslink",
+      "date": 1781866054000,
+      "dateStr": "Fri, 19 Jun 2026 10:47:34 GMT"
+    },
+    {
+      "dept": "mofa",
       "title": "지식 공공외교 실무위원회 회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767360&call_from=rsslink",
       "date": 1781858378000,
@@ -977,13 +984,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766978&call_from=rsslink",
       "date": 1781687678000,
       "dateStr": "Wed, 17 Jun 2026 09:14:38 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "소상공인과 노동자가 함께 사는 소중한 일터, 현장에서 길을 찾는다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766960&call_from=rsslink",
-      "date": 1781680981000,
-      "dateStr": "Wed, 17 Jun 2026 07:23:01 GMT"
     }
   ]
 }
