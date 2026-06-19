@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "06.19 11:15",
+  "lastUpdated": "06.19 11:45",
   "policynews": [
+    {
+      "dept": "fsc",
+      "title": "청년미래적금 6월 22일 출시, 궁금증 총정리 ②",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966817&call_from=rsslink",
+      "date": 1781834760000,
+      "dateStr": "Fri, 19 Jun 2026 02:06:00 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "2026년 G7 정상회의 참석",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966812&call_from=rsslink",
+      "date": 1781833740000,
+      "dateStr": "Fri, 19 Jun 2026 01:49:00 GMT"
+    },
     {
       "dept": "nts",
       "title": "청년 창업자 세금 신고 돕는다…'스타트업 세금든든케어' 시행",
@@ -336,23 +350,16 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966247&call_from=rsslink",
       "date": 1781067300000,
       "dateStr": "Wed, 10 Jun 2026 04:55:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "이재명 대통령, 유럽 순방·G7 정상회의 참석",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966235&call_from=rsslink",
-      "date": 1781066640000,
-      "dateStr": "Wed, 10 Jun 2026 04:44:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "직장인 자녀에게 주는 용돈, 증여세 낼까?",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966192&call_from=rsslink",
-      "date": 1781045280000,
-      "dateStr": "Tue, 09 Jun 2026 22:48:00 GMT"
     }
   ],
   "actually": [
+    {
+      "dept": "moel",
+      "title": "(설명) 매일경제, &quot;'시럽급여' 된 실업급여... 65%는 끝까지 받아&quot; 기사 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966823&call_from=rsslink",
+      "date": 1781835882000,
+      "dateStr": "Fri, 19 Jun 2026 02:24:42 GMT"
+    },
     {
       "dept": "moel",
       "title": "(설명) 한국경제, &quot;직장 내 괴롭힘 막으려다 괴롭힘 당한 공무원&quot; 기사 관련",
@@ -628,6 +635,20 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "opm",
+      "title": "[보도자료] 김민석 국무총리 중국 방문 사전보도자료",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767272&call_from=rsslink",
+      "date": 1781835240000,
+      "dateStr": "Fri, 19 Jun 2026 02:14:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 국무조정실장 주재 생명대사&middot;천명수호처 위촉식",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767271&call_from=rsslink",
+      "date": 1781834968000,
+      "dateStr": "Fri, 19 Jun 2026 02:09:28 GMT"
+    },
     {
       "dept": "moel",
       "title": "대지급금 부정수급 58명 적발",
@@ -963,20 +984,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766890&call_from=rsslink",
       "date": 1781661803000,
       "dateStr": "Wed, 17 Jun 2026 02:03:23 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "포괄임금 오남용 근절 권역별 릴레이 감독,  구로&middot;가산 이어 '판교테크노밸리'로 확대",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766868&call_from=rsslink",
-      "date": 1781657805000,
-      "dateStr": "Wed, 17 Jun 2026 00:56:45 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "일자리전담반 통해 부문별 고용대책 본격 준비",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766867&call_from=rsslink",
-      "date": 1781657620000,
-      "dateStr": "Wed, 17 Jun 2026 00:53:40 GMT"
     }
   ]
 }
