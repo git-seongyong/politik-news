@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.19 14:45",
+  "lastUpdated": "06.19 15:15",
   "policynews": [
     {
       "dept": "moel",
@@ -28,6 +28,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966812&call_from=rsslink",
       "date": 1781833740000,
       "dateStr": "Fri, 19 Jun 2026 01:49:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "청년 창업자 세금 신고 돕는다…'스타트업 세금든든케어' 시행",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966771&call_from=rsslink",
+      "date": 1781772300000,
+      "dateStr": "Thu, 18 Jun 2026 08:45:00 GMT"
     },
     {
       "dept": "mofe",
@@ -121,6 +128,13 @@
       "dateStr": "Wed, 17 Jun 2026 06:40:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "가족 간 작성한 2억 원 무이자 차용증, 쓰기만 하면 세금 0원일까?",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966673&call_from=rsslink",
+      "date": 1781678100000,
+      "dateStr": "Wed, 17 Jun 2026 06:35:00 GMT"
+    },
+    {
       "dept": "moel",
       "title": "내 월급의 고용보험료는 과연 어디로? ① 실업급여 편",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966671&call_from=rsslink",
@@ -140,6 +154,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966618&call_from=rsslink",
       "date": 1781597580000,
       "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "사업자대출, 용도에 맞게 사용하셨나요?",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
+      "date": 1781595840000,
+      "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
     },
     {
       "dept": "opm",
@@ -254,6 +275,13 @@
       "dateStr": "Fri, 12 Jun 2026 05:00:00 GMT"
     },
     {
+      "dept": "nts",
+      "title": "기대를 넘어 성과로 답하는 국세행정",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966381&call_from=rsslink",
+      "date": 1781239140000,
+      "dateStr": "Fri, 12 Jun 2026 04:39:00 GMT"
+    },
+    {
       "dept": "opm",
       "title": "정부, 국민참정권 침해 사태 진상 규명·선관위 개혁 위해 모든 조치",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966394&call_from=rsslink",
@@ -273,6 +301,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966356&call_from=rsslink",
       "date": 1781168160000,
       "dateStr": "Thu, 11 Jun 2026 08:56:00 GMT"
+    },
+    {
+      "dept": "nts",
+      "title": "\"반사회적 탈세·체납 단호히 대응\"…국세청, 국민주권정부 1년 성과",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966337&call_from=rsslink",
+      "date": 1781167380000,
+      "dateStr": "Thu, 11 Jun 2026 08:43:00 GMT"
     },
     {
       "dept": "mofe",
@@ -310,46 +345,11 @@
       "dateStr": "Wed, 10 Jun 2026 08:10:00 GMT"
     },
     {
-      "dept": "mofe",
-      "title": "구 부총리 \"중동에 60억 달러 선금융 지원…인프라 전략펀드도 추진\"",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966264&call_from=rsslink",
-      "date": 1781077020000,
-      "dateStr": "Wed, 10 Jun 2026 07:37:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "'청년미래적금' 군 장병도 가입할 수 있습니다!",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966247&call_from=rsslink",
-      "date": 1781067300000,
-      "dateStr": "Wed, 10 Jun 2026 04:55:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "이재명 대통령, 유럽 순방·G7 정상회의 참석",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966235&call_from=rsslink",
-      "date": 1781066640000,
-      "dateStr": "Wed, 10 Jun 2026 04:44:00 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "서민 생활 안정과 물가 관리에 정책 역량을 집중해 나가겠습니다",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966206&call_from=rsslink",
-      "date": 1780994820000,
-      "dateStr": "Tue, 09 Jun 2026 08:47:00 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "청년·지역인재 채용 우수기업에 정책자금 대출 금리 등 우대",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966195&call_from=rsslink",
-      "date": 1780992600000,
-      "dateStr": "Tue, 09 Jun 2026 08:10:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "캘박! 청년미래적금 가입신청 일정 안내",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966185&call_from=rsslink",
-      "date": 1780985880000,
-      "dateStr": "Tue, 09 Jun 2026 06:18:00 GMT"
+      "dept": "nts",
+      "title": "일감 몰아주기·떼어주기 증여세 6월 30일까지 신고하세요!",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966253&call_from=rsslink",
+      "date": 1781077260000,
+      "dateStr": "Wed, 10 Jun 2026 07:41:00 GMT"
     }
   ],
   "actually": [
@@ -804,6 +804,13 @@
       "dateStr": "Thu, 18 Jun 2026 05:45:17 GMT"
     },
     {
+      "dept": "nts",
+      "title": "창업에만 집중하세요... 국세청, &#xFF62;스타트업 세금든든케어&#xFF63;로 청년 사장님을 지원합니다.",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767090&call_from=rsslink",
+      "date": 1781759700000,
+      "dateStr": "Thu, 18 Jun 2026 05:15:00 GMT"
+    },
+    {
       "dept": "mpb",
       "title": "박홍근 장관, 국가전략기술 NEXT 프로젝트 추진대회 참석",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767088&call_from=rsslink",
@@ -970,13 +977,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766922&call_from=rsslink",
       "date": 1781670210000,
       "dateStr": "Wed, 17 Jun 2026 04:23:30 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-몽 CEPA 협상 진전 등 전략적 경협 가속화 방안 논의",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766891&call_from=rsslink",
-      "date": 1781661854000,
-      "dateStr": "Wed, 17 Jun 2026 02:04:14 GMT"
     }
   ]
 }
