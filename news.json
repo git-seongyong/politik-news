@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.19 15:15",
+  "lastUpdated": "06.19 15:45",
   "policynews": [
     {
       "dept": "moel",
@@ -630,6 +630,34 @@
   "pressrelease": [
     {
       "dept": "mpb",
+      "title": "중장기전략위원회 거버넌스개혁반 분과회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767303&call_from=rsslink",
+      "date": 1781849828000,
+      "dateStr": "Fri, 19 Jun 2026 06:17:08 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "&quot;산업전환 최전선의 절실한 이야기를 듣다&quot;",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767302&call_from=rsslink",
+      "date": 1781849750000,
+      "dateStr": "Fri, 19 Jun 2026 06:15:50 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "AX 스프린트 229개 제품&middot;서비스 선정",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767299&call_from=rsslink",
+      "date": 1781849191000,
+      "dateStr": "Fri, 19 Jun 2026 06:06:31 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "2025년도 공공기관 경영실적 평가 결과 발표",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767298&call_from=rsslink",
+      "date": 1781847649000,
+      "dateStr": "Fri, 19 Jun 2026 05:40:49 GMT"
+    },
+    {
+      "dept": "mpb",
       "title": "한-스리랑카 디지털 재정협력 확대 논의",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767283&call_from=rsslink",
       "date": 1781838069000,
@@ -949,34 +977,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766946&call_from=rsslink",
       "date": 1781676922000,
       "dateStr": "Wed, 17 Jun 2026 06:15:22 GMT"
-    },
-    {
-      "dept": "opm",
-      "title": "[보도자료] 국무조정실장 주재 국민참정권 침해 관련 청년&middot;전문가 토론회",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766927&call_from=rsslink",
-      "date": 1781670944000,
-      "dateStr": "Wed, 17 Jun 2026 04:35:44 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "폴리텍, 요르단에 직업교육 노하우 전한다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766924&call_from=rsslink",
-      "date": 1781670574000,
-      "dateStr": "Wed, 17 Jun 2026 04:29:34 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "기업과 함께 청년이 큰다(KNDA)! K-뉴딜 아카데미 참여기업 선정",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766923&call_from=rsslink",
-      "date": 1781670481000,
-      "dateStr": "Wed, 17 Jun 2026 04:28:01 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "고용노동부, 온열질환 예방을 위한 「2026 이동노동자 생수나눔 캠페인」 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156766922&call_from=rsslink",
-      "date": 1781670210000,
-      "dateStr": "Wed, 17 Jun 2026 04:23:30 GMT"
     }
   ]
 }
