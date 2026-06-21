@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.21 17:15",
+  "lastUpdated": "06.21 17:45",
   "policynews": [
     {
       "dept": "mofe",
@@ -636,6 +636,13 @@
   ],
   "pressrelease": [
     {
+      "dept": "opm",
+      "title": "[보도자료] 김민석 국무총리 주재 선관위 개혁 관련 시민 토론회",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767427&call_from=rsslink",
+      "date": 1782029299000,
+      "dateStr": "Sun, 21 Jun 2026 08:08:19 GMT"
+    },
+    {
       "dept": "mofa",
       "title": "재외공관 「한국주간」 행사,  세계 곳곳에서 K-이니셔티브 확산 이끈다",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767385&call_from=rsslink",
@@ -975,13 +982,6 @@
       "dept": "fsc",
       "title": "&lt;2025년 우리나라 연금저축(PSA) 투자 백서&gt;  연금저축 적립금 198조 원(+19.3조원), 수익률 10.6%(+6.9%p) 달성 - 3층 연금 체계의 중심, 연금저축으로 안정적인 노후를 설계하세요",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767139&call_from=rsslink",
-      "date": 1781708400000,
-      "dateStr": "Wed, 17 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "국민경제자문회의-금융위원회 합동회의 개최  - 대통령 자문기구와 부처가 정책 제언에 대해 함께 소통하고, 더 좋은 금융 정책을 만들어 나가겠습니다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767141&call_from=rsslink",
       "date": 1781708400000,
       "dateStr": "Wed, 17 Jun 2026 15:00:00 GMT"
     }
