@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.22 07:15",
+  "lastUpdated": "06.22 07:45",
   "policynews": [
     {
       "dept": "mofe",
@@ -184,13 +184,6 @@
       "dateStr": "Tue, 16 Jun 2026 08:13:00 GMT"
     },
     {
-      "dept": "nts",
-      "title": "사업자대출, 용도에 맞게 사용하셨나요?",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
-      "date": 1781595840000,
-      "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
-    },
-    {
       "dept": "opm",
       "title": "종전 협상 타결 이후 변화된 상황에 맞는 대책을 점검해 가겠습니다",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966616&call_from=rsslink",
@@ -276,13 +269,6 @@
     },
     {
       "dept": "mofe",
-      "title": "2026년 1/4분기 GDP 잠정치 발표",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966403&call_from=rsslink",
-      "date": 1781242140000,
-      "dateStr": "Fri, 12 Jun 2026 05:29:00 GMT"
-    },
-    {
-      "dept": "mofe",
       "title": "강제 예약 취소에 숙박비 폭등까지?",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966389&call_from=rsslink",
       "date": 1781241360000,
@@ -350,6 +336,20 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966325&call_from=rsslink",
       "date": 1781157420000,
       "dateStr": "Thu, 11 Jun 2026 05:57:00 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "벨기에 동포 간담회 (2026.6.9.)",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966311&call_from=rsslink",
+      "date": 1781145360000,
+      "dateStr": "Thu, 11 Jun 2026 02:36:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "광장의 민주주의가 일상의 민주주의로 뿌리내리도록",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966287&call_from=rsslink",
+      "date": 1781094480000,
+      "dateStr": "Wed, 10 Jun 2026 12:28:00 GMT"
     }
   ],
   "actually": [
