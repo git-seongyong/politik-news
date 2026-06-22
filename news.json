@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.22 19:15",
+  "lastUpdated": "06.22 19:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -629,6 +629,13 @@
   ],
   "pressrelease": [
     {
+      "dept": "mpb",
+      "title": "박홍근 기획예산처 장관, 조정식 22대 후반기 신임 국회의장 예방",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767612&call_from=rsslink",
+      "date": 1782121170000,
+      "dateStr": "Mon, 22 Jun 2026 09:39:30 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도참고자료] 후쿠시마 오염수 방류 관련 브리핑(328차)",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767587&call_from=rsslink",
@@ -968,13 +975,6 @@
       "dept": "mofe",
       "title": "제270차 대외경제장관회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767217&call_from=rsslink",
-      "date": 1781794800000,
-      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "PG업 정산자금 보호 및 관리&middot;감독 강화 관련 전자금융거래법 시행령 및 감독규정 개정안 입법예고 실시",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767278&call_from=rsslink",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     }
