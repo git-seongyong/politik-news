@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.22 10:15",
+  "lastUpdated": "06.22 10:45",
   "policynews": [
     {
       "dept": "opm",
@@ -354,6 +354,13 @@
   ],
   "actually": [
     {
+      "dept": "motir",
+      "title": "(설명자료)나프타 수출제한 및 수급조정에 관한 규정의 조기폐지 여부는 결정된 바 없습니다",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966889&call_from=rsslink",
+      "date": 1782088689000,
+      "dateStr": "Mon, 22 Jun 2026 00:38:09 GMT"
+    },
+    {
       "dept": "moel",
       "title": "(설명) 매일경제, &quot;'시럽급여' 된 실업급여... 65%는 끝까지 받아&quot; 기사 관련",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966823&call_from=rsslink",
@@ -629,6 +636,20 @@
   ],
   "pressrelease": [
     {
+      "dept": "motir",
+      "title": "5극3특 지역성장의 거점, 조선 산업단지를 M.AX로 잇는다",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767494&call_from=rsslink",
+      "date": 1782089517000,
+      "dateStr": "Mon, 22 Jun 2026 00:51:57 GMT"
+    },
+    {
+      "dept": "motir",
+      "title": "제1회 통상아카데미 개최,  통상환경 변화 대응과 전문인력 역량 강화",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767486&call_from=rsslink",
+      "date": 1782088797000,
+      "dateStr": "Mon, 22 Jun 2026 00:39:57 GMT"
+    },
+    {
       "dept": "fsc",
       "title": "혁신 서비스 도전의 문턱을 낮추고, 제도권 금융 전환도 질서있게 이루어지도록 금융규제 샌드박스 제도를 개선하겠습니다.",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767460&call_from=rsslink",
@@ -653,6 +674,13 @@
       "dept": "fsc",
       "title": "이억원 금융위원장, 청년미래적금 출시 첫날 출근길 현장에서 직접 가입안내",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767472&call_from=rsslink",
+      "date": 1782054000000,
+      "dateStr": "Sun, 21 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "금융정보분석원, 국제자금세탁방지기구(FATF) 총회 참석",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767490&call_from=rsslink",
       "date": 1782054000000,
       "dateStr": "Sun, 21 Jun 2026 15:00:00 GMT"
     },
@@ -956,27 +984,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767020&call_from=rsslink",
       "date": 1781740744000,
       "dateStr": "Wed, 17 Jun 2026 23:59:04 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "제5차 한-아제르바이잔 정책협의회(6.17.) 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767021&call_from=rsslink",
-      "date": 1781740493000,
-      "dateStr": "Wed, 17 Jun 2026 23:54:53 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "[보도참고] 2026년 국제경영개발대학원(IMD) 국가경쟁력 평가 결과",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767128&call_from=rsslink",
-      "date": 1781708400000,
-      "dateStr": "Wed, 17 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "'26.6월 국고채 「모집 방식 비경쟁인수」 발행 미실시",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767160&call_from=rsslink",
-      "date": 1781708400000,
-      "dateStr": "Wed, 17 Jun 2026 15:00:00 GMT"
     }
   ]
 }
