@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.22 18:15",
+  "lastUpdated": "06.22 18:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -629,6 +629,20 @@
   ],
   "pressrelease": [
     {
+      "dept": "opm",
+      "title": "[보도참고자료] 후쿠시마 오염수 방류 관련 브리핑(328차)",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767587&call_from=rsslink",
+      "date": 1782118803000,
+      "dateStr": "Mon, 22 Jun 2026 09:00:03 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "박홍근 장관, 서울시립발달장애인복지관 방문 및 장애인단체&middot;전문가 현장 간담회 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767585&call_from=rsslink",
+      "date": 1782117184000,
+      "dateStr": "Mon, 22 Jun 2026 08:33:04 GMT"
+    },
+    {
       "dept": "moel",
       "title": "복무의 마지막 걸음, 취업의 첫걸음으로 고용노동부-병무청이 함께 잇는다",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767580&call_from=rsslink",
@@ -961,20 +975,6 @@
       "dept": "fsc",
       "title": "PG업 정산자금 보호 및 관리&middot;감독 강화 관련 전자금융거래법 시행령 및 감독규정 개정안 입법예고 실시",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767278&call_from=rsslink",
-      "date": 1781794800000,
-      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "'25년도 하반기 기술금융 테크평가 및  품질심사평가 결과",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767227&call_from=rsslink",
-      "date": 1781794800000,
-      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "fsc",
-      "title": "과기정통부-앤트로픽,  글로벌 AI 안전&middot;보안 동맹 전면 추진",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767245&call_from=rsslink",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     }
