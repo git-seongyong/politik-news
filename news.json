@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.22 13:15",
+  "lastUpdated": "06.22 13:45",
   "policynews": [
     {
       "dept": "opm",
@@ -613,13 +613,6 @@
       "dateStr": "Mon, 08 Jun 2026 01:09:00 GMT"
     },
     {
-      "dept": "opm",
-      "title": "[보도해명자료] 「차기 총리 지명 임박했나…총리실, 인사청문회 준비단 구성」(6.5., 연합뉴스) 보도 관련",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965993&call_from=rsslink",
-      "date": 1780646656000,
-      "dateStr": "Fri, 05 Jun 2026 08:04:16 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "국부펀드의 명칭, 재원, 규모 등 구체적인 설립방안은 전혀 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148965710&call_from=rsslink",
@@ -635,6 +628,13 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "opm",
+      "title": "[보도자료] 대테러센터-인도네시아 대테러청 MOU 체결",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767534&call_from=rsslink",
+      "date": 1782102202000,
+      "dateStr": "Mon, 22 Jun 2026 04:23:22 GMT"
+    },
     {
       "dept": "motir",
       "title": "제15차 한-중 자유무역협정(FTA)  서비스&middot;투자 후속협상 개최",
@@ -977,13 +977,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767088&call_from=rsslink",
       "date": 1781759516000,
       "dateStr": "Thu, 18 Jun 2026 05:11:56 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "&quot;노동시간 줄이고, 기업 경쟁력 높이고&quot; 현장에서 성과 입증된 「워라밸+4.5 프로젝트」",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767087&call_from=rsslink",
-      "date": 1781759412000,
-      "dateStr": "Thu, 18 Jun 2026 05:10:12 GMT"
     }
   ]
 }
