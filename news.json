@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.22 15:46",
+  "lastUpdated": "06.22 16:15",
   "policynews": [
     {
       "dept": "nts",
@@ -37,11 +37,25 @@
       "dateStr": "Mon, 22 Jun 2026 04:53:00 GMT"
     },
     {
+      "dept": "opm",
+      "title": "김민석 국무총리 중국 방문(2026.6.22.~6.24.)",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966886&call_from=rsslink",
+      "date": 1781860620000,
+      "dateStr": "Fri, 19 Jun 2026 09:17:00 GMT"
+    },
+    {
       "dept": "mofe",
       "title": "5극3특 성장동력 픽앤백(Pick&Back)",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966825&call_from=rsslink",
       "date": 1781857380000,
       "dateStr": "Fri, 19 Jun 2026 08:23:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "선관위 개혁 관련 시민 토론회",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966843&call_from=rsslink",
+      "date": 1781857140000,
+      "dateStr": "Fri, 19 Jun 2026 08:19:00 GMT"
     },
     {
       "dept": "mofe",
@@ -135,6 +149,13 @@
       "dateStr": "Thu, 18 Jun 2026 02:23:00 GMT"
     },
     {
+      "dept": "opm",
+      "title": "당신은 혼자가 아닙니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966728&call_from=rsslink",
+      "date": 1781743500000,
+      "dateStr": "Thu, 18 Jun 2026 00:45:00 GMT"
+    },
+    {
       "dept": "moel",
       "title": "청년 직업훈련 'K-뉴딜 아카데미' 53개 기업 72개 선정",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966694&call_from=rsslink",
@@ -210,6 +231,13 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966609&call_from=rsslink",
       "date": 1781595840000,
       "dateStr": "Tue, 16 Jun 2026 07:44:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "종전 협상 타결 이후 변화된 상황에 맞는 대책을 점검해 가겠습니다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966616&call_from=rsslink",
+      "date": 1781595600000,
+      "dateStr": "Tue, 16 Jun 2026 07:40:00 GMT"
     },
     {
       "dept": "motir",
@@ -322,34 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966381&call_from=rsslink",
       "date": 1781239140000,
       "dateStr": "Fri, 12 Jun 2026 04:39:00 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "노동행정서비스 '노동포털' 톺아보기",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966301&call_from=rsslink",
-      "date": 1781218260000,
-      "dateStr": "Thu, 11 Jun 2026 22:51:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "미성년자 여권 재발급, 부모가 온라인 신청 가능",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966356&call_from=rsslink",
-      "date": 1781168160000,
-      "dateStr": "Thu, 11 Jun 2026 08:56:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "\"반사회적 탈세·체납 단호히 대응\"…국세청, 국민주권정부 1년 성과",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966337&call_from=rsslink",
-      "date": 1781167380000,
-      "dateStr": "Thu, 11 Jun 2026 08:43:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "구 부총리 \"중동발 고용여건 불확실성 확대…전 부처 총력 대응\"",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966335&call_from=rsslink",
-      "date": 1781164200000,
-      "dateStr": "Thu, 11 Jun 2026 07:50:00 GMT"
     }
   ],
   "actually": [
@@ -394,6 +394,13 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966731&call_from=rsslink",
       "date": 1781759520000,
       "dateStr": "Thu, 18 Jun 2026 05:12:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도설명자료] 「'보완수사권' 민주당 전대 뒤 새지도부에 보고」(6.18., 문화일보) 보도 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966756&call_from=rsslink",
+      "date": 1781757175000,
+      "dateStr": "Thu, 18 Jun 2026 04:32:55 GMT"
     },
     {
       "dept": "mofe",
@@ -487,6 +494,13 @@
       "dateStr": "Mon, 15 Jun 2026 01:47:00 GMT"
     },
     {
+      "dept": "opm",
+      "title": "[보도해명자료] 「총리 지명되자 불법 시정하고 집 팔겠다는 韓후보자」(6.15., 조선일보) 사설 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966514&call_from=rsslink",
+      "date": 1781487747000,
+      "dateStr": "Mon, 15 Jun 2026 01:42:27 GMT"
+    },
+    {
       "dept": "mpb",
       "title": "(보도설명) 농어촌기본소득 확대 여부 등은 아직 결정된 바가 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966513&call_from=rsslink",
@@ -506,6 +520,13 @@
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966477&call_from=rsslink",
       "date": 1781413140000,
       "dateStr": "Sun, 14 Jun 2026 04:59:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도설명자료] 「검찰개혁추진단, '보완수사요구권 복수안' 이르면 이번주 제출」(6.14., 한겨레) 보도 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966498&call_from=rsslink",
+      "date": 1781395140000,
+      "dateStr": "Sat, 13 Jun 2026 23:59:00 GMT"
     },
     {
       "dept": "mofe",
@@ -550,11 +571,25 @@
       "dateStr": "Tue, 09 Jun 2026 12:32:40 GMT"
     },
     {
+      "dept": "opm",
+      "title": "[보도해명자료] 「여객기참사 유가족 &quot;맹탕조사 답답…해외전문기관 위탁조사하라&quot;」(6.9., 연합뉴스) 보도 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966210&call_from=rsslink",
+      "date": 1780998609000,
+      "dateStr": "Tue, 09 Jun 2026 09:50:09 GMT"
+    },
+    {
       "dept": "fsc",
       "title": "금융위 \"금융위 세종행 논의 관련 기사 전혀 사실 아냐\"",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966177&call_from=rsslink",
       "date": 1780985340000,
       "dateStr": "Tue, 09 Jun 2026 06:09:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도설명자료] 「檢개혁 자문위 &quot;보완수사 전면 금지, 국민 불편&middot;부담 증가 초래&quot;」(6.9., 이데일리 등) 보도 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966162&call_from=rsslink",
+      "date": 1780973191000,
+      "dateStr": "Tue, 09 Jun 2026 02:46:31 GMT"
     },
     {
       "dept": "mpb",
@@ -608,11 +643,39 @@
       "dateStr": "Mon, 22 Jun 2026 06:15:29 GMT"
     },
     {
+      "dept": "opm",
+      "title": "[보도자료] 2026년도 시민사회단체 해외정책연수 참가자 공개모집",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767556&call_from=rsslink",
+      "date": 1782108805000,
+      "dateStr": "Mon, 22 Jun 2026 06:13:25 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 공공기관의 불법계엄 대응 실태 관련 관계부처 합동 전수점검 실시 결과",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767554&call_from=rsslink",
+      "date": 1782107662000,
+      "dateStr": "Mon, 22 Jun 2026 05:54:22 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 사회대개혁위원회, 국가반도체 산단 정책 관련 토론회 제안 보도자료",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767537&call_from=rsslink",
+      "date": 1782102734000,
+      "dateStr": "Mon, 22 Jun 2026 04:32:14 GMT"
+    },
+    {
       "dept": "mofa",
       "title": "한-인도 외교장관회담 개최 예정",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767536&call_from=rsslink",
       "date": 1782102600000,
       "dateStr": "Mon, 22 Jun 2026 04:30:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 대테러센터-인도네시아 대테러청 MOU 체결",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767534&call_from=rsslink",
+      "date": 1782102202000,
+      "dateStr": "Mon, 22 Jun 2026 04:23:22 GMT"
     },
     {
       "dept": "motir",
@@ -685,6 +748,13 @@
       "dateStr": "Sun, 21 Jun 2026 15:00:00 GMT"
     },
     {
+      "dept": "opm",
+      "title": "[보도자료] 김민석 국무총리 주재 선관위 개혁 관련 시민 토론회",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767427&call_from=rsslink",
+      "date": 1782029299000,
+      "dateStr": "Sun, 21 Jun 2026 08:08:19 GMT"
+    },
+    {
       "dept": "mofa",
       "title": "재외공관 「한국주간」 행사,  세계 곳곳에서 K-이니셔티브 확산 이끈다",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767385&call_from=rsslink",
@@ -718,6 +788,13 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767360&call_from=rsslink",
       "date": 1781858378000,
       "dateStr": "Fri, 19 Jun 2026 08:39:38 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 김민석 국무총리 주재 전북 청년 새만금 현장간담회",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767364&call_from=rsslink",
+      "date": 1781857920000,
+      "dateStr": "Fri, 19 Jun 2026 08:32:00 GMT"
     },
     {
       "dept": "mpb",
@@ -760,6 +837,20 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767283&call_from=rsslink",
       "date": 1781838069000,
       "dateStr": "Fri, 19 Jun 2026 03:01:09 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 김민석 국무총리 중국 방문 사전보도자료",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767272&call_from=rsslink",
+      "date": 1781835240000,
+      "dateStr": "Fri, 19 Jun 2026 02:14:00 GMT"
+    },
+    {
+      "dept": "opm",
+      "title": "[보도자료] 국무조정실장 주재 생명대사&middot;천명수호처 위촉식",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767271&call_from=rsslink",
+      "date": 1781834968000,
+      "dateStr": "Fri, 19 Jun 2026 02:09:28 GMT"
     },
     {
       "dept": "moel",
@@ -886,62 +977,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767157&call_from=rsslink",
       "date": 1781768731000,
       "dateStr": "Thu, 18 Jun 2026 07:45:31 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "(참고) 외국인 노동자 기초안전보건교육 강화",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767131&call_from=rsslink",
-      "date": 1781765135000,
-      "dateStr": "Thu, 18 Jun 2026 06:45:35 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "대통령 특사단, 멕시코 대통령 예방 결과",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767125&call_from=rsslink",
-      "date": 1781764297000,
-      "dateStr": "Thu, 18 Jun 2026 06:31:37 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-체코, 원전 협력으로 쌓은 신뢰를 첨단산업 협력으로 확장한다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767121&call_from=rsslink",
-      "date": 1781763733000,
-      "dateStr": "Thu, 18 Jun 2026 06:22:13 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "AI, 자동차&middot;선박&middot;로봇이라는 몸을 입다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767120&call_from=rsslink",
-      "date": 1781763682000,
-      "dateStr": "Thu, 18 Jun 2026 06:21:22 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "「한-중남미 에너지 전환 협력:  핵심광물 및 에너지 다각화」 포럼 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767104&call_from=rsslink",
-      "date": 1781761517000,
-      "dateStr": "Thu, 18 Jun 2026 05:45:17 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "창업에만 집중하세요... 국세청, &#xFF62;스타트업 세금든든케어&#xFF63;로 청년 사장님을 지원합니다.",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767090&call_from=rsslink",
-      "date": 1781759700000,
-      "dateStr": "Thu, 18 Jun 2026 05:15:00 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "박홍근 장관, 국가전략기술 NEXT 프로젝트 추진대회 참석",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767088&call_from=rsslink",
-      "date": 1781759516000,
-      "dateStr": "Thu, 18 Jun 2026 05:11:56 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "&quot;노동시간 줄이고, 기업 경쟁력 높이고&quot; 현장에서 성과 입증된 「워라밸+4.5 프로젝트」",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767087&call_from=rsslink",
-      "date": 1781759412000,
-      "dateStr": "Thu, 18 Jun 2026 05:10:12 GMT"
     }
   ]
 }
