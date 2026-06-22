@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "06.22 17:15",
+  "lastUpdated": "06.22 17:45",
   "policynews": [
+    {
+      "dept": "fsc",
+      "title": "금융규제 샌드박스 제도 개선…혁신 서비스 문턱 낮춘다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966927&call_from=rsslink",
+      "date": 1782115740000,
+      "dateStr": "Mon, 22 Jun 2026 08:09:00 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "개정 노동조합법 시행 100일…'교섭 쓰나미' 없었다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966910&call_from=rsslink",
+      "date": 1782114480000,
+      "dateStr": "Mon, 22 Jun 2026 07:48:00 GMT"
+    },
     {
       "dept": "nts",
       "title": "청년 창업 세정지원 「스타트업 세금든든케어」",
@@ -336,20 +350,6 @@
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966385&call_from=rsslink",
       "date": 1781240880000,
       "dateStr": "Fri, 12 Jun 2026 05:08:00 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "한-벨기에 정상회담(2026.6.10.)",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966383&call_from=rsslink",
-      "date": 1781240400000,
-      "dateStr": "Fri, 12 Jun 2026 05:00:00 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "기대를 넘어 성과로 답하는 국세행정",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148966381&call_from=rsslink",
-      "date": 1781239140000,
-      "dateStr": "Fri, 12 Jun 2026 04:39:00 GMT"
     }
   ],
   "actually": [
@@ -628,6 +628,20 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "moel",
+      "title": "복무의 마지막 걸음, 취업의 첫걸음으로 고용노동부-병무청이 함께 잇는다",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767580&call_from=rsslink",
+      "date": 1782116333000,
+      "dateStr": "Mon, 22 Jun 2026 08:18:53 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "(참고) 개정 노동조합법 시행 100일, 어렵게 첫발 뗀 원&middot;하청 상생&middot;대화 조금씩 진전",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767571&call_from=rsslink",
+      "date": 1782114495000,
+      "dateStr": "Mon, 22 Jun 2026 07:48:15 GMT"
+    },
     {
       "dept": "mofa",
       "title": "중앙 북극해 공해상 비규제 어업 방지 협정(CAOFA) 당사국총회 참석",
@@ -963,20 +977,6 @@
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767245&call_from=rsslink",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "moel",
-      "title": "(참고) 최저임금위원회, 2026년 제7차 전원회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767205&call_from=rsslink",
-      "date": 1781782074000,
-      "dateStr": "Thu, 18 Jun 2026 11:27:54 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "(참고자료)최고가격제 손실보전을 위한  재정지원 고시 마련",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767203&call_from=rsslink",
-      "date": 1781775194000,
-      "dateStr": "Thu, 18 Jun 2026 09:33:14 GMT"
     }
   ]
 }
