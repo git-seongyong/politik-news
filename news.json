@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.23 10:16",
+  "lastUpdated": "06.23 10:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -405,6 +405,14 @@
   "actually": [
     {
       "dept": "moel",
+      "title": "(설명) 매일경제, \"꼼수 판치는 실업급여...부정수급 2.5만건\" 기사 관련",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966946&call_from=rsslink",
+      "description": "6.23.(화) 매일경제, \"꼼수 판치는 실업급여...부정수급 2.5만건\" 기사 관련 설명 문 의: 고용지원실업급여과 강민중(044-202-7382) [자료제공 : (www.korea.kr) ]",
+      "date": 1782174669000,
+      "dateStr": "Tue, 23 Jun 2026 00:31:09 GMT"
+    },
+    {
+      "dept": "moel",
       "title": "(설명) 조선일보, \"1년 만에 이직?…외국인 의무근무 단축 앞둔 中企 '비상'\" 기사 관련",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966924&call_from=rsslink",
       "description": "6. 22.(월) 조선일보, \"1년 만에 이직?&hellip;외국인 의무근무 단축 앞둔 中企 '비상'\" 기사 관련 설명 문 의: 외국인력담당관 최주현(044-202-7145) [자료제공 : (www.korea.kr) ]",
@@ -636,14 +644,6 @@
       "dateStr": "Wed, 10 Jun 2026 06:54:00 GMT"
     },
     {
-      "dept": "mofe",
-      "title": "(보도설명) 정부는 공공기관 직무급 확산 정책을 지속 추진하고 있습니다.",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966280&call_from=rsslink",
-      "description": "2026.6.10. 아시아 경제 「 정권 바뀌니 존재감 사라진 공공기관 ' 직무급도입 ' … 예년과 달리 현황도 비공개 」 기 사 관련입니다 * 자세한 내용은 첨부된 파일을 참고하여 주시기 바랍니다. 문의. 재정경제부 공공정책국 공공제도기획과 이강수 (044-215-5536) [자료제공 : (www.korea.kr) ]",
-      "date": 1781017200000,
-      "dateStr": "Tue, 09 Jun 2026 15:00:00 GMT"
-    },
-    {
       "dept": "mpb",
       "title": "(보도설명) '미래대응기금' 신설 등 초과세수 활용 방안은 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966222&call_from=rsslink",
@@ -717,6 +717,30 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "mofe",
+      "title": "관계부처 합동 6월 일자리전담반(TF) 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767644&call_from=rsslink",
+      "description": "이형일 재정경제부 1 차관 과 권창준 고용노동부 차관 은 6.23 일 ( 화 ) 08:00 정부서울청사에서 관계부처 합동 일자리전담반 (TF) 을 주재하여 ➊ 청년 일자리 추가 보완과제 , ➋ 업종별 고용동향 및 대응방향 등을 점검 ・ 논의했다 . 자세한 내용은 첨부된 보도자료를 참고해 주시기 바랍니다. 문의. 재정경제부 민생경제국 인력정책과 박종운 (044-215-8532) [자료제공 : (www.korea.kr) ]",
+      "date": 1782175318000,
+      "dateStr": "Tue, 23 Jun 2026 00:41:58 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "일자리전담반, 청년 일자리대책 마련 위한 과제 논의",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767643&call_from=rsslink",
+      "description": "- 신규과제를 집중 발굴하여 「청년 일자리 회복방안」 마련·발표 - 고용 부진업종에 대한 면밀한 분석 및 가용 정책수단 총동원해 대응 이형일 재정경제부 1차관과 권창준 고용노동부 차관은 6.23일(화) 08:00 정부서울청사에서 관계부처 합동 일자리전담반(TF)을 주재하여 ①청년일자리 추가 보완과제, ②업종별 고용동향 및 대응방향 등을 점검·논의했다. 중동전쟁 종전 양해각서(MOU) 이행 관련 불확실성이 지속되는 가운데, 민생 및 고용여건의 어려움도 이어지고 있는 상황이다. 이에 정부는 제조·건설·농림 등 부진업종, 청년 등 취약부... (중략)",
+      "date": 1782174835000,
+      "dateStr": "Tue, 23 Jun 2026 00:33:55 GMT"
+    },
+    {
+      "dept": "fsc",
+      "title": "자본시장 인프라 혁신 점검회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767648&call_from=rsslink",
+      "description": "자본시장 인프라 혁신 점검회의 개최 ✓ 결제주기 단축 (T+1일), 거래시간 의 단계적 연장, 토큰증권 ( STO) 인프라 구축 * , AI의 디지털 접목 등을 위한 과제 점검 * 민관합동 토큰증권 협의체에서 별도 논의 후 인프라 혁신 점검회의와 연계 - 유동성 제약, 거래시간 제약, 투자대상 제약을 완화하고, 실시간·상시거래·통합 디지털 시장 으로의 전환 준비 - 기관별 과제들을 연계·조정 하는 컨트롤 타워 로서, 제도간 정합성 과 시너지 효과 를 제고하고 사각지대 를 미연 방지 ✓ 권대영 금융위원회 부위원장, 점검회의에서 방향성... (중략)",
+      "date": 1782140400000,
+      "dateStr": "Mon, 22 Jun 2026 15:00:00 GMT"
+    },
     {
       "dept": "mpb",
       "title": "박홍근 기획예산처 장관, 조정식 22대 후반기 신임 국회의장 예방",
@@ -1090,30 +1114,6 @@
       "title": "재경부 「AX집현전2.0」, 첫 현장방문으로 인공지능 혁신 우수기업 지에스(GS) 찾았다",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767252&call_from=rsslink",
       "description": "□ 재정경제부는 6 월 18 일 ( 목 ) 인공지능 (AI) 학습동아리 「 AX 집현전 2.0 」 구성원과 인공지능 자문단 등 19 명 이 참석한 가운데 , 인공지능 전환 (AX, AI Transformation) 우수기업 인 지에스 ( ㈜ GS) 를 방문 하였다. ※ 자세한 내용은 첨부 보도자료를 참고하여 주시기 바랍니다. 문의. 재정경제부 정책기획관 혁신정책담당관 이금석 (044-215-2533) [자료제공 : (www.korea.kr) ]",
-      "date": 1781794800000,
-      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "[보도참고]'K-지식공유사업 혁신방안' 대외경제장관회의 의결",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767251&call_from=rsslink",
-      "description": "정부는 2026.6.19일(금) 개최된 제270차 대외관계장관회의에서 'K-지식공유사업 혁신방안'을 의결하였다. * 자세한 내용은 첨부자료를 참고하여 주시기 바랍니다. 문의. 재정경제부 개발금융국 개발정책협력과 최인철 (044-215-8761) [자료제공 : (www.korea.kr) ]",
-      "date": 1781794800000,
-      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "2025년도 공공기관 경영실적 평가 결과 발표",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767298&call_from=rsslink",
-      "description": "2025년도 경영실적 평가 결과 발표 보도자료입니다. ※ 자세한 내용은 첨부파일을 확인하시기 바랍니다. 문의. 재정경제부 공공정책국 평가분석과 김재인 (044-215-5569) [자료제공 : (www.korea.kr) ]",
-      "date": 1781794800000,
-      "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "제270차 대외경제장관회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767217&call_from=rsslink",
-      "description": "구윤철 부총리 겸 재정경제부 장관은 6.19.(금) 08:50 정부서울청사에서 제270차 대외경제장관회의를 주재하였습니다. * 자세한 내용은 첨부자료를 참고하여 주시기 바랍니다. 문의. 재정경제부 대외경제국 대외경제총괄과 우지완 (044-215-7613) [자료제공 : (www.korea.kr) ]",
       "date": 1781794800000,
       "dateStr": "Thu, 18 Jun 2026 15:00:00 GMT"
     }
