@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.23 18:15",
+  "lastUpdated": "06.23 18:45",
   "policynews": [
     {
       "dept": "fsc",
@@ -694,6 +694,22 @@
   ],
   "pressrelease": [
     {
+      "dept": "moel",
+      "title": "(참고) 최저임금위원회, 2026년 제8차 전원회의 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767760&call_from=rsslink",
+      "description": "최저임금위원회는 6.23.(화) 15:00, 정부세종청사에서 재적 위원 27명 전원이 참석한 가운데 2026년 제8차 전원회의를 개최했다. 이날 회의에서 노·사는 2027년 적용 최저임금 최초제시안을 제출했다. 제9차 전원회의는 6.25.(목) 15:00, 정부세종청사에서 개최될 예정이다. 문 의: 최저임금위원회 사무국 최미리내(044-202-8406) [자료제공 : (www.korea.kr) ]",
+      "date": 1782206101000,
+      "dateStr": "Tue, 23 Jun 2026 09:15:01 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "조현 외교장관,  미국 영화협회(MPA) 회장 면담(6.23.)",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767757&call_from=rsslink",
+      "description": "조현 장관은 6.23.(화) 방한 중인 찰스 리브킨(Charles Rivkin) 미국 영화협회(MPA)* 회장을 면담하여, K-콘텐츠의 우수성을 홍보하고 콘텐츠를 비롯한 문화산업 전반에 있어 한미 간 파트너십 강화 방안을 논의하였다. * 미국 영화협회(Motion Picture Association): 디즈니 스튜디오·유니버설 픽처스, 파라마운트 픽처스·워너브라더스·소니 픽처스·넷플릭스·아마존 프라임 비디오 등 거대 콘텐츠 기업을 회원사로 둔 미국 영화·콘텐츠계 대표 이익집단 조 장관은 <케이팝데몬헌터스>, <오징어게임> 등 우리 ... (중략)",
+      "date": 1782203247000,
+      "dateStr": "Tue, 23 Jun 2026 08:27:27 GMT"
+    },
+    {
       "dept": "motir",
       "title": "한-튀르키예 자유무역협정(FTA)  제6차 공동위원회 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767750&call_from=rsslink",
@@ -1076,22 +1092,6 @@
       "description": "이경철 외교부 중동평화 정부대표는 6.19.(금) 저녁 장 아르노(Jean Arnault) 유엔 사무총장 중동특사(Personal Envoy of the UN Secretary-General on the Middle East Conflict and its Consequences, 3.25.(수) 임명)와 화상 면담을 갖고, 중동지역 분쟁 상황 및 최근 미국-이란 간 양해각서(MOU) 서명 등 주요 동향에 관해 의견을 교환하였다. 이 대표와 아르노 특사는 향후 중동지역의 평화와 안정의 조속한 실현을 희망하는 한편, 관련 사안에 대해 ... (중략)",
       "date": 1781909899000,
       "dateStr": "Fri, 19 Jun 2026 22:58:19 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "외교부, 호르무즈 해협 통항 관련 유관공관 대상 화상점검회의 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767374&call_from=rsslink",
-      "description": "외교부는 최근 중동 전쟁 이후 호르무즈 해협 내 우리 선박의 안전 및 통항 관련 사항을 점검하기 위해, 6.19.(금) 정광용 아프리카중동국장 주재로 화상회의를 개최하였다. 동 회의에는 해양수산부 및 주요 유관 공관*들이 참석하여 미-이란 종전 MOU 서명 이후 호르무즈 해협 통항 관련 현황을 확인하는 한편, 우리 선박들의 신속하고 안전한 통항 방안을 모색하기 위해 의견을 교환하였다. * 주미국(대), 주이란(대), 주오만(대), 주일본(대), 주카타르(대), 주파키스탄(대) 외교부는 호르무즈 해협 내 모든 선박에 대한 자유로운 항... (중략)",
-      "date": 1781871513000,
-      "dateStr": "Fri, 19 Jun 2026 12:18:33 GMT"
-    },
-    {
-      "dept": "mofa",
-      "title": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767373&call_from=rsslink",
-      "description": "외교부는 미국, 아랍에미리트(UAE), 에콰도르, 에티오피아, 이집트, 일본, 중국, 포르투갈, 필리핀 등 9개국의 치안관계자 11명을 서울로 초청하여, 6.15.(월)부터 6.20.(토)까지 「2026년도 제1차 치안관계자 초청사업('Friends of Korea')」을 실시했다. 동 사업은 우리 국민 보호에 기여했거나 향후 우리 공관과의 긴밀한 협조가 예상되는 국가의 치안, 재난안전, 출입국관리 담당 핵심 관계자들을 한국으로 초청하는 사업으로, 외교부는 지난 2015년부터 연 2회 정례적으로 시행해오고 있다. 특히, 이번에는 최... (중략)",
-      "date": 1781866054000,
-      "dateStr": "Fri, 19 Jun 2026 10:47:34 GMT"
     }
   ]
 }
