@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.25 12:15",
+  "lastUpdated": "06.25 12:45",
   "policynews": [
     {
       "dept": "moel",
@@ -783,6 +783,14 @@
     },
     {
       "dept": "mofe",
+      "title": "[보도참고] 한미전략투자공사 및 정책금융기관-조선3사간 한미 조선협력투자 업무협약 체결",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768038&call_from=rsslink",
+      "description": "한미전략투자공사 , 한국수출입은행 , 한국산업은행 , 한국무역보험공사 , 한국해양진흥공사 등 정책금융기관 과 HD 현대중공업 , 삼성중공업 , 한화오션 등 국내 조선사 가 6 월 25 일 ( 목 ) ' 한미 조선 협력 투자의 효과적 이행을 위한 업무협약 (MOU)' 을 체결하였습니다. 자세한 내용은 첨부파일을 참고해주시기 바랍니다. 문의. 재정경제부 전략경제정책관 전략투자지원과 신정원 (044-215-4952) [자료제공 : (www.korea.kr) ]",
+      "date": 1782313200000,
+      "dateStr": "Wed, 24 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
       "title": "정부, 무니코틴 표방 액상형 흡입제품 소비자 주의 당부",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768020&call_from=rsslink",
       "description": "자세한 내용은 첨부된 파일을 참조해주시기 바랍니다. 문의. 재정경제부 국고정책관 출자관리과 전형용 (044-215-5171) [자료제공 : (www.korea.kr) ]",
@@ -1116,14 +1124,6 @@
       "description": "EU CBAM 이행 가속화 , 우리 기업 대응역량 강화 지원 - 정부합동설명회를 통해 최신 CBAM 이행 규정과 실무 대응방안 안내 - 관세청 , EU 품목분류 사전심사 신청 가이드 제공 정부는 6 월 23 일 ( 화 ) 오후 1 시 부산상공회의소에서 관계부처 ( 관세청 , 산업 통 상 부 , 기후에너지환경부 , 중소벤처기업부 ) 및 유관기관 합동으로 EU 탄소국경조정 제도 (CBAM, Carbon Border Adjustment mechanism) 대응을 위한 2026 년도 제 12 차 정부 합동 설명회를 개최한다 . 이번 설명회... (중략)",
       "date": 1782180469000,
       "dateStr": "Tue, 23 Jun 2026 02:07:49 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "M.AX, 제조 현장 넘어 기업활동 전체 혁신",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767674&call_from=rsslink",
-      "description": "M.AX, 제조 현장 넘어 기업활동 전체 혁신 - ' 산업 AI 솔루션 '-'AI 에이전트 ' 사업 공동 출범식 개최 - 제조 현장 전반으로 M.AX 를 확산하기 위한 제조데이터 연계 MoU 체결 ※ M.AX : 제조업 AI 대전환 (Manufacturing AI Transformation) M.AX 가 데이터 연계를 통해 제조공정뿐만 아니라 생산계획 , 공급망 관리 , 노동자 안전 , 재고 운영 등 기업활동 전 영역으로 본격 확대된다 . 산업통상부 ( 장관 : 김정관 , 이하 산업부 ) 는 6 월 23 일 ( 화 ) 서울 양재 엘... (중략)",
-      "date": 1782180413000,
-      "dateStr": "Tue, 23 Jun 2026 02:06:53 GMT"
     }
   ]
 }
