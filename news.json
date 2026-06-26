@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.26 12:16",
+  "lastUpdated": "06.26 12:45",
   "policynews": [
     {
       "dept": "opm",
@@ -702,6 +702,22 @@
   ],
   "pressrelease": [
     {
+      "dept": "mpb",
+      "title": "박홍근 장관, 통합재정사업 평가단 간담회 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768336&call_from=rsslink",
+      "description": "박홍근 기획예산처 장관은 통합 재정사업 성과평가를 수행한 평가단과 오찬 간담회를 개최하였습니다. 자세한 내용은 붙임 자료를 참고해주시기 바랍니다. [자료제공 : (www.korea.kr) ]",
+      "date": 1782442902000,
+      "dateStr": "Fri, 26 Jun 2026 03:01:42 GMT"
+    },
+    {
+      "dept": "mofa",
+      "title": "한중일 청년들이 만들어가는 지속 가능한 3국 협력의 미래",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768329&call_from=rsslink",
+      "description": "외교부는 「제13차 한중일 대학생 외교캠프」를 6.23.(화)-26.(금) 서울과 경주에서 개최하였다. 이번 캠프에 참가한 한국·중국·일본 대학생 45명은 6.23.(화) 외교부에서 개최된 개회식에 참석한 후 3박 4일간 서울과 경주에서 △3국 협력 아이디어 발표회 △3국 외교관과의 대화 △청년선언문 작성 △문화·산업시찰 등의 프로그램에 참여하였다. 이희섭 한중일3국협력사무국(TCS) 사무총장은 6.23.(화) 개회식에서 3국 청년 간 지속적인 교류가 3국 관계를 든든하게 지탱하는 토대라고 하고, 외교캠프가 3국 청년 교류를 상징하... (중략)",
+      "date": 1782441577000,
+      "dateStr": "Fri, 26 Jun 2026 02:39:37 GMT"
+    },
+    {
       "dept": "mofa",
       "title": "EU·NATO 및 동유럽에 우주 민관사절단 파견",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768316&call_from=rsslink",
@@ -1084,22 +1100,6 @@
       "description": "조현 외교부 장관은 6.24.(수) 몽골 방문에 이어 공식 방한 중인 수브라마냠 자이샨카르(Subrahmanyam Jaishankar) 인도 외교장관과 회담을 갖고, 금년 4월 우리 정상 인도 국빈방문 계기에 합의된 성과사업 이행 현황을 비롯한 주요 양자 현안과 지역 및 국제정세 등에 대해 협의하였다. 조 장관은 2024년 외교장관공동위 이후 2년 만에 방한한 자이샨카르 외교장관을 환영하고, 지난 4월 8년 만의 우리 정상 국빈방문 계기 한-인도 정상 간 양국 관계를 지금과는 완전히 다른 차원으로 발전시켜 나가기로 한 합의를 토대로... (중략)",
       "date": 1782281682000,
       "dateStr": "Wed, 24 Jun 2026 06:14:42 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "기획예산처, 중장기 국가발전전략 수립 관련 주요 키워드 분석 결과 발표",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767918&call_from=rsslink",
-      "description": "자세한 내용은 첨부파일을 참고해 주시기 바랍니다. [자료제공 : (www.korea.kr) ]",
-      "date": 1782281113000,
-      "dateStr": "Wed, 24 Jun 2026 06:05:13 GMT"
-    },
-    {
-      "dept": "mpb",
-      "title": "기획예산처, 「2045년, 미래 미리보기」 '중장기 국가발전전략 타운홀 미팅' 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767917&call_from=rsslink",
-      "description": "자세한 내용은 첨부파일을 참고해 주시기 바랍니다. [자료제공 : (www.korea.kr) ]",
-      "date": 1782281045000,
-      "dateStr": "Wed, 24 Jun 2026 06:04:05 GMT"
     }
   ]
 }
