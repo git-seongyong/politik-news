@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.26 11:15",
+  "lastUpdated": "06.26 11:45",
   "policynews": [
     {
       "dept": "opm",
@@ -702,6 +702,22 @@
   ],
   "pressrelease": [
     {
+      "dept": "mofa",
+      "title": "EU·NATO 및 동유럽에 우주 민관사절단 파견",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768316&call_from=rsslink",
+      "description": "외교부와 우주항공청은 EU·NATO 및 동유럽 주요국(루마니아·폴란드)과 우주 분야 협력을 다각화하고 우리 우주 기업의 해외 시장 진출을 지원하기 위해 관련 기관 및 기업*으로 구성된 민관사절단을 파견하여 현지에서 '스페이스 데이'를 개최할 예정이다. * 나라스페이스, 델타브이솔루션즈, 무인탐사연구소, 쎄트렉아이, 스페이스린텍, 스페이스빔, 우주로테크, 이노스페이스, 카이로스페이스, 텔레픽스, 한국항공우주산업, 한화시스템, 현대로템, 현대자동차 6월 29일 벨기에(브뤼셀)를 시작으로, 7월 1일 루마니아(부쿠레슈티), 7월 3일 폴... (중략)",
+      "date": 1782439200000,
+      "dateStr": "Fri, 26 Jun 2026 02:00:00 GMT"
+    },
+    {
+      "dept": "moel",
+      "title": "고용노동부, \"반복 불소 누출 사고, SK하이닉스 등 반도체 제조업\" 집중 점검 착수",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768307&call_from=rsslink",
+      "description": "- 불소 누출 사고 반복 발생한 SK하이닉스 등 반도체 제조업 25개소 대상 - 위험물질 취급시 안전수칙 및 폭발·화재 예방 등 집중 점검 고용노동부(장관 김영훈)는 최근 불소 누출 사고가 잇따라 발생한 SK하이닉스를 비롯한 반도체 제조업 25개소를 대상으로 6.26.(금)부터 집중 점검에 착수한다고 밝혔다. 반도체 제조업은 유해·위험 화학물질과 고압가스를 다량 취급하는 업종으로 화재·폭발·누출 등에 의한 중대산업사고 등 대규모 인명피해가 발생할 수 있는 대표적인 위험 업종 중 하나이다. 이에 SK하이닉스를 비롯하여, 최근 중상해재... (중략)",
+      "date": 1782437484000,
+      "dateStr": "Fri, 26 Jun 2026 01:31:24 GMT"
+    },
+    {
       "dept": "opm",
       "title": "[보도자료] 김구 탄생 150주년 유네스코 기념해 로고 발표",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768284&call_from=rsslink",
@@ -1084,22 +1100,6 @@
       "description": "자세한 내용은 첨부파일을 참고해 주시기 바랍니다. [자료제공 : (www.korea.kr) ]",
       "date": 1782281045000,
       "dateStr": "Wed, 24 Jun 2026 06:04:05 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "국가경쟁력 정책협의회 개최",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767916&call_from=rsslink",
-      "description": "이형일 재정경제부 1차관은 '26.6.24(수) 13:00 정부서울청사에서 관계부처와 민간전문가들이 참석한 가운데 「국가경쟁력 정책협의회」를 개최하였습니다. *자세한 내용은 첨부파일을 참조하시기 바랍니다. 문의. 재정경제부 경제구조개혁국 경제구조분석과 함진우 (044-215-2880) [자료제공 : (www.korea.kr) ]",
-      "date": 1782280920000,
-      "dateStr": "Wed, 24 Jun 2026 06:02:00 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "한-중, 무역기술장벽 완화를 위해 긴밀히 소통",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767907&call_from=rsslink",
-      "description": "한 - 중 , 무역기술장벽 완화를 위해 긴밀히 소통 - 제 10 차 한 - 중 FTA TBT 위원회 개최를 통해 對 중국 무역기술장벽 현안 논의 산업통상부 국가기술표준원 ( 원장 김대자 ) · 농림축산식품부 ( 장관 송미령 ) · 식품 의약품안전처 ( 처장 오유경 ) 는 ' 제 10 차 한 - 중 FTA TBT 위원회 ' 를 6 월 24 일 ( 수 ) 영상회의로 개최하여 양국의 무역기술장벽 현안과 그 해소방안을 논의하 였다고 밝혔다 . * TBT: Technical Barriers to Trade( 무역기술장벽 ) 한 - 중 FTA... (중략)",
-      "date": 1782279149000,
-      "dateStr": "Wed, 24 Jun 2026 05:32:29 GMT"
     }
   ]
 }
