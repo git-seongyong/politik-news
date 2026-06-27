@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.27 09:15",
+  "lastUpdated": "06.27 09:47",
   "policynews": [
     {
       "dept": "motir",
@@ -711,6 +711,14 @@
   "pressrelease": [
     {
       "dept": "mofa",
+      "title": "제5차 우크라이나 복구회의(URC) 참석",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768402&call_from=rsslink",
+      "description": "박종한 경제외교조정관은 6.25.(목)-26.(금) 폴란드 그단스크에서 개최된 제5차 우크라이나 복구회의(URC, Ukraine Recovery Conference)에 참석하였다. 이번 회의에는 폴란드 Tusk 총리, 우크라이나 Svyrydenko 총리, EU 집행위원회 von der Leyen 위원장, 독일 Merz 총리 등 G7, EU, 주요국 정부, 국제기구, 기업, 학계 등 각계 인사가 참석하여, 우크라이나 회복과 재건을 위한 국제사회의 지원 현황을 점검하고, 향후 협력 방향을 논의하였다. 또한 이번 URC에서는 추산 약 5... (중략)",
+      "date": 1782518400000,
+      "dateStr": "Sat, 27 Jun 2026 00:00:00 GMT"
+    },
+    {
+      "dept": "mofa",
       "title": "제5차 북한 사이버 위협 대응 한미일 외교당국 간 실무그룹 회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768401&call_from=rsslink",
       "description": "「제5차 북한 사이버 위협 대응 한미일 외교당국 간 실무그룹 회의」가 6.25.(목)-26.(금) 양일간 미국 워싱턴 D.C.에서 개최되었다. 백용진 외교부 한반도정책국장, 데이비드 와일레졸(David Wilezol) 미국 국무부 동아태국 한일 담당 부차관보, 미야케 후미토 일본 외무성 사이버정책대사를 수석대표로 하여, 한미일 3국 외교당국과 관계부처의 북핵 문제 및 사이버 분야 담당자 총 60여명이 참석하였다. 3국은 북한의 가상자산 탈취 및 세탁, IT 인력 활동 등 불법 사이버 활동 동향에 대한 평가를 공유하고, 한미일 공조를... (중략)",
@@ -1098,14 +1106,6 @@
       "title": "[보도자료] 한미전략투자공사 및 정책금융기관-조선3사간 한미 조선협력투자 업무협약 체결",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768038&call_from=rsslink",
       "description": "한미전략투자공사 , 한국수출입은행 , 한국산업은행 , 한국무역보험공사 , 한국해양진흥공사 등 정책금융기관 과 HD 현대중공업 , 삼성중공업 , 한화오션 등 국내 조선사 가 6 월 25 일 ( 목 ) ' 한미 조선 협력 투자의 효과적 이행을 위한 업무협약 (MOU)' 을 체결하였습니다. 자세한 내용은 첨부파일을 참고해주시기 바랍니다. 문의. 재정경제부 전략경제정책관 전략투자지원과 신정원 (044-215-4952) [자료제공 : (www.korea.kr) ]",
-      "date": 1782313200000,
-      "dateStr": "Wed, 24 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "정부, 무니코틴 표방 액상형 흡입제품 소비자 주의 당부",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768020&call_from=rsslink",
-      "description": "자세한 내용은 첨부된 파일을 참조해주시기 바랍니다. 문의. 재정경제부 국고정책관 출자관리과 전형용 (044-215-5171) [자료제공 : (www.korea.kr) ]",
       "date": 1782313200000,
       "dateStr": "Wed, 24 Jun 2026 15:00:00 GMT"
     }
