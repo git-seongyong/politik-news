@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.29 07:18",
+  "lastUpdated": "06.29 07:44",
   "policynews": [
     {
       "dept": "motir",
@@ -404,10 +404,34 @@
   ],
   "actually": [
     {
+      "dept": "mpb",
+      "title": "(보도설명) 지방 투자 보조금의 지원내용, 제도개편 등에 대해서는 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967241&call_from=rsslink",
+      "description": "2026년 6월 28일 보도된 서울경제 &#xFF62;대기업 지방 투자 땐 '수천억'…보조금, 투트랙으로 전면개편&#xFF63; 기사 관련입니다. 지방 투자 보조금의 지원규모, 지원기준, 제도 신설 및 개편 여부 등은 결정된 바 없음을 알려드립니다. 자세한 내용은 첨부파일을 참고해 주시기 바랍니다. [자료제공 : (www.korea.kr) ]",
+      "date": 1782662239000,
+      "dateStr": "Sun, 28 Jun 2026 15:57:19 GMT"
+    },
+    {
+      "dept": "mpb",
+      "title": "(보도설명) '27년 예산안 랜드마크 사업 및 국가재정전략회의 관련해서는 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967238&call_from=rsslink",
+      "description": "2026.6.26(금) 매일경제 \"[단독] 사상최대 초과세수 투입해 10대 랜드마크사업 키운다\", \"[단독] \"제2의 반도체 키워라\"… 제조AX 집중육성\" 기사 관련입니다. '27년 예산안의 핵심사업(소위 \"랜드마크 사업\"), 미래대응기금 신설 및 투입 여부, 국가재정전략회의 논의사항 등에 대해서는 결정된 바 없음을 알려드립니다. 자세한 내용은 첨부파일을 참고 부탁드립니다. [자료제공 : (www.korea.kr) ]",
+      "date": 1782650964000,
+      "dateStr": "Sun, 28 Jun 2026 12:49:24 GMT"
+    },
+    {
       "dept": "mofe",
       "title": "(보도설명)'26년 세법개정안의 구체적인 내용은 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967236&call_from=rsslink",
       "description": "'26.6.28. 서울경제(가판) 「인재 외치더니 ··· RSU 세혜택 결국 뺐다 」, 「'이직률3.5%' TSMC 비결은 RSU ··· \"지방인재에 파격 혜택 필요\" 」 기사 관련입니다. 자세한 내용은 첨부파일을 참고하여 주시기 바랍니다. 문의. 재정경제부 소득법인세정책관 소득세제과 김지훈 (044-215-4215) [자료제공 : (www.korea.kr) ]",
+      "date": 1782572400000,
+      "dateStr": "Sat, 27 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "dept": "mofe",
+      "title": "(보도설명) 초과세수를 대미투자 재원으로 활용하는 방안은 검토하고 있지 않습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967237&call_from=rsslink",
+      "description": "정부는 초과세수를 「 한미전략투자법 」 에 따른 대미투자의 재원으로 활용 하는 방안을 검토한 바 없으므로, 보도에 신중을 기하여 주시기 바랍니다 . 문의. 재정경제부 전략경제정책관 전략투자지원과 안경우 (044-215-4951) [자료제공 : (www.korea.kr) ]",
       "date": 1782572400000,
       "dateStr": "Sat, 27 Jun 2026 15:00:00 GMT"
     },
@@ -493,17 +517,17 @@
     },
     {
       "dept": "mofe",
-      "title": "(보도설명) 정부는 액상형 전자담배의 제도적 안착을 위해 적극 관리 중에 있습니다.",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967009&call_from=rsslink",
-      "description": "한국경제 「 정진욱 \" 합성니코틴 전자담배 16 조 탈세 의혹 ... 범정부 조사해야 \" 」 기 사 관련입니다. 자세한 내용은 첨부된 파일을 참고하여 주시기 바랍니다. 문의. 재정경제부 국고정책관 출자관리과 전형용 (044-215-5171) [자료제공 : (www.korea.kr) ]",
+      "title": "(보도설명)'26년 세법개정안의 구체적인 내용은 결정된 바 없습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967075&call_from=rsslink",
+      "description": "'26.6.24. 매일경제(가판) 「일몰 앞둔 혼인세액공제 현금성 보조금으로 전환 」, 「자녀세액공제 10만원 받던 저소득층 ··· 보조금 전환땐 55만원 」 기사 관련입니다. 자세한 내용은 첨부파일을 참고하여 주시기 바랍니다. 문의. 재정경제부 소득법인세정책관 소득세제과 김지훈 (044-215-4215) [자료제공 : (www.korea.kr) ]",
       "date": 1782226800000,
       "dateStr": "Tue, 23 Jun 2026 15:00:00 GMT"
     },
     {
       "dept": "mofe",
-      "title": "(보도설명)'26년 세법개정안의 구체적인 내용은 결정된 바 없습니다.",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967075&call_from=rsslink",
-      "description": "'26.6.24. 매일경제(가판) 「일몰 앞둔 혼인세액공제 현금성 보조금으로 전환 」, 「자녀세액공제 10만원 받던 저소득층 ··· 보조금 전환땐 55만원 」 기사 관련입니다. 자세한 내용은 첨부파일을 참고하여 주시기 바랍니다. 문의. 재정경제부 소득법인세정책관 소득세제과 김지훈 (044-215-4215) [자료제공 : (www.korea.kr) ]",
+      "title": "(보도설명) 정부는 액상형 전자담배의 제도적 안착을 위해 적극 관리 중에 있습니다.",
+      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967009&call_from=rsslink",
+      "description": "한국경제 「 정진욱 \" 합성니코틴 전자담배 16 조 탈세 의혹 ... 범정부 조사해야 \" 」 기 사 관련입니다. 자세한 내용은 첨부된 파일을 참고하여 주시기 바랍니다. 문의. 재정경제부 국고정책관 출자관리과 전형용 (044-215-5171) [자료제공 : (www.korea.kr) ]",
       "date": 1782226800000,
       "dateStr": "Tue, 23 Jun 2026 15:00:00 GMT"
     },
