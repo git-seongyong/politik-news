@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.28 12:15",
+  "lastUpdated": "06.28 12:45",
   "policynews": [
     {
       "dept": "motir",
@@ -660,14 +660,6 @@
       "dateStr": "Mon, 15 Jun 2026 01:36:40 GMT"
     },
     {
-      "dept": "mofe",
-      "title": "(보도설명) 초과세수 활용 방안 및 국부펀드 설립 방안은 결정된 바 없습니다.",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966564&call_from=rsslink",
-      "description": "※ 자세한 내용은 첨부된 파일을 참고하여 주시기 바랍니다. 문의. 재정경제부 전략경제정책관 전략경제총괄과 유형세 (044-215-4551) [자료제공 : (www.korea.kr) ]",
-      "date": 1781449200000,
-      "dateStr": "Sun, 14 Jun 2026 15:00:00 GMT"
-    },
-    {
       "dept": "opm",
       "title": "[보도설명자료] 「검찰개혁추진단, '보완수사요구권 복수안' 이르면 이번주 제출」(6.14., 한겨레) 보도 관련",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966498&call_from=rsslink",
@@ -709,6 +701,14 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "mofe",
+      "title": "허장 재경부 제2차관, 「중동 인프라 협력 TF 겸 해외수주 협의회」 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768428&call_from=rsslink",
+      "description": "허장 재정경제부 제2차관은 6.26(금) 관계부처 및 관련기관 등이 참석한 가운데 「중동 인프라 협력 TF 겸 해외수주 협의회」를 개최하였습니다. ※ 자세한 내용은 첨부파일을 참고 부탁드립니다 . 문의. 재정경제부 대외경제국 국제경제과 김연대 (044-215-7631) [자료제공 : (www.korea.kr) ]",
+      "date": 1782572400000,
+      "dateStr": "Sat, 27 Jun 2026 15:00:00 GMT"
+    },
     {
       "dept": "mofa",
       "title": "김진아 2차관, 「제2차 팍스 실리카 서밋」 참석",
@@ -1100,14 +1100,6 @@
       "description": "6.25.(목) 오전 제주 해비치호텔에서 외교부, 제주특별자치도, 국제평화재단, 동아시아재단이 공동 주최하고, 제주평화연구원이 주관하는 제21회 「평화와 번영을 위한 제주포럼(이하 제주포럼)」 개회식*이 열렸다. 「분열의 시대, 협력의 재구상(Reinventing Cooperation in a Fragmented World)」 대주제 하에 개최된 금년도 제주포럼에는 세계 각국 및 국제기구 전·현직 지도자와 고위인사, 학계 및 시민사회 전문가 등 4,500여 명이 참석하여, 다양한 국제 현안에 대한 심도 깊은 논의가 진행되고 있다. ... (중략)",
       "date": 1782348676000,
       "dateStr": "Thu, 25 Jun 2026 00:51:16 GMT"
-    },
-    {
-      "dept": "motir",
-      "title": "「2026, Seoul Premium Textile」,  원사에서 패션브랜드까지 K-섬유를 세계와 잇다",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156767998&call_from=rsslink",
-      "description": "「 2026, Seoul Premium Textile 」 , 원사에서 패션브랜드까지 K- 섬유를 세계와 잇다 . - 103 개사 · 글로벌 50 여 브랜드 참여 , 6.25~26 일 코엑스 더 플라츠에서 개최 - 원사 · 원단 · 패션기업 간 협력으로 국산 소재 활용 확대 및 공급망 경쟁력 강화 산업통상부 ( 장관 김정관 , 이하 산업부 ) 와 한국섬유수출입협회 ( 회장 방주득 ) 는 글로벌 패션소재 수주상담회 「 2026, 서울 프리미엄 텍스타일 (Seoul Premium Textile, 이하 SPT) 」 을 6 월 25 일 ( ... (중략)",
-      "date": 1782346627000,
-      "dateStr": "Thu, 25 Jun 2026 00:17:07 GMT"
     }
   ]
 }
