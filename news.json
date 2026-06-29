@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "06.29 19:15",
+  "lastUpdated": "06.29 19:44",
   "policynews": [
     {
       "dept": "motir",
@@ -710,6 +710,14 @@
   ],
   "pressrelease": [
     {
+      "dept": "mofa",
+      "title": "한국 진출 인도 기업 간담회 개최",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768694&call_from=rsslink",
+      "description": "외교부는 6.29.(월) 오후 주한인도상공회의소(Indian Chamber of Commerce in Korea)와 공동으로 한국 진출 인도 기업 간담회를 개최하고, 인도 기업들의 애로 및 건의사항을 청취하였다. ※ 참석 기업(총 6개): &#9652;Tata Daewoo Mobility &#9652;Tata Consultancy Services Asia &#9652;Avaada Green Fuel Pvt. &#9652;Air India &#9652;Indichem Inc.&#9652;Dozco (India) Pvt Ltd. 조현 ... (중략)",
+      "date": 1782727074000,
+      "dateStr": "Mon, 29 Jun 2026 09:57:54 GMT"
+    },
+    {
       "dept": "moel",
       "title": "(참고) 노동부장관-전국 지방관서장, 온열질환·추락 위험 건설현장 일제 불시점검",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768666&call_from=rsslink",
@@ -1100,14 +1108,6 @@
       "description": "우리 정부는 최근 베네수엘라에서 발생한 강진으로 인한 인명 및 재산 피해에 대한 신속한 대응과 조기 복구를 지원하고자, 현지에서 활동 중인 국제기구를 통해 500만불 규모의 인도적 지원을 제공하기로 결정하였다. ※ 유엔인도주의업무조정국(OCHA)의 2026년 세계 인도주의 개요(Global Humanitarian Overview)에 따르면, 베네수엘라는 폭우·홍수 등 빈번한 자연재해와 극단적 인플레이션 등 정치·경제적 불안정으로 인해 이미 전체 인구의 25% 이상인 790만 명이 인도적 지원을 필요로 하고 있던 상황 우리 정부는 이... (중략)",
       "date": 1782465642000,
       "dateStr": "Fri, 26 Jun 2026 09:20:42 GMT"
-    },
-    {
-      "dept": "nts",
-      "title": "국세청, 베트남 진출 우리기업의 '세금해결사'로 나섰다.",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768396&call_from=rsslink",
-      "description": "국세청, 베트남 진출 우리기업의 '세금해결사'로 나섰다. 관련 보도자료 내용입니다. [자료제공 : (www.korea.kr) ]",
-      "date": 1782465600000,
-      "dateStr": "Fri, 26 Jun 2026 09:20:00 GMT"
     }
   ]
 }
