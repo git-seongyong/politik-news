@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "07.01 12:15",
+  "lastUpdated": "07.01 12:44",
   "policynews": [
     {
       "dept": "motir",
@@ -604,14 +604,6 @@
       "dateStr": "Mon, 22 Jun 2026 15:00:00 GMT"
     },
     {
-      "dept": "motir",
-      "title": "(설명자료)나프타 수출제한 및 수급조정에 관한 규정의 조기폐지 여부는 결정된 바 없습니다",
-      "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966889&call_from=rsslink",
-      "description": "나프타 수출제한 및 수급조정에 관한 규정의 조기폐지 여부는 결정된 바 없습니다 . 보도 내용 > □ 2026.6.21.( 일 ) 서울신문 &#xFF62; 정부 , 나프타 수출제한부터 푼다 ... 중동 대응조치 정상화 시동 &#xFF63; 기사에서 \" 정부가 8 월말까지 적용하기로 했던 나프타 수출제한 조치를 조기종료하는 방안을 검토하고 있다 \" 고 보도하였습니다 . 산업부 입장 > □ &#xFF62; 나프타 수출제한 및 수급조정에 관한 규정 &#xFF63; 의 조기폐지 여부는 중동 정세 및 호르무즈 통항재개 상황 , 나프타와 석유화... (중략)",
-      "date": 1782088689000,
-      "dateStr": "Mon, 22 Jun 2026 00:38:09 GMT"
-    },
-    {
       "dept": "mofe",
       "title": "(보도설명)  '26년 세법개정안의 구체적인 내용은 결정된 바 없습니다.",
       "link": "https://www.korea.kr/briefing/actuallyView.do?newsId=148966862&call_from=rsslink",
@@ -677,6 +669,14 @@
     }
   ],
   "pressrelease": [
+    {
+      "dept": "motir",
+      "title": "바삭함은 살리고, 위험은 줄이고! 에어프라이어 안전 사용수칙 꼭 확인하세요!",
+      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156769067&call_from=rsslink",
+      "description": "바삭함은 살리고 , 위험은 줄이고 ! 에어프라이어 안전 사용수칙 꼭 확인하세요 ! - 국표원 · 소방연구원 · 소비자원 , ' 에어프라이어 안전사용 캠페인 ' 실시 - 산업통상부 국가기술표준원 ( 원장 김대자 , 이하 국표원 ), 국립소방연구원 ( 원장 김연상 , 이하 소방연구원 ) 및 한국소비자원 ( 원장 윤수현 , 이하 소비자원 ) 은 에어프라이어로 인한 화재 및 화상사고를 예방하기 위해 안전 사용수칙을 안내하는 ' 에어프라이어 안전사용 캠페인 ' 을 공동으로 실시한다 . 최근 조리의 편의성으로 가정 내 에어프라이어 사용이 증가... (중략)",
+      "date": 1782873028000,
+      "dateStr": "Wed, 01 Jul 2026 02:30:28 GMT"
+    },
     {
       "dept": "motir",
       "title": "시멘트 업계, 탄소중립 이행과  ESG 경영으로 지속가능한 내일을 연다",
@@ -1066,14 +1066,6 @@
       "title": "WGBI 상시점검 및 투자유치 추진단 제8차 회의 개최",
       "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768858&call_from=rsslink",
       "description": "재정경제부는 황순관 국고실장 주재로 '26. 6. 30(화) 11:00 정부서울청사에서 'WGBI 상시점검 및 투자유치 추진단' 제8차 회의를 개최하였습니다. * 첨부된 자료를 참고해주시기 바랍니다. 문의. 재정경제부 국고정책관 국채시장과 김상규 (044-215-5142) [자료제공 : (www.korea.kr) ]",
-      "date": 1782745200000,
-      "dateStr": "Mon, 29 Jun 2026 15:00:00 GMT"
-    },
-    {
-      "dept": "mofe",
-      "title": "국민 생활을 더 편리하고 풍요롭게 만드는 2026년 하반기 정책변화 안내서 발간",
-      "link": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768755&call_from=rsslink",
-      "description": "재정경제부 는 하반기 부터 새롭게 시행되거나 변경되는 제도 와 법규사항 등을 알기 쉽게 정리한 「 2026 년 하반기부터 이렇게 달라집니다 」 책자 를 발간하였습니다. 자세한 내용은 붙임 파일을 참조하시기 바랍니다. 문의. 재정경제부 정책기획관 혁신정책담당관 박인원 (044-215-2552) [자료제공 : (www.korea.kr) ]",
       "date": 1782745200000,
       "dateStr": "Mon, 29 Jun 2026 15:00:00 GMT"
     }
